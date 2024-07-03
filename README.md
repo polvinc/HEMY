@@ -32,10 +32,9 @@ Hey! Help me out for a couple of :beers: !
 
 # Assembly
 
-<p align="center">
-  <img src="images/explode_view_1.png" width="48.4%">
-  <img src="images/explode_view_2.png" width="48.4%">
-</p>
+![asm1](/images/explode_view_1.png)
+![asm2](/images/explode_view_2.png)
+![asm3](/images/BOM_1.png)
 
 
 ## Harmonic drive
