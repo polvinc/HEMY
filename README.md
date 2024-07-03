@@ -1,3 +1,8 @@
+
+### Ongoing repo
+
+
+
 # HEM*Y*: Harmonic Equatorial Mount *Yourself*
 ## What the hell is this HEM*Y* thing?
 
@@ -32,6 +37,9 @@ Hey! Help me out for a couple of :beers: !
 
 # Assembly
 
+## Please read PDF drawings
+## Please watch STEP files
+
 ![asm1](/images/explode_view_1.png)
 ![asm2](/images/explode_view_2.png)
 ![asm3](/images/BOM_1.png)
@@ -58,5 +66,3 @@ Using [OnStep's configurator spreadsheet](http://o.baheyeldin.com:1111), I chose
 ![prt3](/HEMY_parts_2.png)
 ![prt1](/Base_parts.png)
 
-
-Ongoing repo
