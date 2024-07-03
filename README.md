@@ -54,5 +54,9 @@ On AliExpress, you can find [HBS-17](https://fr.aliexpress.com/item/100500710136
 Using [OnStep's configurator spreadsheet](http://o.baheyeldin.com:1111), I chose to drive the harmonic gearbox with a belt/pulley couple, in order to achieve good tracking resolution, a good slew rate and a good number of steps/deg. The reduction ratio is 1/5 on RA, and 1/3 on DEC.
 
 
+![prt2](/HEMY_parts_1.png)
+![prt3](/HEMY_parts_2.png)
+![prt1](/Base_parts.png)
+
 
 Ongoing repo
