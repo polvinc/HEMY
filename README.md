@@ -1,4 +1,4 @@
-# HEM*Y*: Harmonic Equatorial Mount *Yourself*
+# <span style="color: red">HEM*Y*</span>: Harmonic Equatorial Mount *Yourself*
 ## What the hell is this HEM*Y* thing?
 
 HEMY (Harmonic Equatorial Mount *Yourself*) is an open-source harmonic equatorial mount for observation or astrophotography. It is based on the use of a harmonic reducer. The mount is designed to be inexpensive in relation to its performance, transportable, with a relatively large load capacity. Most importantly, this mount is easy to build: no need for machine tools or other laser-cutting-water-jet-plasma-turbo-piston-5-axis machines, you can order the CNC aluminium parts for less than 300€. A shopping list, a screwdriver, a saw and some resourcefulness: you've got everything you need to make an HEM*Y*. The ultimate aim is to distribute its design as an open-source product for personal use.
