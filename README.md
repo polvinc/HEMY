@@ -44,7 +44,7 @@ Harmonic gearboxes ([wikipedia](https://en.wikipedia.org/wiki/Strain_wave_gearin
 Put another way, in the case of an astronomical mount: they can drive much heavier loads without the need for counterweights, all with a very low self-weight!
 
 The harmonic reducer model chosen [CSF-17-100-2UH](https://harmonicdrive.de/fileadmin/user_upload/Harmonic_Drive_Gears_EN_1050860_06_2022.pdf#page=50) is the same as [Alan](https://alanz.info/posts/2022/07/diy-mount/) DIY mount. You can find lots of them on ebay. This one has a reduction ratio of 1/100. It has the good fortune to meet my requirements, and to have been tested for another equatorial mount. Why deprive yourself? According to datasheet, it can handle more than 50Nm of torque and it also has a very comfortable permissible radial load of over 70Kg.
-On AliExpress, you can find [HBS-17]https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra), much cheaper.
+On AliExpress, you can find [HBS-17](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra), much cheaper.
 
 <p align="center">
   <img src="images/OnStep_calc.png" width="96.8%">
