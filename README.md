@@ -2,22 +2,22 @@
 ### Ongoing repo
 
 
-![drawing01](HEMY_Drawing_00001.png)
-![drawing02](HEMY_Drawing_00002.png)
-![drawing03](HEMY_Drawing_00003.png)
-![drawing04](HEMY_Drawing_00004.png)
-![drawing05](HEMY_Drawing_00005.png)
-![drawing06](HEMY_Drawing_00006.png)
-![drawing07](HEMY_Drawing_00007.png)
-![drawing08](HEMY_Drawing_00008.png)
-![drawing09](HEMY_Drawing_00009.png)
-![drawing10](HEMY_Drawing_00010.png)
-![drawing11](HEMY_Drawing_00011.png)
-![drawing12](HEMY_Drawing_00012.png)
-![drawing13](HEMY_Drawing_00013.png)
-![drawing14](HEMY_Drawing_00014.png)
-![drawing15](HEMY_Drawing_00015.png)
-![drawing16](HEMY_Drawing_00016.png)
+![drawing01](/drawings/HEMY_Drawing_00001.png)
+![drawing02](/drawings/HEMY_Drawing_00002.png)
+![drawing03](/drawings/HEMY_Drawing_00003.png)
+![drawing04](/drawings/HEMY_Drawing_00004.png)
+![drawing05](/drawings/HEMY_Drawing_00005.png)
+![drawing06](/drawings/HEMY_Drawing_00006.png)
+![drawing07](/drawings/HEMY_Drawing_00007.png)
+![drawing08](/drawings/HEMY_Drawing_00008.png)
+![drawing09](/drawings/HEMY_Drawing_00009.png)
+![drawing10](/drawings/HEMY_Drawing_00010.png)
+![drawing11](/drawings/HEMY_Drawing_00011.png)
+![drawing12](/drawings/HEMY_Drawing_00012.png)
+![drawing13](/drawings/HEMY_Drawing_00013.png)
+![drawing14](/drawings/HEMY_Drawing_00014.png)
+![drawing15](/drawings/HEMY_Drawing_00015.png)
+![drawing16](/drawings/HEMY_Drawing_00016.png)
 
 
 
