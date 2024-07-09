@@ -53,7 +53,7 @@ Hey! Help me out for a couple of :beers: !
 | Name | Quantity | Reference | Price € | Link |
 | -------- | -------- | -------- | -------- | -------- |
 20mm Bosch Rexroth profile | 1 | 212-3292 | 25 | [RS components](https://fr.rs-online.com/web/p/tubes-et-profiles-de-structures/2123292?gb=s)
-T-nuts | 64 | 466-7281 | 70 | [RS components](https://fr.rs-online.com/web/p/raccords-pour-elements-de-structure/4667281)
+T-nuts | a few | 2020 M5 | 1 | [Aliexpress](https://fr.aliexpress.com/item/32964780472.html?algo_exp_id=a04600f4-46e6-4172-a38e-306fd5ee18f9-1&utparam-url=scene%3Asearch%7Cquery_from%3A)
 Dovetail Clamp | 1 | NEEWER QR011 | 35 | [Amazon FR](https://www.amazon.fr/dp/B0C3CGNSYG?psc=1)
 Guide Clamp | 1 | NEEWER LS-15 | 18 | [Amazon FR](https://www.amazon.fr/dp/B0C4DV3Q1P?psc=1)
 Bearing | 2 | 18307RS | 2 | [Amazon FR](https://www.amazon.fr/dp/B0832Y86RX?psc=1)
