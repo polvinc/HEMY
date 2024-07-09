@@ -60,16 +60,12 @@ Bearing | 2 | 18307RS | 2 | [Amazon FR](https://www.amazon.fr/dp/B0832Y86RX?psc=
 M6 blockage | 1 | - | 2 | [Amazon FR](https://www.amazon.fr/dp/B0B1C4XX65?psc=1)
 Lobe knob | 2 | M6x30 | - | [Amazon FR](https://www.amazon.fr/dp/B093TG48N6?psc=1)
 Dovetail Clamp | 1 | EUF9144C | 35 | [Amazon FR](https://www.amazon.fr/dp/B081JNJPV2?psc=1)
-Lobe knob | 2 | M6x30 | - | 
-Lobe knob | 1 | M6x50 | - | 
-Lobe knob | 2 | M6x16 | - | 
-Lobe knob | 2 | M8 | - | 
-
-
-
-
-| Nema 17 0.9° double shaft| 2 | 17HS15-1584S-MG10 | 15 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
-Harmonic Drive reduction 1:100| 2 | HBS-17 | 550 | [Aliexpress](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra)
+Lobe knobs | 2 | M6x30 | - | 
+Lobe knobs | 1 | M6x50 | - | 
+Lobe knobs | 2 | M6x16 | - | 
+Lobe knobs | 2 | M8 | - | 
+Nema 17 0.9° double shaft| 2 | 17HS15-1584S-MG10 | 15 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
+Harmonic Drive reduction 1:100| 2 | HBS-17 | 68 | [Aliexpress](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra)
 RJ45 connector | 2 | MRJ5380M1 | 35 | [Farnell](https://fr.farnell.com/amphenol-communications-solutions/mrj5380m1/conn-rj45-90-jack-8p8c-1-port/dp/4122450)
 CNC parts | 18 | - | 330 HT | [JLC3DP](https://jlcpcb.com/)
 
