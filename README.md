@@ -54,8 +54,20 @@ Hey! Help me out for a couple of :beers: !
 | -------- | -------- | -------- | -------- | -------- |
 20mm Bosch Rexroth profile | 1 | 212-3292 | 25 | [RS components](https://fr.rs-online.com/web/p/tubes-et-profiles-de-structures/2123292?gb=s)
 T-nuts | 64 | 466-7281 | 70 | [RS components](https://fr.rs-online.com/web/p/raccords-pour-elements-de-structure/4667281)
-Dovetail Clamp | 1 | EUF9144C | 30 | [Amazon FR](https://www.amazon.fr/gp/product/B08TC111QC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-Dovetail Mounting Plate | 1 | EUF9175B | 20 | [Amazon FR](https://www.amazon.fr/gp/product/B08XLWP13X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+Dovetail Clamp | 1 | NEEWER QR011 | 35 | [Amazon FR](https://www.amazon.fr/dp/B0C3CGNSYG?psc=1)
+Guide Clamp | 1 | NEEWER LS-15 | 18 | [Amazon FR](https://www.amazon.fr/dp/B0C4DV3Q1P?psc=1)
+Bearing | 2 | 18307RS | 2 | [Amazon FR](https://www.amazon.fr/dp/B0832Y86RX?psc=1)
+M6 blockage | 1 | - | 2 | [Amazon FR](https://www.amazon.fr/dp/B0B1C4XX65?psc=1)
+Lobe knob | 2 | M6x30 | - | [Amazon FR](https://www.amazon.fr/dp/B093TG48N6?psc=1)
+Dovetail Clamp | 1 | EUF9144C | 35 | [Amazon FR](https://www.amazon.fr/dp/B081JNJPV2?psc=1)
+Lobe knob | 2 | M6x30 | - | 
+Lobe knob | 1 | M6x50 | - | 
+Lobe knob | 2 | M6x16 | - | 
+Lobe knob | 2 | M8 | - | 
+
+
+
+
 | Nema 17 0.9° double shaft| 2 | 17HS15-1584S-MG10 | 15 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
 Harmonic Drive reduction 1:100| 2 | HBS-17 | 550 | [Aliexpress](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra)
 RJ45 connector | 2 | MRJ5380M1 | 35 | [Farnell](https://fr.farnell.com/amphenol-communications-solutions/mrj5380m1/conn-rj45-90-jack-8p8c-1-port/dp/4122450)
