@@ -30,24 +30,33 @@ Hey! Help me out for a couple of :beers: !
 ## Please read PDF drawings
 ## Please watch STEP files
 ## BOM
-| Name | Quantity | Reference | Price € | Link |
+| Name | Quantity | Reference | Price € | Total (€) | Link |
 | -------- | -------- | -------- | -------- | -------- |
-20mm Bosch Rexroth profile | 1 | 212-3292 | 25 | [RS components](https://fr.rs-online.com/web/p/tubes-et-profiles-de-structures/2123292?gb=s)
-T-nuts | a few | 2020 M5 | 1 | [Aliexpress](https://fr.aliexpress.com/item/32964780472.html?algo_exp_id=a04600f4-46e6-4172-a38e-306fd5ee18f9-1&utparam-url=scene%3Asearch%7Cquery_from%3A)
-Dovetail Clamp | 1 | NEEWER QR011 | 35 | [Amazon FR](https://www.amazon.fr/dp/B0C3CGNSYG?psc=1)
-Guide Clamp | 1 | NEEWER LS-15 | 18 | [Amazon FR](https://www.amazon.fr/dp/B0C4DV3Q1P?psc=1)
-Bearing | 2 | 18307RS | 2 | [Amazon FR](https://www.amazon.fr/dp/B0832Y86RX?psc=1)
-M6 blockage | 1 | - | 2 | [Amazon FR](https://www.amazon.fr/dp/B0B1C4XX65?psc=1)
-Lobe knob | 2 | M6x30 | - | [Amazon FR](https://www.amazon.fr/dp/B093TG48N6?psc=1)
-Dovetail Clamp | 1 | EUF9144C | 35 | [Amazon FR](https://www.amazon.fr/dp/B081JNJPV2?psc=1)
-Lobe knobs | 2 | M6x30 | - | 
-Lobe knobs | 1 | M6x50 | - | 
-Lobe knobs | 2 | M6x16 | - | 
-Lobe knobs | 2 | M8 | - | 
-Nema 17 0.9° double shaft| 2 | 17HS15-1584S-MG10 | 15 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
-Harmonic Drive reduction 1:100| 2 | HBS-17 | 68 | [Aliexpress](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra)
-RJ45 connector | 2 | MRJ5380M1 | 35 | [Farnell](https://fr.farnell.com/amphenol-communications-solutions/mrj5380m1/conn-rj45-90-jack-8p8c-1-port/dp/4122450)
-CNC parts | 18 | - | 330 HT | [JLC3DP](https://jlcpcb.com/)
+Washer M8x10x1 | 2 | M8x10x1 | 0,02 | 0,04 | [Aliexpress](https://www.aliexpress.com/item/1005006924477321.html)
+Hex Brass Male Female | 4 | M3x20x6 FM | 0,2 | 0,8 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html)
+Hex Brass Male Female | 4 | M3x25x6 FM | 0,25 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html)
+Brass Standoffs Hex | 4 | M3x8 FF | 0,08 | 0,32 | [Aliexpress](https://www.aliexpress.com/item/1005006049595637.html)
+Stainless Steel Cylindrical Locating Dowel | 2 | M8x45mm | 1,5 | 3 | [Aliexpress](https://www.aliexpress.com/item/1005007181161819.html)
+TA6212Z 62x74x12 | 2 | TA6212Z 62x74x12 | 5 | 10 | [Aliexpress](https://www.aliexpress.com/item/1005006993881258.html)
+Stainless Steel Adjusting Shim | 10 | M8x14xThick 100pcs, Thick 0.2mm | 0,02 | 0,2 | [Aliexpress](https://www.aliexpress.com/item/1005002374937009.html)
+Hexagonal socket head cap screw | 1 | M6 shoulder dia 8mm, 60mm | 1,8 | 1,8 | [Aliexpress](https://www.aliexpress.com/item/1005006435736666.html)
+Adjustable Handle Lever | 1 | M6 | 1,7 | 1,7 | [Aliexpress](https://www.aliexpress.com/item/4000304505877.html)
+Fixing Ring | 1 | SOH6 6x12x6mm | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004569679247.html)
+Clamping knob | 1 | 54mm, M6 Screw Red Thumb | 3,2 | 3,2 | [Aliexpress](https://www.aliexpress.com/item/1005005273704474.html)
+Clamping knob | 2 | M6, 16mm | 1,8 | 3,6 | [Aliexpress](https://www.aliexpress.com/item/1005004015129468.html)
+Clamping knob | 2 | M6, 50mm | 1,9 | 3,8 | [Aliexpress](https://www.aliexpress.com/item/1005004015129468.html)
+Barrel Bolts | 1 | M6x20 | 2 | 2 | [Aliexpress](https://www.aliexpress.com/item/1005005881148659.html)
+Harmonic Drive | 2 | HBS-17, Reduction ratio 100 | 70 | 140 | [Aliexpress](https://www.aliexpress.com/item/1005007101363756.html)
+20x20 Alu profile | 3 | 20x20x100mm | 3,5 | 10,5 | [Aliexpress](https://www.aliexpress.com/item/1005002537611699.html)
+T-nuts | 20 |  T-nut 2020 M5  | 0,07 | 1,4 | [Aliexpress](https://www.aliexpress.com/item/32964780472.html)
+T-nuts | 4 |  T-nut 2020 M4 | 0,05 | 0,2 | [Aliexpress](https://www.aliexpress.com/item/32964780472.html)
+Bearing  | 2 |  18307RS  | 1 | 2 | [Aliexpress](https://www.aliexpress.com/item/1005006822711801.html)
+20x20 Alu profile rounded | 1 | 2020R 20x20x100mm | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004571007033.html)
+Nema 17 0.9° double shaft | 2 | 17HS15-1584S-MG10  | 15 | 30 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
+Nema 17 brake | 1 |  | 34 | 34 | [StepperOnline](https://www.omc-stepperonline.com/fr/dc-frein-electromagnetique-24v-0-25nm-35-4oz-in-pour-nema-17-moteur-pas-a-pas-swb-01)
+ |  |  |  |  | 
+CNC parts  | 18 |  -  | 330 HT  | 330 HT  |  [JLC3DP](https://jlcpcb.com/)
+Electronics TeenAstro | 1 |  - | 50 HT | 50 HT |  [JLCPCB](https://jlcpcb.com/)
 
 
 ## Harmonic drive
