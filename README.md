@@ -1,26 +1,6 @@
 
 ### Ongoing repo
 
-
-![drawing01](/drawings/HEMY_Drawing_00001.png)
-![drawing02](/drawings/HEMY_Drawing_00002.png)
-![drawing03](/drawings/HEMY_Drawing_00003.png)
-![drawing04](/drawings/HEMY_Drawing_00004.png)
-![drawing05](/drawings/HEMY_Drawing_00005.png)
-![drawing06](/drawings/HEMY_Drawing_00006.png)
-![drawing07](/drawings/HEMY_Drawing_00007.png)
-![drawing08](/drawings/HEMY_Drawing_00008.png)
-![drawing09](/drawings/HEMY_Drawing_00009.png)
-![drawing10](/drawings/HEMY_Drawing_00010.png)
-![drawing11](/drawings/HEMY_Drawing_00011.png)
-![drawing12](/drawings/HEMY_Drawing_00012.png)
-![drawing13](/drawings/HEMY_Drawing_00013.png)
-![drawing14](/drawings/HEMY_Drawing_00014.png)
-![drawing15](/drawings/HEMY_Drawing_00015.png)
-![drawing16](/drawings/HEMY_Drawing_00016.png)
-
-
-
 # HEM*Y*: Harmonic Equatorial Mount *Yourself*
 ## What the hell is this HEM*Y* thing?
 
