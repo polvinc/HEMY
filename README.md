@@ -41,6 +41,13 @@ Hey! Help me out for a couple of :beers: !
 ![dwg10](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00010.jpeg)
 ![dwg11](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00011.jpeg)
 
+![dwgb01](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00001.jpeg)
+![dwgb02](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00002.jpeg)
+![dwgb03](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00003.jpeg)
+![dwgb04](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00004.jpeg)
+![dwgb05](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00005.jpeg)
+![dwgb06](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00006.jpeg)
+
 ## Please watch STEP files
 ## BOM
 | Name | Quantity | Reference | Price € | Total (€) | Link |
