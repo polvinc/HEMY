@@ -28,6 +28,19 @@ Hey! Help me out for a couple of :beers: !
 # Assembly
 
 ## Please read PDF drawings
+
+![dwg01](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00001.jpeg)
+![dwg02](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00002.jpeg)
+![dwg03](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00003.jpeg)
+![dwg04](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00004.jpeg)
+![dwg05](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00005.jpeg)
+![dwg06](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00006.jpeg)
+![dwg07](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00007.jpeg)
+![dwg08](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00008.jpeg)
+![dwg09](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00009.jpeg)
+![dwg10](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00010.jpeg)
+![dwg11](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00011.jpeg)
+
 ## Please watch STEP files
 ## BOM
 | Name | Quantity | Reference | Price € | Total (€) | Link |
