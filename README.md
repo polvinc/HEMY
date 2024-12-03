@@ -31,7 +31,7 @@ Hey! Help me out for a couple of :beers: !
 ## Please watch STEP files
 ## BOM
 | Name | Quantity | Reference | Price € | Total (€) | Link |
-| -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- |
 Washer M8x10x1 | 2 | M8x10x1 | 0,02 | 0,04 | [Aliexpress](https://www.aliexpress.com/item/1005006924477321.html)
 Hex Brass Male Female | 4 | M3x20x6 FM | 0,2 | 0,8 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html)
 Hex Brass Male Female | 4 | M3x25x6 FM | 0,25 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html)
@@ -54,7 +54,6 @@ Bearing  | 2 |  18307RS  | 1 | 2 | [Aliexpress](https://www.aliexpress.com/item/
 20x20 Alu profile rounded | 1 | 2020R 20x20x100mm | 1 | 1 | [Aliexpress](https://www.aliexpress.com/item/1005004571007033.html)
 Nema 17 0.9° double shaft | 2 | 17HS15-1584S-MG10  | 15 | 30 | [StepperOnline](https://www.omc-stepperonline.com/fr/biaxial-nema-17-bipolaire-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-fils-17hm19-1684d)
 Nema 17 brake | 1 |  | 34 | 34 | [StepperOnline](https://www.omc-stepperonline.com/fr/dc-frein-electromagnetique-24v-0-25nm-35-4oz-in-pour-nema-17-moteur-pas-a-pas-swb-01)
- |  |  |  |  | 
 CNC parts  | 18 |  -  | 330 HT  | 330 HT  |  [JLC3DP](https://jlcpcb.com/)
 Electronics TeenAstro | 1 |  - | 50 HT | 50 HT |  [JLCPCB](https://jlcpcb.com/)
 
