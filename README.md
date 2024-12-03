@@ -1,5 +1,5 @@
 
-### Ongoing repo
+# Ongoing repo
 The repository is still under construction, as I still haven't been able to test the HEMY mount as much as I'd like. Prior to the v1.1 upgrade, which corrected certain aspects of its performance, I was able to guide an equipped scope (total 13kg) with less than 1 arcsec in guiding. The v1.1 upgrade should improve guiding performance.
 
 # HEM*Y*: Harmonic Equatorial Mount *Yourself*
