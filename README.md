@@ -49,30 +49,30 @@ Hey! Help me out for a couple of :beers: !
 ![dwgb05](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00005.jpeg)
 
 <p align="center">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00001.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00002.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00003.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00004.jpeg" width="20%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00001.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00002.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00003.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00004.jpeg" width="24%">
 </p> <p align="center">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00005.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00006.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00007.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00008.jpeg" width="20%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00005.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00006.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00007.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00008.jpeg" width="24%">
 </p> <p align="center">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00009.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00010.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00011.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00012.jpeg" width="20%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00009.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00010.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00011.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00012.jpeg" width="24%">
 </p> <p align="center">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00013.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00014.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00015.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00016.jpeg" width="20%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00013.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00014.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00015.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00016.jpeg" width="24%">
 </p> <p align="center">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00017.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00018.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00019.jpeg" width="20%">
-  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00020.jpeg" width="20%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00017.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00018.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00019.jpeg" width="24%">
+  <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00020.jpeg" width="24%">
 </p>
 
 
