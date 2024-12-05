@@ -79,11 +79,25 @@ TODO
 ## HEM*Y* Base drawings
 TODO
 
-![dwgb01](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00001.jpeg)
-![dwgb02](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00002.jpeg)
-![dwgb03](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00003.jpeg)
-![dwgb04](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00004.jpeg)
-![dwgb05](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00005.jpeg)
+<p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00001.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00002.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00003.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00004.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00005.jpeg" width="49%">
+  </a>
+</p>
 
 
 ## HEM*Y* Parts catalog drawings
