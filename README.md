@@ -34,17 +34,46 @@ TODO
 ## HEM*Y* Mount drawings
 TODO
 
-![dwg01](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00001.jpeg)
-![dwg02](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00002.jpeg)
-![dwg03](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00003.jpeg)
-![dwg04](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00004.jpeg)
-![dwg05](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00005.jpeg)
-![dwg06](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00006.jpeg)
-![dwg07](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00007.jpeg)
-![dwg08](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00008.jpeg)
-![dwg09](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00009.jpeg)
-![dwg10](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00010.jpeg)
-![dwg11](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00011.jpeg)
+<p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00001.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00002.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00003.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00004.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00005.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00006.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00007.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00008.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00009.jpeg" width="49%">
+  </a>
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00010.jpeg" width="49%">
+  </a>
+</p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
+    <img src="drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00011.jpeg" width="49%">
+  </a>
+</p>
 
 
 ## HEM*Y* Base drawings
@@ -72,8 +101,8 @@ TODO
   <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
     <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00004.jpeg" width="24%">
   </a>
-  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
 </p> <p align="center">
+  <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
     <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00005.jpeg" width="24%">
   </a>
   <a href="drawings/v1.1/pdf/Drawing_HEMY_Parts.pdf" target="_blank">
