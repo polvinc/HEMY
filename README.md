@@ -170,7 +170,6 @@ TODO
 </p>
 
 
-## Please watch STEP files
 ## BOM
 TODO
 
