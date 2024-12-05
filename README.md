@@ -25,10 +25,14 @@ Hey! Help me out for a couple of :beers: !
 
 ## What are the specifications
 
+TODO
 
 # Assembly
 
-## Please read PDF drawings
+TODO
+
+## HEM*Y* Mount drawings
+TODO
 
 ![dwg01](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00001.jpeg)
 ![dwg02](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00002.jpeg)
@@ -42,11 +46,19 @@ Hey! Help me out for a couple of :beers: !
 ![dwg10](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00010.jpeg)
 ![dwg11](drawings/v1.1/jpg/HEMY_v1.1_mount_drawing_00011.jpeg)
 
+
+## HEM*Y* Base drawings
+TODO
+
 ![dwgb01](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00001.jpeg)
 ![dwgb02](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00002.jpeg)
 ![dwgb03](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00003.jpeg)
 ![dwgb04](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00004.jpeg)
 ![dwgb05](drawings/v1.1/jpg/HEMY_v1.1_base_drawing_00005.jpeg)
+
+
+## HEM*Y* Parts catalog drawings
+TODO
 
 <p align="center">
   <img src="drawings/v1.1/jpg/HEMY_v1.1_parts_drawing_00001.jpeg" width="24%">
@@ -78,6 +90,9 @@ Hey! Help me out for a couple of :beers: !
 
 ## Please watch STEP files
 ## BOM
+TODO
+
+
 | Name | Quantity | Reference | Price € | Total (€) | Link |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 Washer M8x10x1 | 2 | M8x10x1 | 0,02 | 0,04 | [Aliexpress](https://www.aliexpress.com/item/1005006924477321.html)
@@ -113,6 +128,9 @@ Put another way, in the case of an astronomical mount: they can drive much heavi
 
 The harmonic reducer model chosen [CSF-17-100-2UH](https://harmonicdrive.de/fileadmin/user_upload/Harmonic_Drive_Gears_EN_1050860_06_2022.pdf#page=50) is the same as [Alan](https://alanz.info/posts/2022/07/diy-mount/) DIY mount. You can find lots of them on ebay. This one has a reduction ratio of 1/100. It has the good fortune to meet my requirements, and to have been tested for another equatorial mount. Why deprive yourself? According to datasheet, it can handle more than 50Nm of torque and it also has a very comfortable permissible radial load of over 70Kg.
 On AliExpress, you can find [HBS-17](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra), much cheaper (used for HEMY).
+
+
+TODO TeenAstro
 
 <p align="center">
   <img src="images/OnStep_calc.png" width="96.8%">
