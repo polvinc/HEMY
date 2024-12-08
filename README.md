@@ -32,6 +32,9 @@ TODO
 TODO
 
 ## HEM*Y* Mount drawings
+
+/!\ The pulleys are 16T and 60T for DEC. The reduction ratio is 3.75:1 instead of 3:1...
+
 TODO
 
 <p align="center">
@@ -211,10 +214,6 @@ The harmonic reducer model chosen [CSF-17-100-2UH](https://harmonicdrive.de/file
 On AliExpress, you can find [HBS-17](https://fr.aliexpress.com/item/1005007101363756.html?gatewayAdapt=glo2fra), much cheaper (used for HEMY).
 
 
-TODO TeenAstro
+TODO TeenAstro Redux Electronics / OnstepX
 
-<p align="center">
-  <img src="images/OnStep_calc.png" width="96.8%">
-</p>
-
-Using [OnStep's configurator spreadsheet](http://o.baheyeldin.com:1111), I chose to drive the harmonic gearbox with a belt/pulley couple, in order to achieve good tracking resolution, a good slew rate and a good number of steps/deg. The reduction ratio is 1/5 on RA, and 1/3 on DEC.
+Using [OnStep's configurator spreadsheet](http://o.baheyeldin.com:1111), I chose to drive the harmonic gearbox with a belt/pulley couple, in order to achieve good tracking resolution, a good slew rate and a good number of steps/deg.
