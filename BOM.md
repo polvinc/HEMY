@@ -13,9 +13,9 @@
 | D08 | Nema 17 0.9° double shaft | 2 | 17HS15-1584D-MG10  | 15 | 15 | [StepperOnline](https://www.omc-stepperonline.com/dual-shaft-nema-17-bipolar-0-9deg-44ncm-62-48oz-in-1-68a-2-8v-42x42x48mm-4-wires-17hm19-1684d)
 | D09 | Nema 17 0.9° single shaft | 2 | 17HS15-1584S-MG10  | 15 | 15 | [StepperOnline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-44ncm-62-3oz-in-1-68a-2-8v-42x42x47mm-4-wires-17hm19-1684s)
 | D10 | Stainless Steel Cylindrical Locating Dowel | 2 | M8x45mm | 1,5 | 3 | [Aliexpress](https://www.aliexpress.com/item/1005007181161819.html)
-| D11 | GT2 Pulley | 2 | 5mm hole - 16T | US$0.99 | US$1.98 | [Aliexpress](https://www.aliexpress.us/item/1005006251245390.html) |
-| D12 | GT2 Pulley | 1 | 5mm hole - 60T | US$3.93 | | [Aliexpress](https://www.aliexpress.us/item/1005007680675119.html) |
-| D13 | GT2 Pulley | 1 | 5mm hole - 80T | US$3.71 | | [Aliexpress](https://www.aliexpress.us/item/1005006150326586.html) |
+| D11 | GT2 Pulley | 2 | 5mm hole, 6mm width - 16T | US$0.99 | US$1.98 | [Aliexpress](https://www.aliexpress.us/item/1005006251245390.html) |
+| D12 | GT2 Pulley | 1 | 8mm hole, 6mm width - 60T | US$3.93 | | [Aliexpress](https://www.aliexpress.us/item/1005007680675119.html) |
+| D13 | GT2 Pulley | 1 | 8mm hole, 6mm width - 80T | US$3.71 | | [Aliexpress](https://www.aliexpress.us/item/1005006150326586.html) |
 | D14 | GT2 Belt | 1 | 150mm (154mm optional) | US$1.57 | | [Aliexpress](https://www.aliexpress.us/item/1005004100120790.html) |
 | D15 | GT2 Belt | 1 | 200mm (180mm optional) | US$0.99 | | [Aliexpress](https://www.aliexpress.us/item/32477498985.html) |
 | D16 | Hex Brass Male Female | 4 | M3x20x6 FM | 0,2 | 0,8 | [Aliexpress](https://www.aliexpress.com/item/1005005462128073.html)
