@@ -4,6 +4,7 @@ The repository is still under construction, as I still haven't been able to test
 
 # V2 is almost ready
 See [drawing](drawings/v2.0/HEMY2-MainDrawing.pdf).
+See [electronics](https://oshwlab.com/pololamag/hemy-2-0).
 
 
 # HEM*Y*: Harmonic Equatorial Mount *Yourself*
