@@ -1,0 +1,1424 @@
+
+/Users/paulvincent/Library/Caches/arduino/sketches/47A246092F836C850D69A6AD860041C4/OnStepX.ino.elf:     file format elf32-littlearm
+
+SYMBOL TABLE:
+60000000 l    d  .text.headers	00000000 .text.headers
+60001400 l    d  .text.code	00000000 .text.code
+60001cb8 l    d  .text.progmem	00000000 .text.progmem
+00000000 l    d  .text.itcm	00000000 .text.itcm
+00025ea0 l    d  .fini	00000000 .fini
+00025ea4 l    d  .ARM.exidx	00000000 .ARM.exidx
+20000000 l    d  .data	00000000 .data
+20004ec0 l    d  .bss	00000000 .bss
+20200000 l    d  .bss.dma	00000000 .bss.dma
+6002cc6c l    d  .text.csf	00000000 .text.csf
+00000000 l    d  .debug_info	00000000 .debug_info
+00000000 l    d  .debug_abbrev	00000000 .debug_abbrev
+00000000 l    d  .debug_line	00000000 .debug_line
+00000000 l    d  .debug_frame	00000000 .debug_frame
+00000000 l    d  .debug_str	00000000 .debug_str
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000000 l    d  .comment	00000000 .comment
+00000000 l    d  .debug_loclists	00000000 .debug_loclists
+00000000 l    d  .debug_aranges	00000000 .debug_aranges
+00000000 l    d  .debug_rnglists	00000000 .debug_rnglists
+00000000 l    d  .debug_line_str	00000000 .debug_line_str
+00000000 l    df *ABS*	00000000 bootdata.c
+00000000 l    df *ABS*	00000000 startup.c
+60001400 l     F .text.code	00000012 memory_copy
+60001414 l     F .text.code	0000001c memory_clear.constprop.0
+60001430 l     F .text.code	00000218 ResetHandler2
+00000000 l    df *ABS*	00000000 WireIMXRT.cpp
+00000000 l    df *ABS*	00000000 analog.c
+20006aab l     O .bss	00000001 calibrating
+00000000 l    df *ABS*	00000000 tempmon.c
+20006264 l     O .bss	00000004 s_hotCount
+20006268 l     O .bss	00000004 s_hotTemp
+2000626c l     O .bss	00000004 s_hot_ROOM
+20006270 l     O .bss	00000004 s_roomC_hotC
+00000000 l    df *ABS*	00000000 usb.c
+00018e00 l     F .text.itcm	00000088 schedule_transfer
+00018e88 l     F .text.itcm	00000036 run_callbacks
+00018ec0 l     F .text.itcm	00000098 endpoint0_transmit.constprop.0
+20005bd4 l     O .bss	00000008 endpoint0_buffer
+20005bdc l     O .bss	00000004 endpoint0_notify_mask
+20005268 l     O .bss	00000008 endpoint0_setupdata
+20005be0 l     O .bss	00000004 endpointN_notify_mask
+2000622c l     O .bss	00000008 reply_buffer
+20006ab2 l     O .bss	00000001 sof_usage
+20006ab9 l     O .bss	00000001 usb_reboot_timer
+00000000 l    df *ABS*	00000000 crti.o
+00000000 l    df *ABS*	00000000 crtn.o
+00000000 l    df *ABS*	00000000 crtstuff.c
+000000e0 l     F .text.itcm	00000000 register_tm_clones
+00000104 l     F .text.itcm	00000000 frame_dummy
+20005e90 l     O .bss	00000000 object.0
+60001c70 l     O .text.code	00000000 __frame_dummy_init_array_entry
+00000000 l    df *ABS*	00000000 OnStepX.ino.cpp
+0000021c l     F .text.itcm	0000003c _GLOBAL__sub_I_nv
+00000000 l    df *ABS*	00000000 NV_EEPROM.cpp
+000050ec l     F .text.itcm	00000004 _GLOBAL__sub_I__ZN24NonVolatileStorageEEPROM4initEtbtbP7TwoWireh
+00000000 l    df *ABS*	00000000 Sense.cpp
+000054b4 l     F .text.itcm	0000000c _GLOBAL__sub_I__ZN10SenseInputC2Eiil
+00000000 l    df *ABS*	00000000 OnTask.cpp
+000056a4 l     F .text.itcm	000000c0 Tasks::add(unsigned long, unsigned long, bool, unsigned char, void (*)()) [clone .part.0]
+00005a00 l     F .text.itcm	00000138 Task::setHardwareTimerPeriod() [clone .part.0]
+00006534 l     F .text.itcm	00000054 _GLOBAL__sub_I_HAL_HWTIMER4_FUN
+20006a88 l     O .bss	00000002 HAL_HWTIMER1_WRAPPER()::count
+20006a8a l     O .bss	00000002 HAL_HWTIMER2_WRAPPER()::count
+20006a8c l     O .bss	00000002 HAL_HWTIMER3_WRAPPER()::count
+20005814 l     O .bss	00000001 Tasks::getNameStr(unsigned char)::empty
+20003e24 l     O .data	00000004 tasksMonitor()::_lastPpsAverageSubMicros
+00000000 l    df *ABS*	00000000 GPS.cpp
+00006794 l     F .text.itcm	0000000c _GLOBAL__sub_I_gps
+00000000 l    df *ABS*	00000000 ProcessCmds.cpp
+00006e5c l     F .text.itcm	00000084 _GLOBAL__sub_I_processCommandsA
+200026d0 l     O .data	00000028 CommandProcessor::command(char*, char*, char*, bool*, bool*)::baud
+00000000 l    df *ABS*	00000000 Telescope.cpp
+00007a64 l     F .text.itcm	0000000c _GLOBAL__sub_I_xBusy
+20006aa1 l     O .bss	00000001 statusFlash()::cycle
+00000000 l    df *ABS*	00000000 Mount.axis.cpp
+00007a70 l     F .text.itcm	000000b0 _GLOBAL__sub_I_driver1
+20001eb8 l     O .data	00000015 SettingsAxis1
+20001ed0 l     O .data	00000015 SettingsAxis2
+20001f48 l     O .data	0000000e DriverPinsAxis1
+20001f7c l     O .data	0000000a StepDirPinsAxis1
+20001f88 l     O .data	0000000a StepDirPinsAxis2
+20001f94 l     O .data	00000010 DriverSettingsAxis1
+20001fa4 l     O .data	0000000e StepDirDriverPinsAxis2
+20001fb4 l     O .data	00000010 StepDirDriverSettingsAxis2
+20002068 l     O .data	00000020 PinsAxis1
+20002088 l     O .data	00000020 PinsAxis2
+00000000 l    df *ABS*	00000000 Mount.cpp
+00009538 l     F .text.itcm	0000002c _GLOBAL__sub_I__ZN5Mount4initEv
+20006aa5 l     O .bss	00000001 Mount::autostartPostponed()::autoHomeDone
+20006aa6 l     O .bss	00000001 Mount::autostartPostponed()::autoStartDone
+20006aa7 l     O .bss	00000001 Mount::autostartPostponed()::autoTrackDone
+20006aa8 l     O .bss	00000001 Mount::autostartPostponed()::autoUnparkDone
+20005810 l     O .bss	00000004 Mount::update()::lastStatusFlashMs
+00000000 l    df *ABS*	00000000 Transform.cpp
+0000bb44 l     F .text.itcm	00000018 _GLOBAL__sub_I__ZN9Transform4initEv
+00000000 l    df *ABS*	00000000 Goto.cpp
+0000e04c l     F .text.itcm	00000074 _GLOBAL__sub_I__ZN4Goto4initEv
+20005804 l     O .bss	00000004 Goto::poll()::last_a2
+20003e28 l     O .data	00000004 Goto::poll()::slowdownFactor1a
+20003e2c l     O .data	00000004 Goto::poll()::slowdownFactor2a
+00000000 l    df *ABS*	00000000 Home.cpp
+0000f670 l     F .text.itcm	00000144 Home::reset(bool) [clone .part.0]
+0000fad0 l     F .text.itcm	0000001c _GLOBAL__sub_I__ZN4Home4initEv
+00000000 l    df *ABS*	00000000 Limits.cpp
+000107f0 l     F .text.itcm	00000534 Limits::validateTarget(Coordinate*, bool*, bool*, double*, double*, bool) [clone .part.0]
+000117c8 l     F .text.itcm	00000020 _GLOBAL__sub_I__ZN6Limits4initEv
+20005818 l     O .bss	00000004 Limits::poll()::autoFlipDelayCycles
+00000000 l    df *ABS*	00000000 Park.cpp
+00011e64 l     F .text.itcm	0000001c _GLOBAL__sub_I__Z17parkSignalWrapperv
+00000000 l    df *ABS*	00000000 Pec.cpp
+000127b8 l     F .text.itcm	00000320 Pec::poll() [clone .part.0]
+00012b10 l     F .text.itcm	00000054 _GLOBAL__sub_I_wormSenseFirst
+20005668 l     O .bss	00000004 guard variable for Pec::poll()::lastWormRotationSteps
+200057fc l     O .bss	00000004 Pec::poll()::lastBufferIndex
+20005800 l     O .bss	00000004 Pec::poll()::lastWormRotationSteps
+00000000 l    df *ABS*	00000000 Site.cpp
+00014018 l     F .text.itcm	00000034 _GLOBAL__sub_I_fracLAST
+00000000 l    df *ABS*	00000000 IntervalTimer.cpp
+00017ad8 l     F .text.itcm	00000084 pit_isr()
+00017b5c l     F .text.itcm	00000020 __tcf_0
+00017cf0 l     F .text.itcm	0000002c _GLOBAL__sub_I__ZN13IntervalTimer14nvic_prioritesE
+20004ec0 l     O .bss	00000060 funct_table
+00000000 l    df *ABS*	00000000 usb_desc.c
+200043d4 l     O .data	00000012 device_descriptor
+2000462c l     O .data	00000028 microsoft_os_compatible_id_desc
+20004654 l     O .data	00000012 microsoft_os_string_desc
+60001ef4 l     O .text.progmem	0000000a qualifier_descriptor
+00000000 l    df *ABS*	00000000 interrupt.c
+000183b4 l     F .text.itcm	00000002 dummy_isr
+20001e50 l     O .data	00000014 CSWTCH.6
+00000000 l    df *ABS*	00000000 Axis.command.cpp
+00000258 l     F .text.itcm	00000140 Axis::decodeAxisSettings(char*, AxisStoredSettings&) [clone .part.0]
+00000000 l    df *ABS*	00000000 Axis.cpp
+000009fc l     F .text.itcm	00000076 Axis::unwrap(double) [clone .part.0]
+00000a74 l     F .text.itcm	000000ae Axis::unwrapNearest(double) [clone .part.0]
+000018c4 l     F .text.itcm	00000448 Axis::poll() [clone .part.0]
+00000000 l    df *ABS*	00000000 Motor.cpp
+00000000 l    df *ABS*	00000000 StepDir.cpp
+0000237c l     F .text.itcm	0000008c StepDirMotor::moveFF(short) [clone .part.0]
+000024fc l     F .text.itcm	0000008c StepDirMotor::moveFR(short) [clone .part.0]
+00000000 l    df *ABS*	00000000 StepDirDriver.cpp
+20001f58 l     O .data	00000024 DriverPulseWidth
+20001fc4 l     O .data	000000a2 steps
+00000000 l    df *ABS*	00000000 StepperSPI.cpp
+00000000 l    df *ABS*	00000000 Calendars.cpp
+00000000 l    df *ABS*	00000000 BufferCmds.cpp
+20003e30 l     O .data	00000002 Buffer::getSeq()::s
+00000000 l    df *ABS*	00000000 SerialWrapper.cpp
+20006a9c l     O .bss	00000001 _wrapper_channels
+20006aa4 l     O .bss	00000001 SerialWrapper::SerialWrapper()::channel
+00000000 l    df *ABS*	00000000 Convert.cpp
+00000000 l    df *ABS*	00000000 Gpio.cpp
+00000000 l    df *ABS*	00000000 NV.cpp
+00000000 l    df *ABS*	00000000 NV_24XX.cpp
+00000000 l    df *ABS*	00000000 NV_MB85RC.cpp
+00000000 l    df *ABS*	00000000 Serial_Local.cpp
+00000000 l    df *ABS*	00000000 Sound.cpp
+00000000 l    df *ABS*	00000000 PPS.cpp
+00000000 l    df *ABS*	00000000 Teensy.cpp
+00000000 l    df *ABS*	00000000 Temperature.cpp
+00000000 l    df *ABS*	00000000 Weather.cpp
+00000000 l    df *ABS*	00000000 Telescope.command.cpp
+00000000 l    df *ABS*	00000000 Mount.command.cpp
+20003538 l     O .data	00000008 Mount::command(char*, char*, char*, bool*, bool*, CommandError*)::encoderAxis1
+20003540 l     O .data	00000008 Mount::command(char*, char*, char*, bool*, bool*, CommandError*)::encoderAxis2
+00000000 l    df *ABS*	00000000 Align.hs.cpp
+00000000 l    df *ABS*	00000000 Goto.command.cpp
+20005808 l     O .bss	00000004 Goto::command(char*, char*, char*, bool*, bool*, CommandError*)::star
+2000580c l     O .bss	00000004 Goto::command(char*, char*, char*, bool*, bool*, CommandError*)::star
+00000000 l    df *ABS*	00000000 Guide.command.cpp
+00000000 l    df *ABS*	00000000 Guide.cpp
+0000f034 l     F .text.itcm	00000198 Guide::poll() [clone .part.0]
+00000000 l    df *ABS*	00000000 Home.command.cpp
+00000000 l    df *ABS*	00000000 Library.command.cpp
+00000000 l    df *ABS*	00000000 Library.cpp
+00000000 l    df *ABS*	00000000 Limits.command.cpp
+00000000 l    df *ABS*	00000000 Park.command.cpp
+00000000 l    df *ABS*	00000000 Pec.command.cpp
+00000000 l    df *ABS*	00000000 Site.command.cpp
+00000000 l    df *ABS*	00000000 Status.command.cpp
+00000000 l    df *ABS*	00000000 Status.cpp
+20006aa2 l     O .bss	00000001 flash()::cycle
+20006aa9 l     O .bss	00000001 Status::wake()::ready
+00000000 l    df *ABS*	00000000 SPI.cpp
+00000000 l    df *ABS*	00000000 CHOPCONF.cpp
+00000000 l    df *ABS*	00000000 COOLCONF.cpp
+00000000 l    df *ABS*	00000000 DRVCONF.cpp
+00000000 l    df *ABS*	00000000 DRVCTRL.cpp
+00000000 l    df *ABS*	00000000 DRVSTATUS.cpp
+00000000 l    df *ABS*	00000000 DRV_STATUS.cpp
+00000000 l    df *ABS*	00000000 GCONF.cpp
+00000000 l    df *ABS*	00000000 IHOLD_IRUN.cpp
+00000000 l    df *ABS*	00000000 PWMCONF.cpp
+00000000 l    df *ABS*	00000000 SGCSCONF.cpp
+00000000 l    df *ABS*	00000000 SW_SPI.cpp
+00000000 l    df *ABS*	00000000 TMC2130Stepper.cpp
+00000000 l    df *ABS*	00000000 TMC2160Stepper.cpp
+00000000 l    df *ABS*	00000000 TMC2208Stepper.cpp
+00000000 l    df *ABS*	00000000 TMC2660Stepper.cpp
+00000000 l    df *ABS*	00000000 TMC5130Stepper.cpp
+00000000 l    df *ABS*	00000000 TMC5160Stepper.cpp
+00000000 l    df *ABS*	00000000 TMCStepper.cpp
+00000000 l    df *ABS*	00000000 TinyGPS++.cpp
+00000000 l    df *ABS*	00000000 Time.cpp
+2000566c l     O .bss	00000004 prevMillis
+200057c0 l     O .bss	00000004 nextSyncTime
+200057c4 l     O .bss	00000007 tm
+20006a9d l     O .bss	00000001 Status
+200057cc l     O .bss	00000004 sysTime
+200050e0 l     O .bss	00000008 cacheTime
+20003d58 l     O .data	00000004 syncInterval
+200020a8 l     O .data	0000000c monthDays
+00000000 l    df *ABS*	00000000 EventResponder.cpp
+00000000 l    df *ABS*	00000000 HardwareSerial.cpp
+00000000 l    df *ABS*	00000000 HardwareSerial1.cpp
+20005670 l     O .bss	00000040 rx_buffer1
+20005730 l     O .bss	00000040 tx_buffer1
+20001ee8 l     O .data	00000060 UART6_Hardware
+00000000 l    df *ABS*	00000000 HardwareSerial2.cpp
+200056b0 l     O .bss	00000040 rx_buffer2
+20005770 l     O .bss	00000028 tx_buffer2
+20003d5c l     O .data	00000060 UART3_Hardware
+00000000 l    df *ABS*	00000000 HardwareSerial4.cpp
+200056f0 l     O .bss	00000040 rx_buffer4
+20005798 l     O .bss	00000028 tx_buffer4
+20003dbc l     O .data	00000060 UART4_Hardware
+00000000 l    df *ABS*	00000000 Print.cpp
+00000000 l    df *ABS*	00000000 clockspeed.c
+00000000 l    df *ABS*	00000000 delay.c
+00000000 l    df *ABS*	00000000 digital.c
+00000000 l    df *ABS*	00000000 eeprom.c
+20006aac l     O .bss	00000001 initialized
+20006278 l     O .bss	0000007e sector_index
+00000000 l    df *ABS*	00000000 main.cpp
+00000000 l    df *ABS*	00000000 memcpy-armv7m.S.o
+00000000 l    df *ABS*	00000000 new.cpp
+00000000 l    df *ABS*	00000000 nonstd.c
+00000000 l    df *ABS*	00000000 pwm.c
+00000000 l    df *ABS*	00000000 rtc.c
+00000000 l    df *ABS*	00000000 usb_inst.cpp
+00000000 l    df *ABS*	00000000 usb_serial.c
+00019764 l     F .text.itcm	00000060 rx_queue_transfer
+20200080 l     O .bss.dma	00001000 rx_buffer
+000197c4 l     F .text.itcm	000000b4 rx_event
+00019878 l     F .text.itcm	00000090 usb_serial_flush_callback
+20201080 l     O .bss.dma	00002000 txbuffer
+00019908 l     F .text.itcm	000001b8 usb_serial_write.part.0
+20006234 l     O .bss	00000004 rx_available
+20006238 l     O .bss	00000010 rx_count
+20006ab0 l     O .bss	00000001 rx_head
+20006248 l     O .bss	00000010 rx_index
+20006258 l     O .bss	00000009 rx_list
+20006a96 l     O .bss	00000002 rx_packet_size
+20006ab1 l     O .bss	00000001 rx_tail
+20004f60 l     O .bss	00000100 rx_transfer
+20006ab3 l     O .bss	00000001 transmit_previous_timeout
+20006a98 l     O .bss	00000002 tx_available
+20006ab4 l     O .bss	00000001 tx_head
+20006ab5 l     O .bss	00000001 tx_noautoflush
+20006a9a l     O .bss	00000002 tx_packet_size
+20005060 l     O .bss	00000080 tx_transfer
+00000000 l    df *ABS*	00000000 yield.cpp
+20006aa3 l     O .bss	00000001 yield::running
+00000000 l    df *ABS*	00000000 libm_a-s_lround.o
+00000000 l    df *ABS*	00000000 libm_a-w_asin.o
+00000000 l    df *ABS*	00000000 libm_a-w_atan2.o
+00000000 l    df *ABS*	00000000 libm_a-w_fmod.o
+00000000 l    df *ABS*	00000000 libm_a-pow.o
+00000000 l    df *ABS*	00000000 libm_a-sinf.o
+00000000 l    df *ABS*	00000000 libm_a-cosf.o
+00000000 l    df *ABS*	00000000 libm_a-math_errf.o
+0001aa24 l     F .text.itcm	00000018 with_errnof
+00000000 l    df *ABS*	00000000 libm_a-e_asin.o
+00000000 l    df *ABS*	00000000 libm_a-e_atan2.o
+00000000 l    df *ABS*	00000000 libm_a-wf_sqrt.o
+00000000 l    df *ABS*	00000000 libm_a-s_atan.o
+00000000 l    df *ABS*	00000000 libm_a-s_cos.o
+00000000 l    df *ABS*	00000000 libm_a-s_fabs.o
+00000000 l    df *ABS*	00000000 libm_a-sf_tan.o
+00000000 l    df *ABS*	00000000 libm_a-s_sin.o
+00000000 l    df *ABS*	00000000 libm_a-s_tan.o
+00000000 l    df *ABS*	00000000 libm_a-kf_tan.o
+00000000 l    df *ABS*	00000000 libm_a-e_sqrt.o
+00000000 l    df *ABS*	00000000 libm_a-ef_sqrt.o
+00000000 l    df *ABS*	00000000 libm_a-e_fmod.o
+00000000 l    df *ABS*	00000000 libm_a-s_nan.o
+00000000 l    df *ABS*	00000000 libm_a-lroundl.o
+00000000 l    df *ABS*	00000000 libm_a-ef_rem_pio2.o
+00000000 l    df *ABS*	00000000 libm_a-sf_lround.o
+00000000 l    df *ABS*	00000000 libm_a-e_rem_pio2.o
+00000000 l    df *ABS*	00000000 libm_a-math_err.o
+0001bc5c l     F .text.itcm	00000018 with_errno
+0001bc74 l     F .text.itcm	00000022 xflow
+00000000 l    df *ABS*	00000000 libm_a-k_rem_pio2.o
+00000000 l    df *ABS*	00000000 libm_a-k_cos.o
+00000000 l    df *ABS*	00000000 libm_a-k_sin.o
+00000000 l    df *ABS*	00000000 libm_a-k_tan.o
+00000000 l    df *ABS*	00000000 libm_a-sf_fabs.o
+00000000 l    df *ABS*	00000000 libm_a-s_scalbn.o
+00000000 l    df *ABS*	00000000 libm_a-kf_rem_pio2.o
+00000000 l    df *ABS*	00000000 libm_a-s_floor.o
+00000000 l    df *ABS*	00000000 libm_a-sf_floor.o
+00000000 l    df *ABS*	00000000 libm_a-sf_scalbn.o
+00000000 l    df *ABS*	00000000 atexit_arm.o
+00000000 l    df *ABS*	00000000 _arm_addsubdf3.o
+00000000 l    df *ABS*	00000000 libc_a-atof.o
+00000000 l    df *ABS*	00000000 libc_a-atol.o
+00000000 l    df *ABS*	00000000 libc_a-malloc.o
+00000000 l    df *ABS*	00000000 libc_a-mallocr.o
+00000000 l    df *ABS*	00000000 libc_a-mlock.o
+00000000 l    df *ABS*	00000000 libc_a-reallocr.o
+00000000 l    df *ABS*	00000000 libc_a-strtod.o
+00000000 l    df *ABS*	00000000 libc_a-strtol.o
+0001ed90 l     F .text.itcm	00000144 _strtol_l.constprop.0
+00000000 l    df *ABS*	00000000 libc_a-sprintf.o
+00000000 l    df *ABS*	00000000 libc_a-findfp.o
+0001ef30 l     F .text.itcm	00000018 stdio_exit_handler
+0001ef48 l     F .text.itcm	00000040 cleanup_stdio
+0001ef88 l     F .text.itcm	000000d4 global_stdio_init.part.0
+00000000 l    df *ABS*	00000000 libc_a-fwalk.o
+00000000 l    df *ABS*	00000000 libc_a-memmove.o
+00000000 l    df *ABS*	00000000 libc_a-memset.o
+00000000 l    df *ABS*	00000000 libc_a-strcat.o
+00000000 l    df *ABS*	00000000 libc_a-strchr.o
+00000000 l    df *ABS*	00000000 libc_a-strncmp.o
+00000000 l    df *ABS*	00000000 libc_a-strncpy.o
+00000000 l    df *ABS*	00000000 libc_a-strstr.o
+0001f490 l     F .text.itcm	000000c6 critical_factorization
+0001f558 l     F .text.itcm	000001f8 two_way_long_needle
+00000000 l    df *ABS*	00000000 libc_a-stpcpy.o
+00000000 l    df *ABS*	00000000 libc_a-locale.o
+00000000 l    df *ABS*	00000000 libc_a-cxa_atexit.o
+00000000 l    df *ABS*	00000000 libc_a-efgcvt.o
+00000000 l    df *ABS*	00000000 libc_a-sbrkr.o
+00000000 l    df *ABS*	00000000 libc_a-writer.o
+00000000 l    df *ABS*	00000000 libc_a-errno.o
+00000000 l    df *ABS*	00000000 libc_a-strcmp.o
+00000000 l    df *ABS*	00000000 libc_a-strcpy.o
+00000000 l    df *ABS*	00000000 libc_a-init.o
+00000000 l    df *ABS*	00000000 libc_a-lock.o
+00000000 l    df *ABS*	00000000 libc_a-strlen.o
+00000000 l    df *ABS*	00000000 libc_a-__atexit.o
+00000000 l    df *ABS*	00000000 libc_a-freer.o
+00000000 l    df *ABS*	00000000 libc_a-gdtoa-gethex.o
+00020190 l     F .text.itcm	000000a4 rshift
+00000000 l    df *ABS*	00000000 libc_a-gdtoa-hexnan.o
+00000000 l    df *ABS*	00000000 libc_a-mbtowc_r.o
+00000000 l    df *ABS*	00000000 libc_a-svfprintf.o
+00000000 l    df *ABS*	00000000 libc_a-mprec.o
+00000000 l    df *ABS*	00000000 libc_a-fclose.o
+00000000 l    df *ABS*	00000000 libc_a-fflush.o
+00000000 l    df *ABS*	00000000 libc_a-stdio.o
+00000000 l    df *ABS*	00000000 libc_a-wctomb_r.o
+00000000 l    df *ABS*	00000000 libc_a-memcmp.o
+00000000 l    df *ABS*	00000000 libc_a-strnlen.o
+00000000 l    df *ABS*	00000000 libc_a-localeconv.o
+00000000 l    df *ABS*	00000000 libc_a-closer.o
+00000000 l    df *ABS*	00000000 libc_a-lseekr.o
+00000000 l    df *ABS*	00000000 libc_a-readr.o
+00000000 l    df *ABS*	00000000 libc_a-ecvtbuf.o
+00000000 l    df *ABS*	00000000 libc_a-memchr.o
+00000000 l    df *ABS*	00000000 libc_a-wcrtomb.o
+00000000 l    df *ABS*	00000000 libc_a-wcsrtombs.o
+00000000 l    df *ABS*	00000000 libm_a-s_frexp.o
+00000000 l    df *ABS*	00000000 libc_a-assert.o
+00000000 l    df *ABS*	00000000 libc_a-callocr.o
+00000000 l    df *ABS*	00000000 libc_a-dtoa.o
+00023678 l     F .text.itcm	00000126 quorem
+00000000 l    df *ABS*	00000000 libc_a-fiprintf.o
+00000000 l    df *ABS*	00000000 libc_a-svfiprintf.o
+00000000 l    df *ABS*	00000000 libc_a-vfiprintf.o
+000245b4 l     F .text.itcm	00000076 __sprint_r.part.0
+000255b8 l     F .text.itcm	00000080 __sbprintf
+00000000 l    df *ABS*	00000000 libc_a-fvwrite.o
+00000000 l    df *ABS*	00000000 libc_a-wsetup.o
+00000000 l    df *ABS*	00000000 libc_a-fputwc.o
+00000000 l    df *ABS*	00000000 libc_a-wcsnrtombs.o
+00000000 l    df *ABS*	00000000 libc_a-makebuf.o
+00000000 l    df *ABS*	00000000 libc_a-wbuf.o
+00000000 l    df *ABS*	00000000 libc_a-fstatr.o
+00000000 l    df *ABS*	00000000 libc_a-isattyr.o
+00000000 l    df *ABS*	00000000 _fixdfdi.o
+00000000 l    df *ABS*	00000000 _fixunsdfdi.o
+00000000 l    df *ABS*	00000000 libm_a-exp_data.o
+00000000 l    df *ABS*	00000000 libm_a-pow_log_data.o
+00000000 l    df *ABS*	00000000 libm_a-sincosf_data.o
+00000000 l    df *ABS*	00000000 libc_a-ctype_.o
+00000000 l    df *ABS*	00000000 libc_a-impure.o
+00000000 l    df *ABS*	00000000 libc_a-__call_atexit.o
+00025e80 l     F .text.itcm	00000008 ___reboot_Teensyduino__veneer
+00025e88 l     F .text.itcm	00000008 ___ZN7TwoWire5beginEv_veneer
+00025e90 l     F .text.itcm	00000008 ___init_veneer
+60001c38 l     F .text.code	00000008 __main_veneer
+60001c40 l     F .text.code	00000008 __delay_veneer
+60001c48 l     F .text.code	00000008 __usb_init_serialnumber_veneer
+60001c50 l     F .text.code	00000008 __pwm_init_veneer
+60001c58 l     F .text.code	00000008 __memset_veneer
+60001c60 l     F .text.code	00000008 __set_arm_clock_veneer
+60001c68 l     F .text.code	00000008 ____libc_init_array_veneer
+0000988c g     F .text.itcm	00000018 GeoAlign::modelWrite()
+000098a4 g     F .text.itcm	00000064 GeoAlign::modelClear()
+0001f8b8 g     F .text.itcm	00000046 stpcpy
+000024c4 g     F .text.itcm	0000001c moveStepDirMotorFFAxis8()
+0000d880 g     F .text.itcm	00000580 Goto::poll()
+00019ce8 g     F .text.itcm	00000018 usb_serial_available
+00001fe4 g     F .text.itcm	0000000c Motor::getTargetDistanceSteps()
+0000b148 g     F .text.itcm	000000c4 Transform::mountToInstrument(Coordinate*, double*, double*)
+00022f34 g     F .text.itcm	00000062 __any_on
+00025dec g     F .text.itcm	00000024 _isatty_r
+0000546c g     F .text.itcm	0000000e Sense::isOn(unsigned char)
+0001fc5c g     F .text.itcm	000000ba strcpy
+00003f80 g     F .text.itcm	0000007c SerialWrapper::peek()
+00001088 g     F .text.itcm	00000032 Axis::resetPositionSteps(long)
+00005100 g     F .text.itcm	00000080 NonVolatileStorageMB85RC::writeToStorage(unsigned short, unsigned char)
+200043cc g     O .data	00000004 _task_ppsAverageSubMicros
+200025a4  w    O .data	0000003c vtable for TMC5161Stepper
+0001726c g     F .text.itcm	00000064 setTime(int, int, int, int, int, int)
+00005698  w    F .text.itcm	0000000c IntervalTimer::~IntervalTimer()
+00002cc8 g     F .text.itcm	00000010 moveStepDirMotorAxis3()
+00001dac g     F .text.itcm	00000014 axisWrapper9()
+20002484 g     O .data	00000030 vtable for StepDirTmcSPI
+00018604 g     F .text.itcm	00000004 operator new[](unsigned int)
+60001848 g     F .text.code	00000002 startup_default_late_hook
+0001b130 g     F .text.itcm	00000012 fabs
+0002333c g     F .text.itcm	0000002c _lseek_r
+00016620 g     F .text.itcm	00000088 TMCStepper::microsteps(unsigned short)
+00019eb8  w    F .text.itcm	000000d8 yield
+00002dac g     F .text.itcm	000000a4 StepDirDriver::init(float, float, float, float, float, float)
+00001e08 g     F .text.itcm	00000050 Axis::autoSlewAbort()
+00015840 g     F .text.itcm	0000002e TMC2130Stepper::GCONF(unsigned long)
+00001568 g     F .text.itcm	00000006 Axis::setMotionLimitsCheck(bool)
+000159ac g     F .text.itcm	00000028 SW_SPIClass::init()
+20006a84 g     O .bss	00000004 usb_timer1_callback
+20005bf4 g     O .bss	000000d8 gps
+20005db0 g     O .bss	0000009c motor2
+00015570 g     F .text.itcm	00000014 TMC2130Stepper::CHOPCONF(unsigned long)
+60001e10 g     O .text.progmem	00000018 usb_string_manufacturer_name_default
+00002ae4 g     F .text.itcm	000001c4 StepDirMotor::move(short)
+0000b640 g     F .text.itcm	00000088 Transform::horToAa(Coordinate*)
+00006db0 g     F .text.itcm	000000ac commandChannelInit()
+20003998 g     O .data	00000140 Wire1
+0001b95c g     F .text.itcm	00000068 lroundf
+00010234 g     F .text.itcm	00000040 Library::firstRec()
+200064ac g     O .bss	000005c8 transform
+00015b58 g     F .text.itcm	00000084 TMC2130Stepper::TMC2130Stepper(unsigned short, float, signed char)
+00001020 g     F .text.itcm	00000038 Axis::setPowerDownOverrideTime(int)
+0001d520 g     F .text.itcm	0000005a .hidden __floatdidf
+200022b0  w    O .data	00000010 teensy::inplace_function_detail::empty_vtable<void>
+00015738 g     F .text.itcm	00000046 TMC2660Stepper::dedge(bool)
+00015f58 g     F .text.itcm	000000a8 TMC2160Stepper::rms_current(unsigned short)
+00003c0c g     F .text.itcm	00000010 Buffer::getSeq()
+00002ed4 g     F .text.itcm	00000056 StepDirTmcSPI::modeMicrostepSlewing()
+00003edc g     F .text.itcm	0000006c SerialWrapper::available()
+200059b0 g     O .bss	00000001 __lock___atexit_recursive_mutex
+00016df0 g     F .text.itcm	00000028 TinyGPSTime::second()
+000234e0 g     F .text.itcm	0000004c _wcrtomb_r
+0001628c g     F .text.itcm	0000002c TMC2660Stepper::begin()
+60001670 g     F .text.code	00000034 TwoWire::configSDApin(unsigned char)
+00015338 g     F .text.itcm	000000aa TwoWire::isr()
+00023248 g     F .text.itcm	00000020 __sseek
+0001f05c g     F .text.itcm	0000003c __sinit
+00023394 g     F .text.itcm	000000a4 fcvtbuf
+00025d10 g     F .text.itcm	000000b0 __swbuf_r
+000158d8 g     F .text.itcm	0000001e TMCStepper::irun(unsigned char)
+000054f8  w    F .text.itcm	00000002 SerialLocal::flush()
+0000b328 g     F .text.itcm	00000124 Transform::equToHor(Coordinate*)
+0001db18 g     F .text.itcm	0000000c __malloc_unlock
+000050f0 g     F .text.itcm	00000010 NonVolatileStorageMB85RC::busy()
+00016018 g     F .text.itcm	00000074 TMC2660Stepper::TMC2660Stepper(unsigned short, float)
+00009a90 g     F .text.itcm	00000040 GeoAlign::createModel(int)
+200023fc g     O .data	00000064 vtable for StepDirMotor
+20006aa0 g     O .bss	00000001 HardwareSerialIMXRT::s_count_serials_with_serial_events
+600017ec g     F .text.code	00000054 analog_init
+000024a8 g     F .text.itcm	0000001c moveStepDirMotorFFAxis7()
+000078f0 g     F .text.itcm	00000174 Telescope::init(char const*, int, int, char const*, int)
+0000faf0 g     F .text.itcm	0000035c Library::command(char*, char*, char*, bool*, bool*, CommandError*)
+20000300 g     O .data	00000870 .hidden __exp_data
+0000a2e8 g     F .text.itcm	0000051a GeoAlign::autoModel(int)
+0000cdb0 g     F .text.itcm	00000014 Goto::abort()
+00002e50 g     F .text.itcm	0000004c StepDirDriver::validateParameters(float, float, float, float, float, float)
+0000eaec g     F .text.itcm	00000130 Guide::startAxis1(GuideAction, GuideRateSelect, unsigned long)
+20002460 g     O .data	00000024 vtable for SerialWrapper
+20003670 g     O .data	00000008 _nextPeriod2
+00002628 g     F .text.itcm	0000001c moveStepDirMotorFRAxis7()
+0001836c g     F .text.itcm	00000048 eeprom_initialize
+00005694  w    F .text.itcm	00000002 teensy::inplace_function_detail::vtable<void>::vtable<void (*)()>(teensy::inplace_function_detail::wrapper<void (*)()>)::{lambda(void*)#4}::_FUN(void*)
+000010f4 g     F .text.itcm	00000036 Axis::setInstrumentCoordinate(double)
+00017acc  w    F .text.itcm	00000002 teensy::inplace_function_detail::vtable<void>::vtable()::{lambda(void*, void*)#2}::_FUN(void*, void*)
+0001647c g     F .text.itcm	000000ac TMC5160Stepper::TMC5160Stepper(unsigned short, float, signed char)
+0001bcb8 g     F .text.itcm	00000030 .hidden __math_divzero
+20003694 g     O .data	00000004 F_CPU_ACTUAL
+00002438 g     F .text.itcm	0000001c moveStepDirMotorFFAxis3()
+200051a8 g     O .bss	000000c0 axis2
+00005018 g     F .text.itcm	00000052 NonVolatileStorage::readBytes(unsigned short, void*, short)
+0001f0f8 g     F .text.itcm	000000f8 memmove
+20002638 g     O .data	00000024 vtable for NonVolatileStorageMB85RC
+00001d70 g     F .text.itcm	00000014 axisWrapper6()
+00015510 g     F .text.itcm	00000016 TMC2130Stepper::hend()
+00022524 g     F .text.itcm	0000004c _Balloc
+000029c0 g     F .text.itcm	00000124 StepDirMotor::setFrequencySteps(float)
+00025eac g       .ARM.exidx	00000000 __exidx_end
+20006a9e g     O .bss	00000001 EventResponder::runningFromYield
+20004494 g     O .data	00000080 isr_table_gpio2
+00002080 g     F .text.itcm	00000008 StepDirMotor::validateParameters(float, float, float, float, float, float)
+000071e0 g     F .text.itcm	0000003c Weather::setTemperature(float)
+000156f0 g     F .text.itcm	00000046 TMC2660Stepper::intpol(bool)
+00000128 g     F .text.itcm	0000000c sensesPoll()
+000161a0 g     F .text.itcm	000000ec TMC2660Stepper::write(unsigned char, unsigned long)
+00013df4 g     F .text.itcm	0000005a Site::UT1ToLocal(JulianDate)
+00018da0 g     F .text.itcm	00000060 tempmonGetTemp
+0000506c g     F .text.itcm	00000054 NonVolatileStorage::updateBytes(unsigned short, void*, short)
+0000b018 g     F .text.itcm	0000003e Transform::observedPlaceToMount(Coordinate*)
+00017d1c g     F .text.itcm	00000050 Print::write(unsigned char const*, unsigned int)
+20003e34 g     O .data	00000004 __atexit_recursive_mutex
+0001d584 g     F .text.itcm	00000008 atol
+0001f974 g     F .text.itcm	0000000c __errno
+00017958 g     F .text.itcm	0000014a HardwareSerialIMXRT::IRQHandler()
+00004a14 g     F .text.itcm	00000004 Gpio::command(char*, char*, char*, bool*, bool*, CommandError*)
+000044b4 g     F .text.itcm	00000026 Convert::atoi2(char*, unsigned char*, bool)
+60001000 g     O .text.headers	00000020 ImageVectorTable
+00019f90 g     F .text.itcm	000000a4 lround
+60001cb8  w    O .text.progmem	00000050 TwoWire::i2c2_hardware
+200057d8 g     O .bss	00000004 EventResponder::firstInterrupt
+000196f0 g     F .text.itcm	00000004 usb_transfer_status
+00017ab0 g     F .text.itcm	0000000c IRQHandler_Serial2
+000025d4 g     F .text.itcm	0000001c moveStepDirMotorFRAxis4()
+00015978 g     F .text.itcm	00000020 TMC2160Stepper::pwm_autograd(bool)
+0001b6fc g     F .text.itcm	00000260 __ieee754_rem_pio2f
+200057e0 g     O .bss	0000001c HardwareSerialIMXRT::s_serials_with_serial_events
+20006a92 g     O .bss	00000002 _nextRep3
+20005b28 g     O .bss	00000004 __stdio_exit_handler
+000055ec g     F .text.itcm	00000070 SerialLocal::read()
+0000721c g     F .text.itcm	00000006 Weather::getPressure()
+00006b68 g     F .text.itcm	00000024 TlsTeensy::set(int, int, int, int, int, int)
+20003738 g     O .data	00000060 Serial1
+000024e0 g     F .text.itcm	0000001c moveStepDirMotorFFAxis9()
+200048b8 g     O .data	00000001 analog_write_res
+00011078 g     F .text.itcm	00000744 Limits::poll()
+00001570 g     F .text.itcm	000000e8 Axis::motionError(Direction)
+00025e10 g     F .text.itcm	00000030 .hidden __aeabi_d2lz
+00003ffc g     F .text.itcm	0000003c SerialWrapper::flush()
+2000634c g     O .bss	00000118 tasks
+0001975c  w    F .text.itcm	00000008 usb_serial_class::write(unsigned char const*, unsigned int)
+00025dc0 g     F .text.itcm	0000002c _fstat_r
+20002b88 g     O .data	000002e0 digital_pin_to_info_PGM
+0001b448 g     F .text.itcm	00000298 __ieee754_fmod
+00003cf4 g     F .text.itcm	00000090 SerialWrapper::SerialWrapper()
+00013eac g     F .text.itcm	0000003a Site::rangeHours(double)
+000062c0 g     F .text.itcm	00000070 Tasks::remove(unsigned char)
+00003c60 g     F .text.itcm	00000010 Buffer::flush()
+20005be4 g     O .bss	00000004 errno
+00015438 g     F .text.itcm	0000003a TMC2130Stepper::hend(unsigned char)
+0001cf78 g     F .text.itcm	00000110 floor
+00002068 g     F .text.itcm	00000018 StepDirMotor::setParameters(float, float, float, float, float, float)
+000133f0 g     F .text.itcm	00000094 Site::getDateTime()
+60001d58  w    O .text.progmem	00000050 TwoWire::i2c3_hardware
+00025ea8 g       .text.itcm	00000000 _etext
+00014bfc g     F .text.itcm	000000dc _spi_dma_rxISR0()
+00004dc0 g     F .text.itcm	00000040 NonVolatileStorage::isKeyValid(unsigned long)
+20004ec0 g       .bss	00000000 _sbss
+000030b4 g     F .text.itcm	00000264 StepDirTmcSPI::init(float, float, float, float, float, float)
+00011034 g     F .text.itcm	00000044 Limits::stopAxis1(GuideAction)
+00002ce8 g     F .text.itcm	00000010 moveStepDirMotorAxis5()
+0001039c g     F .text.itcm	00000054 Library::clearCurrentRec()
+00004538 g     F .text.itcm	000000e8 Convert::tzToDouble(double*, char*)
+00014b3c g     F .text.itcm	0000006c Status::wake()
+00015690 g     F .text.itcm	0000003a TMC2130Stepper::COOLCONF(unsigned long)
+000077fc g     F .text.itcm	00000080 statusFlash()
+00008eec g     F .text.itcm	0000001e Mount::getMountPosition(CoordReturn)
+00001d5c g     F .text.itcm	00000014 axisWrapper5()
+00001e8c g     F .text.itcm	00000024 Motor::getDefaultParameters(float*, float*, float*, float*, float*, float*)
+000182d8 g     F .text.itcm	00000024 digitalRead
+20006aba g     O .bss	00000001 xBusy
+000134fc g     F .text.itcm	0000003c Site::setSiderealPeriod(unsigned long)
+60001f00 g       *ABS*	00000000 _stextload
+00000210 g     F .text.itcm	0000000c loop
+000189bc g     F .text.itcm	0000007a flexpwm_init
+00002088 g     F .text.itcm	00000026 StepDirMotor::getDriverStatus()
+6000184c g     F .text.code	00000004 startup_debug_reset
+000195b4 g     F .text.itcm	00000064 usb_config_rx
+0000ba48 g     F .text.itcm	00000028 Transform::mountToTopocentric(Coordinate*)
+00001250 g     F .text.itcm	00000034 Axis::setTargetCoordinate(double)
+0001ae5c g     F .text.itcm	00000044 sqrtf
+0000b288 g     F .text.itcm	0000009c Transform::rightAscensionToHourAngle(Coordinate*, bool)
+0000dec4 g     F .text.itcm	0000005c Goto::usPerStepLowerLimit()
+0000248c g     F .text.itcm	0000001c moveStepDirMotorFFAxis6()
+0000223c g     F .text.itcm	00000140 StepDirMotor::init()
+00016dac g     F .text.itcm	00000018 TinyGPSTime::hour()
+0000b44c g     F .text.itcm	00000054 Transform::equToAlt(Coordinate*)
+00016528 g     F .text.itcm	000000f0 TMCStepper::rms_current(unsigned short)
+00015648 g     F .text.itcm	00000014 TMC2660Stepper::chm(bool)
+20003c18 g     O .data	00000140 Wire3
+00015e20 g     F .text.itcm	00000078 TMC2130Stepper::begin()
+00006614  w    F .text.itcm	00000002 TimeLocationSource::ppsEnable()
+00010120 g     F .text.itcm	00000058 Library::firstFreeRec()
+000166a8 g     F .text.itcm	00000072 TinyGPSPlus::TinyGPSPlus()
+000166a8 g     F .text.itcm	00000072 TinyGPSPlus::TinyGPSPlus()
+000119a4 g     F .text.itcm	000001c4 Park::request()
+000150d8 g     F .text.itcm	00000100 TwoWire::endTransmission(unsigned char)
+0001b9c8 g     F .text.itcm	00000294 __ieee754_rem_pio2
+00015634 g     F .text.itcm	00000014 TMC2660Stepper::rndtf(bool)
+20005ea8 g     O .bss	00000013 park
+20006aad g     O .bss	00000001 ledOff
+200057d4 g     O .bss	00000004 EventResponder::lastInterrupt
+0000132c g     F .text.itcm	0000000c Axis::isSlewing()
+000184cc g     F .text.itcm	00000134 memcpy
+00020800 g     F .text.itcm	000001b0 __hexnan
+00002e9c  w    F .text.itcm	00000004 StepDirTmcSPI::getParameterTypeCode()
+20004ec0 g     O .data	00000000 .hidden __TMC_END__
+0001bce8 g     F .text.itcm	0000001e .hidden __math_invalid
+00010178 g     F .text.itcm	0000005c Library::prevRec()
+000209e0 g     F .text.itcm	00001b44 _svfprintf_r
+0000b560 g     F .text.itcm	000000e0 Transform::aaToHor(Coordinate*)
+0001d4a8 g     F .text.itcm	00000022 .hidden __floatsidf
+00006d60 g     F .text.itcm	00000050 CommandProcessor::CommandProcessor(long, char)
+20006344 g     O .bss	00000004 systick_millis_count
+00012ad8  w    F .text.itcm	00000038 pecWrapper()
+00015098 g     F .text.itcm	00000040 TwoWire::wait_idle()
+00017878 g     F .text.itcm	000000dc HardwareSerialIMXRT::write9bit(unsigned long)
+00010274 g     F .text.itcm	00000070 Library::init()
+0001759c g     F .text.itcm	0000029c HardwareSerialIMXRT::begin(unsigned long, unsigned short)
+20003688 g     O .data	00000008 _task_masterFrequencyRatio
+20006ab7 g     O .bss	00000001 usb_configuration
+0000b990 g     F .text.itcm	000000b8 Transform::observedPlaceToTopocentric(Coordinate*)
+0000f928 g     F .text.itcm	000001a8 Home::request()
+0000af78 g     F .text.itcm	000000a0 Transform::init()
+60000000 g     O .text.headers	00000200 FlexSPI_NOR_Config
+00002150 g     F .text.itcm	00000080 StepDirMotor::setReverse(signed char)
+00001d20 g     F .text.itcm	00000014 axisWrapper2()
+00022e74 g     F .text.itcm	00000062 __ratio
+0000ee70 g     F .text.itcm	000001c4 Guide::spiralPoll()
+0000d5e0 g     F .text.itcm	000000c0 Goto::startAutoSlew()
+00013718 g     F .text.itcm	000000ac Site::setSiderealTime(JulianDate)
+000060d4 g     F .text.itcm	0000007c Task::setPeriod(unsigned long, PeriodUnits)
+60001e10  w    O .text.progmem	00000018 usb_string_manufacturer_name
+0000f1cc  w    F .text.itcm	00000010 guideWrapper()
+00015c74  w    F .text.itcm	00000020 TMC2130Stepper::transfer(unsigned char)
+0001d58c g     F .text.itcm	00000010 malloc
+60001da8  w    O .text.progmem	00000050 TwoWire::i2c1_hardware
+0000204c  w    F .text.itcm	00000004 Motor::encoderZero()
+00015890 g     F .text.itcm	00000028 TMCStepper::IHOLD_IRUN(unsigned long)
+00018d80  w    F .text.itcm	0000000a _fstat
+20004624 g     O .data	00000008 itimer3
+00005304 g     F .text.itcm	00000064 SenseInput::poll()
+000050cc  w    F .text.itcm	0000001e TwoWire::read()
+000235c0 g     F .text.itcm	00000040 __assert_func
+00014be4  w    F .text.itcm	00000016 EventResponder::triggerEvent(int, void*)
+00002060  w    F .text.itcm	00000008 StepDirMotor::getStepsPerStepSlewing()
+20000b98 g     O .data	000000c8 __mprec_tens
+60001aec g     F .text.code	000000e8 usb_init
+00007264 g     F .text.itcm	00000034 Weather::setHumidity(float)
+00002058  w    F .text.itcm	00000008 StepDirMotor::getParameterTypeCode()
+00004d6c g     F .text.itcm	00000052 NonVolatileStorage::readFromCache(unsigned short)
+0000ba70 g     F .text.itcm	000000d4 Transform::mountToNative(Coordinate*, bool)
+20005f98 g     O .bss	000000dc processCommandsB
+20005ebc g     O .bss	000000dc processCommandsA
+00001dc0 g     F .text.itcm	00000048 Axis::autoSlewStop()
+0001c3d8 g     F .text.itcm	00000130 __kernel_cos
+0000e9a4 g     F .text.itcm	00000148 Guide::validate(int, GuideAction)
+0001b6f0 g     F .text.itcm	0000000a lroundl
+00006ee0 g     F .text.itcm	0000014c CommandProcessor::command(char*, char*, char*, bool*, bool*)
+200059ec g     O .bss	00000004 __malloc_top_pad
+00018b6c g     F .text.itcm	00000048 rtc_set
+20006348 g     O .bss	00000004 systick_safe_read
+0000d488 g     F .text.itcm	00000014 Goto::alignReset()
+00005768 g     F .text.itcm	00000094 HAL_HWTIMER1_WRAPPER()
+00015ee4 g     F .text.itcm	00000074 TMC2160Stepper::begin()
+00014f90 g     F .text.itcm	00000108 TwoWire::force_clock()
+200026f8  w    O .data	00000010 teensy::inplace_function<void (), 16u, 8u>::inplace_function<void (&)(), void (*)(), void>(void (&)())::vt
+aaaaabff g       *ABS*	00000000 _flexram_bank_config
+20003e3c g     O .data	00000000 .hidden __dso_handle
+0001d488 g     F .text.itcm	0000001e .hidden __aeabi_ui2d
+00008c1c g     F .text.itcm	00000178 Mount::begin()
+00008ab8 g     F .text.itcm	0000006c Mount::tracking(bool)
+00023310 g     F .text.itcm	00000008 _localeconv_r
+20006aaa g     O .bss	00000001 _task_postpone
+20006a94 g     O .bss	00000002 _nextRep4
+200023d8 g     O .data	00000024 vtable for SerialLocal
+00004fe4 g     F .text.itcm	00000034 NonVolatileStorage::isNull(unsigned short, short)
+00025638 g     F .text.itcm	000002f4 __sfvwrite_r
+00022778 g     F .text.itcm	0000005c __i2b
+20000000 g       .data	00000000 _sdata
+000162b8 g     F .text.itcm	000000b8 TMC2660Stepper::rms_current(unsigned short)
+60001e90 g     O .text.progmem	00000062 usb_config_descriptor_480
+000011ec g     F .text.itcm	00000064 Axis::setTargetCoordinatePark(double)
+0001d204 g     F .text.itcm	00000000 .hidden __aeabi_drsub
+0001f924 g     F .text.itcm	00000024 _sbrk_r
+00001fd8 g     F .text.itcm	0000000a Motor::markOriginCoordinateSteps()
+20003e20 g     O .data	00000004 TMC2130Stepper::spi_speed
+200024b4 g     O .data	0000003c vtable for TMC2130Stepper
+60001840 g     F .text.code	00000002 startup_default_early_hook
+20006aaf g     O .bss	00000001 modelNumberStars
+60001648 g     F .text.code	00000028 ResetHandler
+0001aa3c g     F .text.itcm	0000001e .hidden __math_invalidf
+00019d70 g     F .text.itcm	00000020 usb_serial_getchar
+00006b60 g     F .text.itcm	00000008 TlsTeensy::init()
+20006a74 g     O .bss	00000008 usb_cdc_line_coding
+00018284 g     F .text.itcm	00000054 digitalWrite
+0001c800 g     F .text.itcm	0000000e fabsf
+200057dc g     O .bss	00000004 EventResponder::lastYield
+00023368 g     F .text.itcm	0000002c _read_r
+00001058 g     F .text.itcm	00000030 Axis::setBacklash(float)
+00006390 g     F .text.itcm	00000022 Tasks::setDurationComplete(unsigned char)
+00004a20 g     F .text.itcm	00000040 NonVolatileStorage::committed()
+00022f98 g     F .text.itcm	000000c6 _fclose_r
+000104d0 g     F .text.itcm	00000320 Limits::command(char*, char*, char*, bool*, bool*, CommandError*)
+20006a9f g     O .bss	00000001 TMC2130Stepper::chain_length
+00007298 g     F .text.itcm	00000024 Weather::getDewPoint()
+200059e4 g     O .bss	00000004 __malloc_max_sbrked_mem
+000009e4  w    F .text.itcm	00000014 Motor::setSynchronized(bool)
+000182fc g     F .text.itcm	00000070 pinMode
+00005d7c g     F .text.itcm	00000060 Task::~Task()
+000173e0 g     F .text.itcm	00000026 HardwareSerialIMXRT::available()
+0001c508 g     F .text.itcm	000000b0 __kernel_sin
+0001d4cc g     F .text.itcm	00000042 .hidden __extendsfdf2
+000034bc g     F .text.itcm	000000e4 StepDirTmcSPI::enable(bool)
+00002d38 g     F .text.itcm	00000002 StepDirDriver::updateStatus()
+0000f3a8 g     F .text.itcm	00000198 Home::getPosition(CoordReturn)
+200064a4 g     O .bss	00000001 temperature
+0001d210 g     F .text.itcm	00000276 .hidden __adddf3
+600016a4 g     F .text.code	00000054 TwoWire::setSDA(unsigned char)
+0000f1dc g     F .text.itcm	00000088 Guide::startSpiral(GuideRateSelect, unsigned long)
+20003ad8 g     O .data	00000140 Wire2
+00002d54 g     F .text.itcm	00000058 StepDirDriver::subdivisionsToCode(long)
+6002d000 g     O .text.csf	00000c00 hab_csf
+00006644 g     F .text.itcm	00000068 TlsGPS::timeIsValid()
+00006330 g     F .text.itcm	0000001a Tasks::setPeriod(unsigned char, unsigned long)
+20280000 g       .text.csf	00000000 _heap_end
+0000f264 g     F .text.itcm	00000002 Guide::backlashEnableControl(bool)
+00022cdc g     F .text.itcm	000000c2 __b2d
+00025ea4 g       .ARM.exidx	00000000 __exidx_start
+00016c08 g     F .text.itcm	000000ca TinyGPSPlus::encode(char)
+00003bb0 g     F .text.itcm	00000020 Buffer::getCmd()
+00001000 g     F .text.itcm	0000001e Axis::enable(bool)
+00018d8c  w    F .text.itcm	00000004 _isatty
+200057d0 g     O .bss	00000004 EventResponder::firstYield
+00015528 g     F .text.itcm	00000016 TMC2130Stepper::tbl()
+000173bc  w    F .text.itcm	00000004 HardwareSerialIMXRT::operator bool()
+200062f8 g     O .bss	00000024 sense
+00015600 g     F .text.itcm	00000032 TMC2660Stepper::hend(unsigned char)
+00009620 g     F .text.itcm	0000026c GeoAlign::modelRead()
+00001d0c g     F .text.itcm	00000014 axisWrapper1()
+0001db24 g     F .text.itcm	000003d8 _realloc_r
+00004620 g     F .text.itcm	00000188 Convert::hmsToDouble(double*, char*, PrecisionMode)
+0001fd18 g     F .text.itcm	00000048 __libc_init_array
+000101d4 g     F .text.itcm	00000060 Library::nextRec()
+00018670 g     F .text.itcm	0000034c dtostrf
+20005be8 g     O .bss	00000004 fracLAST
+000050c0  w    F .text.itcm	0000000c TwoWire::available()
+20002608 g     O .data	00000030 vtable for HardwareSerialIMXRT
+00001d48 g     F .text.itcm	00000014 axisWrapper4()
+200027d8 g     O .data	00000100 __hexdig
+0000bb60 g     F .text.itcm	00001250 Goto::command(char*, char*, char*, bool*, bool*, CommandError*)
+20004414 g     O .data	00000080 isr_table_gpio1
+00002054  w    F .text.itcm	00000002 Motor::encoderSetOrigin(unsigned long)
+0001608c g     F .text.itcm	00000114 TMC2660Stepper::read()
+00025aa4 g     F .text.itcm	00000066 _fputwc_r
+20000b70 g     O .data	00000028 __mprec_bigtens
+00022628 g     F .text.itcm	000000b0 __s2b
+00018d98  w    F .text.itcm	00000004 abort
+000151d8 g     F .text.itcm	00000160 TwoWire::requestFrom(unsigned char, unsigned char, unsigned char)
+0001974c  w    F .text.itcm	00000004 usb_serial_class::clear()
+0001d488 g     F .text.itcm	0000001e .hidden __floatunsidf
+00018d40  w    F .text.itcm	00000034 _sbrk
+60027dac g       *ABS*	00000000 _sdataload
+0000112c g     F .text.itcm	00000078 Axis::getInstrumentCoordinate()
+00022ae0 g     F .text.itcm	00000042 __mcmp
+000154f8 g     F .text.itcm	00000016 TMC2130Stepper::hstrt()
+00001e80 g     F .text.itcm	0000000c Motor::setInstrumentCoordinateSteps(long)
+000183b8 g     F .text.itcm	00000104 attachInterrupt
+20003e38 g     O .data	00000004 __brkval
+20006ab6 g     O .bss	00000001 usb_cdc_line_rtsdtr
+0000d260 g     F .text.itcm	00000110 Goto::requestSync(Coordinate, PierSideSelect, bool)
+60001c28 g     F .text.code	00000000 _init
+00019ac0 g     F .text.itcm	00000002 usb_serial_reset
+00001eb0 g     F .text.itcm	0000001a Motor::setDefaultParameters(float, float, float, float, float, float)
+000154b0 g     F .text.itcm	00000022 TMC2130Stepper::vsense(bool)
+0001eed4 g     F .text.itcm	0000001c strtol
+0000b4a0 g     F .text.itcm	000000bc Transform::horToEqu(Coordinate*)
+20001ca8 g     O .data	000000e0 .hidden __sincosf_table
+000017cc g     F .text.itcm	000000f8 Axis::autoSlewHome(unsigned long)
+0001a868 g     F .text.itcm	000001bc cosf
+00002660 g     F .text.itcm	0000001c moveStepDirMotorFRAxis9()
+00005898 g     F .text.itcm	00000094 HAL_HWTIMER3_WRAPPER()
+000232ec g     F .text.itcm	00000024 strnlen
+000138b0 g     F .text.itcm	000001c8 gpsCheck()
+000088e8 g     F .text.itcm	00000198 Mount::update()
+00001284 g     F .text.itcm	0000003e Axis::nearTarget()
+000011a4 g     F .text.itcm	00000046 Axis::setInstrumentCoordinatePark(double)
+0001719c g     F .text.itcm	00000030 day()
+00025e40 g     F .text.itcm	00000040 .hidden __aeabi_d2ulz
+60001e2c g     O .text.progmem	00000062 usb_config_descriptor_12
+00000020 g     F .text.itcm	000000c0 irq_gpio6789
+0001bd48 g     F .text.itcm	00000690 __kernel_rem_pio2
+20002684 g     O .data	00000024 vtable for TwoWire
+0001df00 g     F .text.itcm	00000e70 _strtod_l
+000207c8 g     F .text.itcm	00000036 __match
+20006ae0 g       .bss	00000000 _ebss
+00001ecc g     F .text.itcm	00000010 Motor::resetPositionSteps(long)
+00004a64 g     F .text.itcm	0000008c NonVolatileStorage::init(unsigned short, bool, unsigned short, bool, TwoWire*, unsigned char)
+000156e8 g     F .text.itcm	00000008 TMC2660Stepper::rdsel()
+00006d50 g     F .text.itcm	0000000e CommandProcessor::~CommandProcessor()
+0000338c g     F .text.itcm	00000098 StepDirTmcSPI::modeDecayTracking()
+00005e18 g     F .text.itcm	000001dc Task::requestHardwareTimer(unsigned char, unsigned char)
+0000a818 g     F .text.itcm	000003a8 GeoAlign::observedPlaceToMount(Coordinate*)
+2000252c  w    O .data	0000003c vtable for TMC5130Stepper
+000010bc g     F .text.itcm	00000020 Axis::resetPosition(double)
+600016f8 g     F .text.code	00000034 TwoWire::configSCLpin(unsigned char)
+000078ac g     F .text.itcm	00000042 Telescope::Telescope()
+000163e8 g     F .text.itcm	00000070 TMC5130Stepper::TMC5130Stepper(unsigned short, float, signed char)
+0000b058 g     F .text.itcm	000000ec Transform::instrumentToMount(double, double)
+20004668 g     O .data	00000010 pps
+00004af0 g     F .text.itcm	00000194 NonVolatileStorage::poll(bool)
+000226d8 g     F .text.itcm	00000040 __hi0bits
+000102e4 g     F .text.itcm	0000004c Library::setCatalog(int)
+00017230 g     F .text.itcm	0000003c setTime(long long)
+000153f0 g     F .text.itcm	0000000c lpi2c3_isr()
+000025a0 g     F .text.itcm	00000018 moveStepDirMotorFRAxis2()
+20203080 g       .bss.dma	00000000 _heap_start
+20004678 g     O .data	00000214 serialLocal
+200043e8 g     O .data	0000002c guide
+0000d4a0 g     F .text.itcm	00000140 Goto::waypoint(Coordinate*)
+0000f8dc g     F .text.itcm	0000004c Home::requestDone()
+0000de10 g     F .text.itcm	000000b4 Goto::updateAccelerationRates()
+200059b4 g     O .bss	00000001 __lock___malloc_recursive_mutex
+00005678 g     F .text.itcm	00000002 Sound::beep()
+00003a44 g     F .text.itcm	0000016c Buffer::add(char)
+00005cf8 g     F .text.itcm	00000084 HAL_HWTIMER3_INIT(unsigned char)
+0001ed70 g     F .text.itcm	00000020 strtod
+00002048  w    F .text.itcm	00000002 Motor::calibrate(float)
+00009bb0 g     F .text.itcm	00000738 GeoAlign::doSearch(float, int, int, int, int, int, int, int, int, int)
+00015bdc  w    F .text.itcm	00000008 TMC2130Stepper::switchCSpin(bool)
+00016458 g     F .text.itcm	00000024 TMC5130Stepper::begin()
+60001d08  w    O .text.progmem	00000050 TwoWire::i2c4_hardware
+00004f8c g     F .text.itcm	0000000a NonVolatileStorage::readC(unsigned short)
+200059f0 g     O .bss	00000138 __sf
+00002cd8 g     F .text.itcm	00000010 moveStepDirMotorAxis4()
+0000222c g     F .text.itcm	0000000e StepDirMotor::setSlewing(bool)
+00003868 g     F .text.itcm	00000170 Calendars::julianDayToGregorian(JulianDate)
+20003698 g     O .data	00000040 ObjectStr
+0000702c g     F .text.itcm	00000170 CommandProcessor::poll()
+00006610  w    F .text.itcm	00000002 TimeLocationSource::restart()
+0001acc0 g     F .text.itcm	0000019c __ieee754_atan2
+00000005 g       *ABS*	00000000 _itcm_block_count
+0001d57c g     F .text.itcm	00000006 atof
+20004f40 g     O .bss	00000020 endpoint0_transfer_data
+000171fc g     F .text.itcm	00000034 year()
+00018608 g     F .text.itcm	00000004 operator delete(void*, unsigned int)
+00018a38 g     F .text.itcm	000000f4 pwm_init
+00013b48 g     F .text.itcm	00000110 Site::readLocation(unsigned char)
+0001d210 g     F .text.itcm	00000276 .hidden __aeabi_dadd
+00011e80 g     F .text.itcm	00000590 Pec::command(char*, char*, char*, bool*, bool*, CommandError*)
+20005cf4 g     O .bss	0000001d limits
+20005e50 g     O .bss	00000040 nv
+0001f294 g     F .text.itcm	0000003e strcat
+00015958 g     F .text.itcm	00000020 TMC2160Stepper::pwm_autoscale(bool)
+6002dc00 g       .text.csf	00000000 __text_csf_end
+0001bca8 g     F .text.itcm	00000010 .hidden __math_oflow
+00002588 g     F .text.itcm	00000018 moveStepDirMotorFRAxis1()
+000044dc g     F .text.itcm	00000056 Convert::atof2(char*, double*, bool)
+60001960 g     F .text.code	0000005c usb_pll_start
+00022930 g     F .text.itcm	000000c0 __pow5mult
+0001d510 g     F .text.itcm	0000006a .hidden __aeabi_ul2d
+000153fc g     F .text.itcm	0000000c lpi2c4_isr()
+00015540 g     F .text.itcm	00000016 TMC2130Stepper::vsense()
+20005658 g     O .bss	00000004 HAL_HWTIMER1_FUN
+00014a9c g     F .text.itcm	00000002 generalWrapper()
+20004f20 g     O .bss	00000020 endpoint0_transfer_ack
+20006a7c g     O .bss	00000004 usb_cdc_line_rtsdtr_millis
+000196ac g     F .text.itcm	00000028 usb_transmit
+000072bc g     F .text.itcm	00000540 Telescope::command(char*, char*, char*, bool*, bool*, CommandError*)
+0001647c g     F .text.itcm	000000ac TMC5160Stepper::TMC5160Stepper(unsigned short, float, signed char)
+0001739c g     F .text.itcm	00000020 systick_isr
+00005528  w    F .text.itcm	00000068 SerialLocal::write(unsigned char const*, unsigned int)
+0001fd6c g     F .text.itcm	00000002 __retarget_lock_release_recursive
+000155ec g     F .text.itcm	00000014 TMC2660Stepper::hstrt(unsigned char)
+00002ca8 g     F .text.itcm	00000010 moveStepDirMotorAxis1()
+20003728 g     O .data	00000010 Serial
+00017aa4 g     F .text.itcm	0000000c IRQHandler_Serial1
+00008d98 g     F .text.itcm	00000130 Mount::updatePosition(CoordReturn)
+000071c0 g     F .text.itcm	0000000c processCmdsLocal()
+00006384 g     F .text.itcm	0000000c Tasks::setPeriodRatioSubMicros(unsigned long)
+20000c60 g     O .data	00001048 .hidden __pow_log_data
+000137c8 g     F .text.itcm	000000a4 Site::updateLocation()
+20003678 g     O .data	00000008 _nextPeriod3
+00016010  w    F .text.itcm	00000006 usb_serial_class::write(unsigned char)
+60001840  w    F .text.code	00000002 startup_early_hook
+0001bd20 g     F .text.itcm	00000028 .hidden __math_check_oflow
+0001aa60 g     F .text.itcm	0000025c __ieee754_asin
+20005b50 g     O .bss	00000001 calendars
+20005b94 g     O .bss	00000040 driver2
+000004f8 g     F .text.itcm	000004ec Axis::command(char*, char*, char*, bool*, bool*, CommandError*)
+0000d6a0 g     F .text.itcm	000001dc Goto::request(Coordinate, PierSideSelect, bool)
+00002ea0 g     F .text.itcm	00000034 StepDirTmcSPI::modeMicrostepTracking()
+00019ca4 g     F .text.itcm	00000044 usb_serial_peekchar
+00011bf8 g     F .text.itcm	0000026c Park::restore(bool)
+0001a090 g     F .text.itcm	00000050 fmod
+00014050 g     F .text.itcm	00000a4a Status::command(char*, char*, char*, bool*, bool*, CommandError*)
+0001b0b0 g     F .text.itcm	00000080 cos
+00010ed0 g     F .text.itcm	0000005c Limits::isError()
+000064e8 g     F .text.itcm	00000028 Tasks::yield(unsigned long)
+0001f098 g     F .text.itcm	0000000c __sfp_lock_acquire
+00023440 g     F .text.itcm	00000000 memchr
+00000b24 g     F .text.itcm	000001d8 Axis::Axis(unsigned char, AxisPins const*, AxisSettings const*, AxisMeasure, float)
+00016d94 g     F .text.itcm	00000018 TinyGPSDate::day()
+00017e98 g     F .text.itcm	000002f0 set_arm_clock
+20006340 g     O .bss	00000004 systick_cycle_count
+2000488c g     O .data	00000016 usb_string_serial_number_default
+00006b58  w    F .text.itcm	00000002 TimeLocationSource::getSite(double&, double&, float&)
+0001ff84 g     F .text.itcm	0000020c _free_r
+000047e0 g     F .text.itcm	000001e8 Convert::dmsToDouble(double*, char*, bool, PrecisionMode)
+00001d98 g     F .text.itcm	00000014 axisWrapper8()
+0001f900 g     F .text.itcm	0000000c __locale_mb_cur_max
+00013e50 g     F .text.itcm	0000005a Site::localToUT1(JulianDate)
+20006a8e g     O .bss	00000002 _nextRep1
+0002352c g     F .text.itcm	00000016 _wcsrtombs_r
+00005674 g     F .text.itcm	00000002 Sound::alert()
+00006618 g     F .text.itcm	00000006 TlsGPS::set(JulianDate)
+000054c0  w    F .text.itcm	00000038 SerialLocal::available()
+00017534 g     F .text.itcm	00000068 HardwareSerialIMXRT::end()
+00017954 g     F .text.itcm	00000004 HardwareSerialIMXRT::write(unsigned char)
+20005820 g     O .bss	00000190 __atexit0
+0000e534 g     F .text.itcm	0000005c Guide::stopAxis1(GuideAction, bool)
+00019754  w    F .text.itcm	00000004 usb_serial_class::flush()
+00016d10 g     F .text.itcm	00000038 TinyGPSLocation::lng()
+00010f6c g     F .text.itcm	000000c8 Limits::errorCode()
+0000883c g     F .text.itcm	000000ac Mount::init()
+0000e870 g     F .text.itcm	00000134 Guide::validAxis2(GuideAction)
+0001d20c g     F .text.itcm	0000027a .hidden __aeabi_dsub
+000025f0 g     F .text.itcm	0000001c moveStepDirMotorFRAxis5()
+00003bd0 g     F .text.itcm	0000003a Buffer::getParameter()
+200043b4 g     O .data	00000004 __malloc_sbrk_base
+0001600c  w    F .text.itcm	00000004 usb_serial_class::read()
+0001f750 g     F .text.itcm	00000168 strstr
+20004614 g     O .data	00000008 itimer1
+00015be4  w    F .text.itcm	00000034 TMC2130Stepper::beginTransaction()
+0001b198 g     F .text.itcm	00000080 sin
+0001d510 g     F .text.itcm	0000006a .hidden __floatundidf
+00001f74 g     F .text.itcm	00000056 Motor::setTargetCoordinateParkSteps(long, int)
+00018d90  w    F .text.itcm	00000006 _lseek
+000020b0 g     F .text.itcm	00000028 StepDirMotor::getFrequencySteps()
+000229f0 g     F .text.itcm	000000f0 __lshift
+00006440 g     F .text.itcm	000000a8 Tasks::yield()
+0001967c g     F .text.itcm	00000030 usb_prepare_transfer
+00006368 g     F .text.itcm	0000001a Tasks::setPeriodSubMicros(unsigned char, unsigned long)
+00017408 g     F .text.itcm	0000007a HardwareSerialIMXRT::peek()
+0001a08c g     F .text.itcm	00000004 atan2
+0000a804 g     F .text.itcm	00000014 autoModelWrapper()
+00018bb4 g     F .text.itcm	0000018c unused_interrupt_vector
+00001d34 g     F .text.itcm	00000014 axisWrapper3()
+000042b8 g     F .text.itcm	0000019c Convert::doubleToDms(char*, double, bool, bool, PrecisionMode)
+000244b4 g     F .text.itcm	00000100 __ssprint_r
+20006a80 g     O .bss	00000004 usb_timer0_callback
+600019bc g     F .text.code	00000130 tempmon_init
+00016778 g     F .text.itcm	00000088 TinyGPSPlus::parseDegrees(char const*, RawDegrees&)
+00004d68 g     F .text.itcm	00000004 NonVolatileStorage::ignoreCache(bool)
+0001fe5c g     F .text.itcm	00000088 __register_exitproc
+00017ad4  w    F .text.itcm	00000002 teensy::inplace_function_detail::vtable<void>::vtable()::{lambda(void*)#4}::_FUN(void*)
+00008f10 g     F .text.itcm	0000061c Mount::poll()
+00015780 g     F .text.itcm	00000046 TMC2660Stepper::mres(unsigned char)
+00001d84 g     F .text.itcm	00000014 axisWrapper7()
+0001f3a0 g     F .text.itcm	0000008a strncmp
+00001340 g     F .text.itcm	0000007c Axis::setFrequencySlew(float)
+00001ff0 g     F .text.itcm	00000022 Motor::getOriginOrTargetDistanceSteps()
+0000b7a8 g     F .text.itcm	00000090 Transform::topocentricToObservedPlace(Coordinate*)
+20005270 g     O .bss	00000208 goTo
+00015920 g     F .text.itcm	00000022 TMC2130Stepper::pwm_autoscale(bool)
+00019d00 g     F .text.itcm	00000070 usb_serial_flush_input
+00002d18 g     F .text.itcm	00000010 moveStepDirMotorAxis8()
+0000336c g     F .text.itcm	0000001e StepDirTmcSPI::setDecayMode(int)
+00015944 g     F .text.itcm	00000012 TMC2160Stepper::PWMCONF(unsigned long)
+00014aa0 g     F .text.itcm	00000054 flash()
+000227d4 g     F .text.itcm	0000015c __multiply
+20005cd0 g     O .bss	00000024 library
+00006d60 g     F .text.itcm	00000050 CommandProcessor::CommandProcessor(long, char)
+0001a0e0 g     F .text.itcm	0000057c pow
+00019d90 g     F .text.itcm	0000002c usb_serial_putchar
+00000026 g       *ABS*	00000000 _teensy_model_identifier
+0001f42c g     F .text.itcm	00000064 strncpy
+00017484 g     F .text.itcm	00000092 HardwareSerialIMXRT::read()
+20005b2c g     O .bss	00000024 axisWrapper
+200059bc g     O .bss	00000028 __malloc_current_mallinfo
+000071b4 g     F .text.itcm	0000000c processCmdsC()
+0000ec1c g     F .text.itcm	000000b4 Guide::startHome()
+20002300 g     O .data	00000050 SPIClass::spiclass_lpspi4_hardware
+0000f5d0 g     F .text.itcm	0000009c Home::init()
+0000b6c8 g     F .text.itcm	000000dc Transform::trueRefrac(double)
+000054fc  w    F .text.itcm	0000002a SerialLocal::write(unsigned char)
+00022da0 g     F .text.itcm	000000d4 __d2b
+00017e38 g     F .text.itcm	00000060 analogReadRes
+0000b210 g     F .text.itcm	00000074 Transform::hourAngleToRightAscension(Coordinate*, bool)
+0000e590 g     F .text.itcm	0000005c Guide::stopAxis2(GuideAction, bool)
+00002420 g     F .text.itcm	00000018 moveStepDirMotorFFAxis2()
+60001bd4 g     F .text.code	00000054 _reboot_Teensyduino_
+60001844 g     F .text.code	00000002 startup_default_middle_hook
+00016000 g     F .text.itcm	00000008 TMC2160Stepper::rms_current(unsigned short, float)
+00002d08 g     F .text.itcm	00000010 moveStepDirMotorAxis7()
+20005660 g     O .bss	00000004 HAL_HWTIMER3_FUN
+00006150 g     F .text.itcm	0000008c Tasks::Tasks()
+000134e4 g     F .text.itcm	0000000e Site::isDateTimeReady()
+000125c4 g     F .text.itcm	000001f0 Pec::cleanup()
+000100bc g     F .text.itcm	00000064 Library::nameRec()
+00015c94  w    F .text.itcm	0000010c TMC2130Stepper::read(unsigned char)
+0000cdc4 g     F .text.itcm	000000a8 Goto::validate()
+000071d0 g     F .text.itcm	00000008 Weather::init()
+00007b20 g     F .text.itcm	00000d1c Mount::command(char*, char*, char*, bool*, bool*, CommandError*)
+00018f84 g     F .text.itcm	00000630 usb_isr
+0001f90c g     F .text.itcm	0000000c __cxa_atexit
+0000567c g     F .text.itcm	00000002 Sound::click()
+00023318 g     F .text.itcm	00000024 _close_r
+0001d4a8 g     F .text.itcm	00000022 .hidden __aeabi_i2d
+00017b7c g     F .text.itcm	00000104 IntervalTimer::beginCycles(teensy::inplace_function<void (), 16u, 8u>, unsigned long)
+00001e58 g     F .text.itcm	00000028 Axis::motionErrorSensed(Direction)
+20006074 g     O .bss	000000dc processCommandsC
+200036d8 g     O .data	00000050 SPI
+20004514 g     O .data	00000080 isr_table_gpio3
+00015e98 g     F .text.itcm	0000004c TMC2160Stepper::TMC2160Stepper(unsigned short, float, signed char)
+0002328c g     F .text.itcm	00000060 memcmp
+200025e0  w    O .data	00000028 vtable for usb_serial_class
+00011b68 g     F .text.itcm	00000050 Park::requestAborted()
+00013580 g     F .text.itcm	00000194 Site::julianDateToGAST(JulianDate)
+000159d4 g     F .text.itcm	00000074 SW_SPIClass::transfer(unsigned char)
+0000260c g     F .text.itcm	0000001c moveStepDirMotorFRAxis6()
+0001fd64 g     F .text.itcm	00000002 __retarget_lock_close_recursive
+200050e8 g     O .bss	000000c0 axis1
+20005568 g     O .bss	00000068 pec
+20006274 g     O .bss	00000004 scale_cpu_cycles_to_microseconds
+00005670 g     F .text.itcm	00000002 SerialLocal::end()
+00010e68 g     F .text.itcm	00000068 Limits::validateTarget(Coordinate*, bool*, bool*, double*, double*, bool)
+00005ff4 g     F .text.itcm	000000e0 Task::poll()
+0002592c g     F .text.itcm	000000cc __swsetup_r
+0000e780 g     F .text.itcm	000000f0 Guide::validAxis1(GuideAction)
+00004e00 g     F .text.itcm	00000088 NonVolatileStorage::writeToCache(unsigned short, unsigned char)
+00022ed8 g     F .text.itcm	0000005c __copybits
+000155cc g     F .text.itcm	00000020 TMC2660Stepper::toff(unsigned char)
+2000565c g     O .bss	00000004 HAL_HWTIMER2_FUN
+20006a90 g     O .bss	00000002 _nextRep2
+00003c1c g     F .text.itcm	00000042 Buffer::ready()
+20003fac g     O .data	00000408 __malloc_av_
+2000581c g     O .bss	00000004 __atexit
+00000cfc g     F .text.itcm	00000304 Axis::init(Motor*)
+0000df20 g     F .text.itcm	0000012c Goto::init()
+000231e4 g     F .text.itcm	00000022 __sread
+00006d50 g     F .text.itcm	0000000e CommandProcessor::~CommandProcessor()
+20005b54 g     O .bss	00000040 driver1
+00005414 g     F .text.itcm	00000056 Sense::add(int, int, long, bool)
+00019e24 g     F .text.itcm	00000094 usb_serial_flush_output
+0000170c g     F .text.itcm	000000c0 Axis::autoSlew(Direction, float)
+0001db0c g     F .text.itcm	0000000c __malloc_lock
+00017518 g     F .text.itcm	0000001a HardwareSerialIMXRT::flush()
+0001d114 g     F .text.itcm	000000e4 scalbnf
+00005ddc g     F .text.itcm	00000038 Tasks::~Tasks()
+20004c00 g     O .data	000002c0 _VectorsRam
+00005930 g     F .text.itcm	000000cc HAL_HWTIMER_PREPARE_PERIOD(unsigned char, unsigned long)
+00023190 g     F .text.itcm	00000054 _fflush_r
+00023600 g     F .text.itcm	00000078 _calloc_r
+000012f8 g     F .text.itcm	00000034 Axis::setSlewAccelerationRateAbort(float)
+00009ad0 g     F .text.itcm	000000da GeoAlign::correct(AlignCoordinate&, float, float, float, float, float, float, float, float, float*, float*)
+000134f4 g     F .text.itcm	00000006 Site::getSiderealPeriod()
+000020d8  w    F .text.itcm	00000078 StepDirMotor::calibrateDriver()
+00014cd8 g     F .text.itcm	00000234 SPIClass::begin()
+20005bec g     O .bss	00000004 getTimePtr
+20002568  w    O .data	0000003c vtable for TMC5160Stepper
+00001edc g     F .text.itcm	0000000e Motor::getMotorPositionSteps()
+00006900 g     F .text.itcm	00000258 TlsGPS::get(JulianDate&)
+0000267c g     F .text.itcm	00000260 StepDirMotor::StepDirMotor(unsigned char, StepDirPins const*, StepDirDriver*, bool)
+20006abb g     O .bss	00000001 yield_active_check_flags
+0001fd68 g     F .text.itcm	00000002 __retarget_lock_acquire_recursive
+20006ab8 g     O .bss	00000001 usb_high_speed
+00011848 g     F .text.itcm	0000010c Park::set()
+20006150 g     O .bss	000000dc processCommandsLocal
+000053b0 g     F .text.itcm	00000062 SenseInput::SenseInput(int, int, long)
+0001f1f0 g     F .text.itcm	000000a4 memset
+0001b440 g     F .text.itcm	00000006 __ieee754_sqrtf
+0000725c g     F .text.itcm	00000006 Weather::getHumidity()
+00005ddc g     F .text.itcm	00000038 Tasks::~Tasks()
+000184bc g     F .text.itcm	00000010 main
+00002cf8 g     F .text.itcm	00000010 moveStepDirMotorAxis6()
+000117e8 g     F .text.itcm	00000060 Park::command(char*, char*, char*, bool*, bool*, CommandError*)
+00002f2c g     F .text.itcm	000000fc StepDirTmcSPI::updateStatus()
+200059e8 g     O .bss	00000004 __malloc_max_total_mem
+0000fe50 g     F .text.itcm	0000014c Library::writeVars(char*, int, double, double)
+000156cc g     F .text.itcm	00000014 TMC2660Stepper::vsense(bool)
+0001fd60 g     F .text.itcm	00000002 __retarget_lock_init_recursive
+20200000 g     O .bss.dma	00000062 usb_descriptor_buffer
+00017078 g     F .text.itcm	00000094 now()
+000009f8  w    F .text.itcm	00000002 Motor::poll()
+000071a8 g     F .text.itcm	0000000c processCmdsB()
+00006738 g     F .text.itcm	0000005c TlsGPS::getSite(double&, double&, float&)
+00015838 g     F .text.itcm	00000008 TMC2130Stepper::DRV_STATUS()
+00010330 g     F .text.itcm	0000006c Library::gotoRec(long)
+20005d14 g     O .bss	0000009c motor1
+00015e98 g     F .text.itcm	0000004c TMC2160Stepper::TMC2160Stepper(unsigned short, float, signed char)
+00004038 g     F .text.itcm	000000f4 sprintF(char*, char const*, double)
+00023268 g     F .text.itcm	00000008 __sclose
+000196f4 g     F .text.itcm	00000058 usb_init_serialnumber
+60001cb8 g       .text.code	00000000 __init_array_end
+00006624 g     F .text.itcm	00000020 gpsPoll()
+000237a0 g     F .text.itcm	00000cec _dtoa_r
+0001d5ac g     F .text.itcm	00000560 _malloc_r
+0000ed30 g     F .text.itcm	00000140 Guide::startAxis2(GuideAction, GuideRateSelect, unsigned long)
+00023270 g     F .text.itcm	0000001a __ascii_wctomb
+20005664 g     O .bss	00000004 HAL_HWTIMER4_FUN
+0001d520 g     F .text.itcm	0000005a .hidden __aeabi_l2d
+00005368 g     F .text.itcm	00000048 SenseInput::reset()
+000037f0 g     F .text.itcm	00000078 Calendars::gregorianToJulian(GregorianDate)
+20002708  w    O .data	00000010 SPIClass::beginTransaction(SPISettings)::clk_sel
+000172d0 g     F .text.itcm	00000084 EventResponder::triggerEventNotImmediate()
+00018230 g     F .text.itcm	00000054 micros
+0000547c g     F .text.itcm	0000000a Sense::reverse(unsigned char, bool)
+00001658 g     F .text.itcm	000000b4 Axis::autoGoto(float)
+00001fcc g     F .text.itcm	0000000a Motor::setBacklashSteps(long)
+0001b278 g     F .text.itcm	000001c0 __kernel_tanf
+000071cc g     F .text.itcm	00000004 Temperature::init()
+00003f48 g     F .text.itcm	00000038 SerialWrapper::read()
+00002050  w    F .text.itcm	00000004 Motor::getEncoderCount()
+000010dc g     F .text.itcm	00000018 Axis::getIndexPosition()
+0001fee4 g     F .text.itcm	000000a0 _malloc_trim_r
+000063b4 g     F .text.itcm	0000008c Tasks::getHandleByName(char const*)
+00025b0c g     F .text.itcm	00000106 _wcsnrtombs_l
+60001e28 g     O .text.progmem	00000004 string0
+200054e0 g     O .bss	00000088 mount
+00019dbc g     F .text.itcm	00000018 usb_serial_write
+0000e0c0 g     F .text.itcm	00000388 Guide::command(char*, char*, char*, bool*, bool*, CommandError*)
+60001848  w    F .text.code	00000002 startup_late_hook
+00013488 g     F .text.itcm	0000005c Site::getSiderealTime()
+0001bd08 g     F .text.itcm	00000012 .hidden __math_check_uflow
+0000e4b4 g     F .text.itcm	00000080 Guide::abort()
+200048a4 g     O .data	00000014 weather
+00016008  w    F .text.itcm	00000004 usb_serial_class::available()
+0001f988 g     F .text.itcm	000002dc strcmp
+00000b24 g     F .text.itcm	000001d8 Axis::Axis(unsigned char, AxisPins const*, AxisSettings const*, AxisMeasure, float)
+00014ba8 g     F .text.itcm	0000003c Status::flashRate(int)
+00010450 g     F .text.itcm	00000030 Library::clearAll()
+0001386c g     F .text.itcm	00000044 Site::setDateTime(JulianDate)
+0001b218 g     F .text.itcm	00000060 tan
+20000000 g     O .data	00000280 endpoint_queue_head
+60001df8  w    O .text.progmem	00000016 usb_string_product_name
+00003318 g     F .text.itcm	00000054 StepDirTmcSPI::StepDirTmcSPI(unsigned char, StepDirDriverPins const*, StepDirDriverSettings const*)
+00011bb8 g     F .text.itcm	00000040 Park::requestDone()
+00004e88 g     F .text.itcm	00000030 NonVolatileStorage::writeKey(unsigned long)
+00006868 g     F .text.itcm	00000094 TlsGPS::poll()
+00018188 g     F .text.itcm	000000a8 delay
+000103f0 g     F .text.itcm	00000060 Library::clearLib()
+20003668 g     O .data	00000008 _nextPeriod1
+00025e40 g     F .text.itcm	00000040 .hidden __fixunsdfdi
+00025ea0 g     F .fini	00000000 _fini
+00005590  w    F .text.itcm	0000005c SerialLocal::peek()
+0000f268 g     F .text.itcm	0000012c Home::command(char*, char*, char*, bool*, bool*, CommandError*)
+00013ee8 g     F .text.itcm	0000003a Site::rangeAmPm(double)
+00013380 g     F .text.itcm	00000010 clockTickWrapper()
+00014f28 g     F .text.itcm	0000002a TwoWire::write(unsigned char)
+60001020 g     O .text.headers	0000000c BootData
+2000631c g     O .bss	00000024 stepDirMotorInstance
+000171cc g     F .text.itcm	00000030 month()
+00006150 g     F .text.itcm	0000008c Tasks::Tasks()
+0001aea0 g     F .text.itcm	0000020c atan
+0000ffa0 g     F .text.itcm	0000011c Library::readVars(char*, int*, double*, double*)
+0001eef0 g     F .text.itcm	00000040 sprintf
+00003e7c g     F .text.itcm	00000060 SerialWrapper::write(unsigned char)
+00015b58 g     F .text.itcm	00000084 TMC2130Stepper::TMC2130Stepper(unsigned short, float, signed char)
+00008b24 g     F .text.itcm	000000ec Mount::autostartPostponed()
+00018d9c g     F .text.itcm	00000004 Panic_Temp_isr
+00025e10 g     F .text.itcm	00000030 .hidden __fixdfdi
+000078ac g     F .text.itcm	00000042 Telescope::Telescope()
+000157c8 g     F .text.itcm	00000070 TMC2660Stepper::DRVSTATUS()
+00025c14 g     F .text.itcm	00000024 _wcsnrtombs_r
+0001f948 g     F .text.itcm	0000002c _write_r
+00017ad0  w    F .text.itcm	00000002 teensy::inplace_function_detail::vtable<void>::vtable()::{lambda(void*, void*)#3}::_FUN(void*, void*)
+000067a0 g     F .text.itcm	000000c8 TlsGPS::init()
+0000e448 g     F .text.itcm	0000006c Guide::init()
+00018b2c g     F .text.itcm	0000001c analogWriteRes
+0001a034 g     F .text.itcm	00000058 asin
+20003680 g     O .data	00000008 _nextPeriod4
+00001f68 g     F .text.itcm	0000000c Motor::setTargetCoordinateSteps(long)
+00016dc4 g     F .text.itcm	0000002c TinyGPSTime::minute()
+00016800 g     F .text.itcm	00000408 TinyGPSPlus::endOfTermHandler()
+0000565c g     F .text.itcm	00000012 SerialLocal::begin(long)
+00010d28 g     F .text.itcm	000000d8 Limits::init()
+00006510 g     F .text.itcm	00000022 Tasks::yieldMicros(unsigned long)
+00004c84 g     F .text.itcm	000000e4 NonVolatileStorage::wait()
+0000ecd0 g     F .text.itcm	0000005c Guide::axis2AutoSlew(GuideAction)
+000049c8 g     F .text.itcm	00000048 Convert::dmsToDouble(double*, char*, bool)
+00003318 g     F .text.itcm	00000054 StepDirTmcSPI::StepDirTmcSPI(unsigned char, StepDirDriverPins const*, StepDirDriverSettings const*)
+00016370 g     F .text.itcm	00000076 TMC2660Stepper::microsteps(unsigned short)
+200043c8 g     O .data	00000004 _impure_ptr
+0000e680 g     F .text.itcm	000000fc Guide::rateSelectToRate(GuideRateSelect, unsigned char)
+00023060 g     F .text.itcm	00000130 __sflush_r
+0001c810 g     F .text.itcm	0000010c scalbn
+20003858 g     O .data	00000140 Wire
+0001f0b0 g     F .text.itcm	00000046 _fwalk_sglue
+00017c80 g     F .text.itcm	00000070 IntervalTimer::end()
+00006620 g     F .text.itcm	00000002 TlsGPS::set(int, int, int, int, int, int)
+00010e00 g     F .text.itcm	00000068 Limits::validateTarget(Coordinate*, bool)
+60001c70 g       .text.code	00000000 __preinit_array_end
+0000de00  w    F .text.itcm	0000000c gotoWrapper()
+00015c18  w    F .text.itcm	0000005c TMC2130Stepper::endTransaction()
+000155a8 g     F .text.itcm	00000022 TMC2130Stepper::intpol(bool)
+00012b68 g     F .text.itcm	00000818 Site::command(char*, char*, char*, bool*, bool*, CommandError*)
+0001713c g     F .text.itcm	00000030 minute()
+000012c4 g     F .text.itcm	00000034 Axis::setSlewAccelerationRate(float)
+000209b0 g     F .text.itcm	0000002a __ascii_mbtowc
+00002cb8 g     F .text.itcm	00000010 moveStepDirMotorAxis2()
+00022c78 g     F .text.itcm	00000064 __ulp
+00018f58 g     F .text.itcm	0000002c usb_stop_sof_interrupts
+000047a8 g     F .text.itcm	00000034 Convert::hmsToDouble(double*, char*)
+0000b838 g     F .text.itcm	00000154 Transform::nativeToMount(Coordinate*, double*, double*)
+200064a8 g     O .bss	00000004 tlsGps
+00014f0c  w    F .text.itcm	00000018 TwoWire::peek()
+00015474 g     F .text.itcm	0000003a TMC2130Stepper::tbl(unsigned char)
+00014f24  w    F .text.itcm	00000002 TwoWire::flush()
+0000014c g     F .text.itcm	000000c4 setup
+20003490 g     O .data	00000084 usb_descriptor_list
+00006224 g     F .text.itcm	00000048 Tasks::requestHardwareTimer(unsigned char, unsigned char)
+000061dc g     F .text.itcm	00000048 Tasks::add(unsigned long, unsigned long, bool, unsigned char, void (*)(), char const*)
+000158f8 g     F .text.itcm	00000028 TMC2130Stepper::PWMCONF(unsigned long)
+00002d28 g     F .text.itcm	00000010 moveStepDirMotorAxis9()
+0001a660 g     F .text.itcm	00000204 sinf
+20005e4c g     O .bss	00000003 mountStatus
+00008ec8 g     F .text.itcm	00000024 Mount::getPosition(CoordReturn)
+0001b6e0 g     F .text.itcm	00000010 nan
+0001671c g     F .text.itcm	0000005c TinyGPSPlus::parseDecimal(char const*)
+00002408 g     F .text.itcm	00000018 moveStepDirMotorFFAxis1()
+00010480 g     F .text.itcm	0000004c Library::recFreeAll()
+0000f800 g     F .text.itcm	000000dc Home::guideDone(bool)
+00016d6c g     F .text.itcm	00000028 TinyGPSDate::month()
+0001b438 g     F .text.itcm	00000006 __ieee754_sqrt
+00013538 g     F .text.itcm	00000044 Site::getTime()
+20058000 g       .text.csf	00000000 _estack
+00004a18  w    F .text.itcm	00000008 NonVolatileStorage::writePageToStorage(unsigned short, unsigned char*, unsigned char)
+00019dd4 g     F .text.itcm	00000050 usb_serial_write_buffer_free
+0001b144 g     F .text.itcm	00000054 tanf
+00005680  w    F .text.itcm	00000004 teensy::inplace_function_detail::vtable<void>::vtable<void (*)()>(teensy::inplace_function_detail::wrapper<void (*)()>)::{lambda(void*)#1}::_FUN(void*)
+00011954 g     F .text.itcm	00000050 Park::init()
+00015da0  w    F .text.itcm	0000007e TMC2130Stepper::write(unsigned char, unsigned long)
+6000172c g     F .text.code	00000058 TwoWire::setSCL(unsigned char)
+00005800 g     F .text.itcm	00000094 HAL_HWTIMER2_WRAPPER()
+00016f88 g     F .text.itcm	000000f0 makeTime(tmElements_t const&)
+000158b8 g     F .text.itcm	0000001e TMCStepper::ihold(unsigned char)
+00003d84 g     F .text.itcm	000000b4 SerialWrapper::begin(long)
+200043bc g     O .data	0000000c __sglue
+00013dc0 g     F .text.itcm	00000034 Site::setElevation(float)
+20005bf0 g     O .bss	00000001 gpio
+0000952c  w    F .text.itcm	0000000c mountWrapper()
+00019ac4 g     F .text.itcm	00000100 usb_serial_configure
+00014f54 g     F .text.itcm	0000003c TwoWire::write(unsigned char const*, unsigned int)
+00008c10  w    F .text.itcm	0000000c autostartWrapper()
+00017d6c  w    F .text.itcm	0000001c _write
+00006c90 g     F .text.itcm	000000c0 TlsTeensy::set(JulianDate)
+20004ec0 g       .data	00000000 _edata
+200055d0 g     O .bss	00000088 site
+2000265c g     O .data	00000028 vtable for TlsGPS
+0000f7b4 g     F .text.itcm	00000048 Home::reset(bool)
+000156e0 g     F .text.itcm	00000006 TMC2660Stepper::sdoff()
+00004f98 g     F .text.itcm	00000020 NonVolatileStorage::readUI(unsigned short)
+00016018 g     F .text.itcm	00000074 TMC2660Stepper::TMC2660Stepper(unsigned short, float)
+00007224 g     F .text.itcm	00000038 Weather::setPressure(float)
+00006b90 g     F .text.itcm	000000fc TlsTeensy::get(JulianDate&)
+20006464 g     O .bss	00000040 telescope
+2000461c g     O .data	00000008 itimer2
+000259f8 g     F .text.itcm	000000aa __fputwc
+00019758  w    F .text.itcm	00000004 usb_serial_class::availableForWrite()
+00002644 g     F .text.itcm	0000001c moveStepDirMotorFRAxis8()
+000153e4 g     F .text.itcm	0000000c lpi2c1_isr()
+0000568c  w    F .text.itcm	00000006 teensy::inplace_function_detail::vtable<void>::vtable<void (*)()>(teensy::inplace_function_detail::wrapper<void (*)()>)::{lambda(void*, void*)#3}::_FUN(void*, void*)
+00015408 g     F .text.itcm	0000000c lpi2c2_isr()
+0000e5ec g     F .text.itcm	00000090 Guide::stop()
+00004a10 g     F .text.itcm	00000004 Gpio::init()
+00017838 g     F .text.itcm	00000040 nvic_execution_priority()
+20004594 g     O .data	00000080 isr_table_gpio4
+000163e8 g     F .text.itcm	00000070 TMC5130Stepper::TMC5130Stepper(unsigned short, float, signed char)
+00004130 g     F .text.itcm	00000184 Convert::doubleToHms(char*, double, bool, PrecisionMode)
+00016d48 g     F .text.itcm	00000024 TinyGPSDate::year()
+0001860c g     F .text.itcm	00000062 ultoa
+0001716c g     F .text.itcm	00000030 second()
+60001784 g     F .text.code	00000068 TwoWire::begin()
+000066b0 g     F .text.itcm	00000084 TlsGPS::siteIsValid()
+0000f540 g     F .text.itcm	00000090 Home::setReversal()
+00002d3c g     F .text.itcm	00000018 StepDirDriver::getPulseWidth()
+00017abc g     F .text.itcm	0000000c IRQHandler_Serial4
+00005bf0 g     F .text.itcm	00000084 HAL_HWTIMER1_INIT(unsigned char)
+00001ef8 g     F .text.itcm	00000070 Motor::setInstrumentCoordinateParkSteps(long, int)
+00023208 g     F .text.itcm	0000003e __swrite
+00018600 g     F .text.itcm	00000004 operator new(unsigned int)
+00017354 g     F .text.itcm	00000044 EventResponder::runFromInterrupt()
+200043b8 g     O .data	00000004 __malloc_trim_threshold
+00019750  w    F .text.itcm	00000004 usb_serial_class::peek()
+0001f918 g     F .text.itcm	0000000a fcvtf
+20005478 g     O .bss	00000068 home
+00003718 g     F .text.itcm	000000d8 Calendars::gregorianToJulianDay(GregorianDate)
+000025b8 g     F .text.itcm	0000001c moveStepDirMotorFRAxis3()
+00009564 g     F .text.itcm	000000b8 GeoAlign::init(signed char, float)
+0002448c g     F .text.itcm	00000028 fiprintf
+0002462c g     F .text.itcm	00000f8c _vfiprintf_r
+00004f84 g     F .text.itcm	00000004 NonVolatileStorage::read(unsigned short)
+00015a48  w    F .text.itcm	00000110 SPIClass::beginTransaction(SPISettings)
+20006aae g     O .bss	00000001 ledOn
+000013bc g     F .text.itcm	0000019c Axis::setFrequency(float)
+00022b24 g     F .text.itcm	00000154 __mdiff
+000071d8 g     F .text.itcm	00000006 Weather::getTemperature()
+000035a0 g     F .text.itcm	00000178 StepDirTmcSPI::calibrateDriver()
+0000201c g     F .text.itcm	0000002a Motor::getDirection()
+0001bc98 g     F .text.itcm	00000010 .hidden __math_uflow
+00003e38 g     F .text.itcm	00000044 SerialWrapper::end()
+00005180 g     F .text.itcm	000000a8 NonVolatileStorageMB85RC::readFromStorage(unsigned short)
+20003548 g     O .data	00000120 _impure_data
+00012410 g     F .text.itcm	000001b4 Pec::init()
+0001710c g     F .text.itcm	00000030 hour()
+00006b5c  w    F .text.itcm	00000002 TimeLocationSource::poll()
+0001f0a4 g     F .text.itcm	0000000c __sfp_lock_release
+00008a80 g     F .text.itcm	00000038 Mount::enable(bool)
+000053b0 g     F .text.itcm	00000062 SenseInput::SenseInput(int, int, long)
+00002014 g     F .text.itcm	00000006 Motor::setBacklashFrequencySteps(float)
+00002454 g     F .text.itcm	0000001c moveStepDirMotorFFAxis4()
+000028dc g     F .text.itcm	000000e4 StepDirMotor::modeSwitch()
+200037f8 g     O .data	00000060 Serial4
+00005c74 g     F .text.itcm	00000084 HAL_HWTIMER2_INIT(unsigned char)
+2000299c g     O .data	00000101 _ctype_
+00005b38 g     F .text.itcm	000000b8 tasksMonitor()
+00004fb8 g     F .text.itcm	0000002a NonVolatileStorage::readF(unsigned short)
+00018d74  w    F .text.itcm	00000004 _read
+60001c70 g       .text.code	00000000 __init_array_start
+0000d370 g     F .text.itcm	00000118 Goto::alignAddStar(bool)
+00015414 g     F .text.itcm	00000022 TMC2130Stepper::hstrt(unsigned char)
+0000787c g     F .text.itcm	00000030 mcuTempWrapper()
+00017d88 g     F .text.itcm	000000b0 analogRead
+0000267c g     F .text.itcm	00000260 StepDirMotor::StepDirMotor(unsigned char, StepDirPins const*, StepDirDriver*, bool)
+20003690 g     O .data	00000004 F_BUS_ACTUAL
+00013a78 g     F .text.itcm	000000d0 Site::readJD()
+00001558 g     F .text.itcm	00000010 Axis::getStatus()
+00017ac8  w    F .text.itcm	00000002 teensy::inplace_function_detail::vtable<void>::vtable()::{lambda(void*)#1}::_FUN(void*)
+00015584 g     F .text.itcm	00000022 TMC2130Stepper::toff(unsigned char)
+20002fb8 g     O .data	0000001c pin_to_channel
+00015870 g     F .text.itcm	0000001e TMC2130Stepper::en_pwm_mode(bool)
+0001c91c g     F .text.itcm	00000658 __kernel_rem_pio2f
+00004454 g     F .text.itcm	00000060 Convert::atoi2(char*, short*, bool)
+00016618 g     F .text.itcm	00000008 TMCStepper::rms_current(unsigned short, float)
+00015558 g     F .text.itcm	00000016 TMC2130Stepper::mres()
+00025c38 g     F .text.itcm	000000d8 __smakebuf_r
+00002470 g     F .text.itcm	0000001c moveStepDirMotorFFAxis5()
+00000000 g       .text.itcm	00000000 _stext
+0000ce70 g     F .text.itcm	000003ec Goto::setTarget(Coordinate*, PierSideSelect, bool)
+20003e1c g     O .data	00000004 IntervalTimer::nvic_priorites
+00005684  w    F .text.itcm	00000006 teensy::inplace_function_detail::vtable<void>::vtable<void (*)()>(teensy::inplace_function_detail::wrapper<void (*)()>)::{lambda(void*, void*)#2}::_FUN(void*, void*)
+0001fd80 g     F .text.itcm	000000dc strlen
+00005274 g     F .text.itcm	00000090 SenseInput::isOn()
+000039d8 g     F .text.itcm	0000006a Calendars::julianToGregorian(JulianDate)
+00003028 g     F .text.itcm	0000008c StepDirTmcSPI::validateParameters(float, float, float, float, float, float)
+00003cf4 g     F .text.itcm	00000090 SerialWrapper::SerialWrapper()
+00003424 g     F .text.itcm	00000098 StepDirTmcSPI::modeDecaySlewing()
+00005698  w    F .text.itcm	0000000c IntervalTimer::~IntervalTimer()
+000154d4 g     F .text.itcm	00000022 TMC2130Stepper::mres(unsigned char)
+00020234 g     F .text.itcm	00000594 __gethex
+60001df8 g     O .text.progmem	00000016 usb_string_product_name_default
+00001338 g     F .text.itcm	00000006 Axis::setFrequencyBase(float)
+0000f394 g     F .text.itcm	00000014 Home::requestAborted()
+00010f2c g     F .text.itcm	00000040 Limits::isGotoError()
+00013390 g     F .text.itcm	0000005c Site::updateTLS()
+000065f4 g     F .text.itcm	0000001c Pps::init()
+0001d088 g     F .text.itcm	0000008c floorf
+0001f2d4 g     F .text.itcm	000000cc strchr
+00005488 g     F .text.itcm	0000002c Sense::poll()
+000173c0 g     F .text.itcm	00000020 HardwareSerialIMXRT::availableForWrite()
+200024f0  w    O .data	0000003c vtable for TMC2160Stepper
+60001844  w    F .text.code	00000002 startup_middle_hook
+0001d4cc g     F .text.itcm	00000042 .hidden __aeabi_f2d
+200028d8 g     O .data	00000060 .hidden __inv_pio4
+00015998 g     F .text.itcm	00000014 TMC2660Stepper::cs(unsigned char)
+60001850 g     F .text.code	00000110 configure_cache
+200043d0 g     O .data	00000001 convert
+00003c74 g     F .text.itcm	00000080 SerialWrapper::write(unsigned char const*, unsigned int)
+0000719c g     F .text.itcm	0000000c processCmdsA()
+200048b9 g     O .data	00000001 wormSenseFirst
+000117bc  w    F .text.itcm	0000000c limitsWrapper()
+00004eb8 g     F .text.itcm	000000cc NonVolatileStorage::verify()
+0000626c g     F .text.itcm	00000054 Tasks::setCallback(unsigned char, void (*)())
+200026a8 g     O .data	00000028 vtable for TlsTeensy
+00005228 g     F .text.itcm	0000004a NonVolatileStorageMB85RC::init(unsigned short, bool, unsigned short, bool, TwoWire*, unsigned char)
+00013c58 g     F .text.itcm	00000168 Site::init()
+0001d20c g     F .text.itcm	0000027a .hidden __subdf3
+00016cd8 g     F .text.itcm	00000038 TinyGPSLocation::lat()
+60001c70 g       .text.code	00000000 __preinit_array_start
+000196d4 g     F .text.itcm	0000001c usb_receive
+00014af4 g     F .text.itcm	00000048 Status::init()
+00022718 g     F .text.itcm	00000060 __lo0bits
+0002dc00 g       *ABS*	00000000 _flashimagelen
+0001c5b8 g     F .text.itcm	00000248 __kernel_tan
+0001d1f8 g     F .text.itcm	0000000a __aeabi_atexit
+0000634c g     F .text.itcm	0000001a Tasks::setPeriodMicros(unsigned char, unsigned long)
+00009908 g     F .text.itcm	00000188 GeoAlign::addStar(int, int, Coordinate*, Coordinate*)
+00018b48 g     F .text.itcm	00000024 rtc_get
+00004a60 g     F .text.itcm	00000004 NonVolatileStorage::busy()
+00023548 g     F .text.itcm	00000078 frexp
+0001565c g     F .text.itcm	00000032 TMC2660Stepper::tbl(unsigned char)
+00000398 g     F .text.itcm	0000015c Axis::validateAxisSettings(int, AxisStoredSettings)
+00017398 g     F .text.itcm	00000004 pendablesrvreq_isr
+00000134 g     F .text.itcm	00000018 systemServices()
+00003c70  w    F .text.itcm	00000004 Print::availableForWrite()
+20003e40 g     O .data	0000016c __global_locale
+0000abc0 g     F .text.itcm	000003b8 GeoAlign::mountToObservedPlace(Coordinate*)
+00006588 g     F .text.itcm	0000006c ppsIsr()
+00013f24 g     F .text.itcm	000000f0 Site::strToDate(char*, GregorianDate*)
+00001eec g     F .text.itcm	0000000c Motor::getInstrumentCoordinateSteps()
+00016e18 g     F .text.itcm	00000170 breakTime(long long, tmElements_t&)
+00019bc4 g     F .text.itcm	000000e0 usb_serial_read
+200059b8 g     O .bss	00000001 __lock___sfp_recursive_mutex
+00019618 g     F .text.itcm	00000064 usb_config_tx
+00018d78  w    F .text.itcm	00000006 _close
+000021d0 g     F .text.itcm	0000005c StepDirMotor::enable(bool)
+00005d7c g     F .text.itcm	00000060 Task::~Task()
+0001d59c g     F .text.itcm	00000010 free
+00022584 g     F .text.itcm	000000a4 __multadd
+00022570 g     F .text.itcm	00000012 _Bfree
+20003798 g     O .data	00000060 Serial2
+2000488c  w    O .data	00000016 usb_string_serial_number
+20005ccc g     O .bss	00000001 initError
+00004f88 g     F .text.itcm	00000004 NonVolatileStorage::readUC(unsigned short)
+
+

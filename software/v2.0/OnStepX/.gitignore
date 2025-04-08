@@ -1,0 +1,13 @@
+.vscode/settings.json
+*.json
+__vm/*
+*.vcxproj*
+.vs/*
+*.sln
+Debug/*
+Release/*
+debug.cfg
+esp32.svd
+src/plugins/*
+debug.svd
+z.*
