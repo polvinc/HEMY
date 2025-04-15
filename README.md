@@ -7,6 +7,13 @@ See [drawing](drawings/v2.0/HEMY2-MainDrawing.pdf).
 See [electronics](https://oshwlab.com/pololamag/hemy-2-0).
 
 
+## Support
+
+Hey! Help me out for a couple of :beers: !
+
+<a href="https://www.buymeacoffee.com/polvinc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 # HEM*Y*: Harmonic Equatorial Mount *Yourself*
 ## What the hell is this HEM*Y* thing?
 
