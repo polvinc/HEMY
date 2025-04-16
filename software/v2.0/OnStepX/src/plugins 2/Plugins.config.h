@@ -7,6 +7,7 @@
  * The plugin main class instance name should match the directory name.
  * The plugin main class must have a "void init();" method for OnStepX to call when it starts up.
  * 
+ * ---------------------------------------------------------------------------------------------------------------------------------
 */
 
 // =================================================================================================================================
