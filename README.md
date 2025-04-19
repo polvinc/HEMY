@@ -153,7 +153,7 @@ Each component has been carefully selected or designed to ensure high mechanical
 
 > Use this photo as a reference before you begin — for inventory, orientation, and inspiration.
 
-![HEMY v2 – Parts Overview](./path/to/your/image.jpg)
+![HEMY v2 – Parts Overview](./docs/v2/pictures/2025-HEMY_disassembled-01.jpg)
 
 ---
 
@@ -175,7 +175,7 @@ Before getting started, make sure you have:
 - [ ] Antistatic precautions for electronics  
 
 #### Documentation
-- [ ] This README and [detailed assembly docs](/docs/assembly.md)  
+- [ ] This README and [detailed assembly docs](/docs/v2/Assembly.md)  
 - [ ] Exploded views and diagrams (see `/drawings` folder)
 
 ---
