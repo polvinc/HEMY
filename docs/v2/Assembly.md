@@ -17,8 +17,8 @@ This document walks you through the mechanical assembly of the HEMY v2 equatoria
 ### 🔧 Step 1: Main Pulley Installation
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="15%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-02.jpg" width="15%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-02.jpg" width="20%">
 </div>
 
 **Parts:**
@@ -37,8 +37,8 @@ _Note: the original pressure screws shipped with the reducer have been replaced 
 
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-03.jpg" width="15%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-04.jpg" width="15%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-03.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-04.jpg" width="20%">
 </div>
 
 **Parts:**  
