@@ -60,6 +60,19 @@ This project is under continuous development. Initial performance tests are prom
 
 
 
+<p align="center">
+  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
+    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_01.jpeg" width="32%">
+  </a>
+  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
+    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg" width="32%">
+  </a>
+  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
+    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg" width="32%">
+  </a>
+</p> <p align="center">
+
+
 ---
 
 ## 🧩 Related Projects
