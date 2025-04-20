@@ -14,10 +14,12 @@ This document walks you through the mechanical assembly of the HEMY v2 equatoria
 
 ## RA Axis Assembly
 
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
-
 ### 🔧 Step 1: Main Pulley Installation
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="15%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-02.jpg" width="15%">
+</div>
 
 **Parts:**
 - C06 – Harmonic Reducer ZXK17-100 (x1)  
@@ -28,19 +30,17 @@ Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ens
 
 _Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
 
-</div>
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="15%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-02.jpg" width="15%">
-</div>
-</div>
 
 ---
 
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
-
 ### 🔧 Step 2: Mount Reducer to Main Frame
+
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-03.jpg" width="15%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-04.jpg" width="15%">
+</div>
+
 **Parts:**  
 - A01 – Main Frame A (x1)  
 - C10 – Square Corner Screw M4 (x2)  
@@ -55,12 +55,6 @@ Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 scre
 > 
 Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
 
-</div>
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-03.jpg" width="15%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-04.jpg" width="15%">
-</div>
-</div>
 
 ---
 
