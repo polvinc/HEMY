@@ -30,8 +30,8 @@ _Note: the original pressure screws shipped with the reducer have been replaced 
 
 </div>
 <div style="flex: 1; max-width: 200px;">
-  <img src="./docs/v2/pictures/2025-HEMY2-ASM-01.jpg" width="100%" style="margin-bottom: 5px;">
-  <img src="./docs/v2/pictures/2025-HEMY2-ASM-02.jpg" width="100%">
+  <img src="pictures/2025-HEMY2-ASM-01.jpg" width="100%" style="margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-02.jpg" width="100%">
 </div>
 </div>
 
@@ -57,8 +57,8 @@ Once the reducer is in place, remove the two screws indicated in blue on the pho
 
 </div>
 <div style="flex: 1; max-width: 200px;">
-  <img src="./docs/v2/pictures/2025-HEMY2-ASM-03.jpg" width="100%" style="margin-bottom: 5px;">
-  <img src="./docs/v2/pictures/2025-HEMY2-ASM-04.jpg" width="100%">
+  <img src="pictures/2025-HEMY2-ASM-03.jpg" width="100%" style="margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-04.jpg" width="100%">
 </div>
 </div>
 
