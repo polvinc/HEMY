@@ -5,25 +5,40 @@
 
 ---
 
----
-
 # 🛠️ HEMY v2 Assembly Guide
 
-This document walks you through the mechanical assembly of the HEMY v2 equatorial mount. Each section includes required parts, instructions, and suggested tips. Photos are highly recommended per step to ease the process — insert them below each title when available.
+This document walks you through the mechanical assembly of the HEMY v2 equatorial mount. Each section includes required parts, instructions, and suggested tips.
 
 ---
+
 
 ## RA Axis Assembly
 
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+
 ### 🔧 Step 1: Main Pulley Installation
+
 **Parts:**
 - C06 – Harmonic Reducer ZXK17-100 (x1)  
 - A12 – Main Pulley (70T) (x1)
 
 **Instructions:**  
-Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ensure correct orientation of the screws — refer to the 3D model if needed. _Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
+Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ensure correct orientation of the screws — refer to the 3D model if needed. 
+
+_Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
+
+</div>
+<div style="flex: 1; max-width: 200px;">
+  <img src="docs/v2/pictures/2025-HEMY2-ASM-01.jpg" width="100%" style="margin-bottom: 5px;">
+  <img src="docs/v2/pictures/2025-HEMY2-ASM-02.jpg" width="100%">
+</div>
+</div>
 
 ---
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 
 ### 🔧 Step 2: Mount Reducer to Main Frame
 **Parts:**  
@@ -37,7 +52,15 @@ Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ens
 **Instructions:**  
 Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 screw each. Then install the reducer (C06) using M3x30 screws with washers and nuts. Double-check the reducer's orientation and alignment.  
 > Tip: a 3D-printed centering tool can be helpful for perfect alignment.  
+> 
 Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
+
+</div>
+<div style="flex: 1; max-width: 200px;">
+  <img src="docs/v2/pictures/2025-HEMY2-ASM-03.jpg" width="100%" style="margin-bottom: 5px;">
+  <img src="docs/v2/pictures/2025-HEMY2-ASM-04.jpg" width="100%">
+</div>
+</div>
 
 ---
 
