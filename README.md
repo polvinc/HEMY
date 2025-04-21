@@ -29,7 +29,7 @@ HEMY is:
 
 ⚠️ **Important note about current status** ⚠️
 
-This project is under continuous development. Initial performance tests are promising (1 kg and guiding <1 arcsec) and updates will be published regularly.
+This project is under continuous development. Initial performance tests are promising (13 kg and guiding <1 arcsec) and updates will be published regularly.
 
 ---
 
@@ -58,19 +58,9 @@ This project is under continuous development. Initial performance tests are prom
 - 📖 Detailed build guide and wiring instructions  
 - 🧪 Currently tested and improved through real-world imaging
 
-
-
-<p align="center">
-  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
-    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_01.jpeg" width="32%">
-  </a>
-  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
-    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg" width="32%">
-  </a>
-  <a href="drawings/v2.0/pdf/HEMY2-MainDrawing.pdf" target="_blank">
-    <img src="drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg" width="32%">
-  </a>
-</p> <p align="center">
+![Drawing 1](drawings/v2.0/jpg/HEMY2-MainDrawing_01.jpeg)
+![Drawing 2](drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg)
+![Drawing 3](drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg)
 
 
 ---
@@ -153,12 +143,17 @@ Your support, whether financial or through contribution to the project, is great
 
 See [BOM.md](docs/v2/BOM.md).
 
-### Total Estimated Cost: ~$800
+### Total Estimated Cost: ~$800 without base
+
+There are two possibilities for the alt/az base of the mount: either the HEMY v1 base, or the poxisky base which is very well sized for the project and less expensive.
+
 Note: Prices are approximate and may vary depending on supplier and location.
 
 ---
 
 ## 🛠️ Assembly Guide
+
+See [Assembly.md](docs/v2/Assembly.md).
 
 The image below shows the complete set of mechanical and electronic parts required to build **HEMY v2**.
 
@@ -193,6 +188,7 @@ Before getting started, make sure you have:
 
 ---
 
+<!-- 
 ### 🧱 Assembly Overview
 
 Here’s the high-level assembly plan:
@@ -217,13 +213,8 @@ Here’s the high-level assembly plan:
 5. **🔭 Final Touches**  
    - Install dovetail clamp and polar finder bracket  
    - Route cables cleanly  
-   - Power up, configure firmware, and start tracking!
+   - Power up, configure firmware, and start tracking! -->
 
 See [Assembly.md](docs/v2/Assembly.md).
 
----
-
-> 🛠️ For detailed steps and part-specific instructions, check the [HEMY Wiki](https://github.com/polvinc/HEMY/wiki) or community tips in [Discussions](https://github.com/polvinc/HEMY/discussions).
-
----
 
