@@ -151,6 +151,22 @@ Note: Prices are approximate and may vary depending on supplier and location.
 
 ---
 
+## 🔌 Electronics Overview
+
+The electronics system of **HEMY v2** is fully custom-designed and built around a compact stack of modular PCBs. It includes:
+
+- A main control board based on the **Teensy 4.0 MicroMod** running [OnStepX](https://github.com/hjd1964/OnStepX)
+- Two **TMC5160 stepper drivers** for precise, silent microstepping
+- An optional **brake driver** for locking the RA axis when idle
+- A **LilyGO T-01 C3** Wi-Fi module for remote control via web or INDI
+- Integrated connectors for **GPS**, power passthrough, dew heater control, and USB routing
+
+All boards were designed using open-source tools and are published on [OSHWHub – HEMY 2.0 project](https://oshwlab.com/pololamag/hemy-2-0), where you can view the schematics, order PCBs, or remix them to fit your needs.
+
+> 🧠 The electronics stack is plug-and-play compatible with the mechanical mount and was developed specifically to minimize wiring, improve modularity, and enable clean integration into astrophotography workflows.
+
+---
+
 ## 🛠️ Assembly Guide
 
 See [Assembly.md](docs/v2/Assembly.md).
@@ -164,6 +180,7 @@ Each component has been carefully selected or designed to ensure high mechanical
 ![HEMY v2 – Parts Overview](./docs/v2/pictures/2025-HEMY_disassembled-01.jpg)
 
 ---
+
 
 ### ✅ Pre-Assembly Checklist
 
