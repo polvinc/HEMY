@@ -14,12 +14,12 @@ cturing Information (PMI)---4.0---2014-10-13',
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Dovetail Fix - Dovetail Fix',
-/* time_stamp */ '2025-03-22T12:45:24Z',
+/* name */ '6806824b815760518212b995',
+/* time_stamp */ '2025-04-21T17:37:15Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'ONSHAPE BY PTC INC, 1.195',
+/* originating_system */ 'ONSHAPE BY PTC INC, 1.196',
 /* authorisation */ '  ');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
