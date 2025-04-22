@@ -1,13 +1,13 @@
 
-# ⚠️ WORK IN PROGRESS – Docs in Progress!
+## ** ⚠️ WORK IN PROGRESS – Docs in Progress! ⚠️ **
 # HEMY v2 – Harmonic Equatorial Mount Yourself
 
-> _"When astronomy meets DIY and open source, accessible tools are born to explore the universe."_  
-> — polvinc
+<!-- > _"When astronomy meets DIY and open source, accessible tools are born to explore the universe."_  
+> — polvinc -->
 
 **HEMY v2** is an open-source equatorial/alt-azimuth telescope mount designed for passionate astrophotographers and visual observers. Built around **harmonic drive technology**, HEMY offers high precision, portability, and affordability — without compromising on performance.
 
-It is the result of a collaborative and iterative development effort to deliver a powerful, modular alternative to proprietary commercial mounts.
+It is the result of a collaborative and iterative development effort to deliver a powerful, open-source alternative to proprietary commercial mounts.
 
 ---
 
@@ -104,7 +104,7 @@ The development of HEMY V2 represents thousands of hours of work, research, and 
 
 While HEMY is open-source and free to use, the development process has been costly. Each iteration required new parts, and the path to the current successful design involved many expensive learning experiences.
 
-Hey! Help me out for a couple of :beers: !
+Help me out for a couple of :beers: !
 
 <a href="https://www.buymeacoffee.com/polvinc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -159,7 +159,7 @@ The electronics system of **HEMY v2** is fully custom-designed and built around 
 - Two **TMC5160 stepper drivers** for precise, silent microstepping
 - An optional **brake driver** for locking the RA axis when idle
 - A **LilyGO T-01 C3** Wi-Fi module for remote control via web or INDI
-- Integrated connectors for **GPS**, power passthrough, dew heater control, and USB routing
+- Integrated **GPS** with PPS, power passthrough, and USB routing
 
 All boards were designed using open-source tools and are published on [OSHWHub – HEMY 2.0 project](https://oshwlab.com/pololamag/hemy-2-0), where you can view the schematics, order PCBs, or remix them to fit your needs.
 
