@@ -9,6 +9,9 @@
 
 It is the result of a collaborative and iterative development effort to deliver a powerful, open-source alternative to proprietary commercial mounts.
 
+![HEMY2_all_views](ASM_HEMY2_Base_Screw_all_views.png)
+
+
 ---
 
 ## 🚀 Project Description
