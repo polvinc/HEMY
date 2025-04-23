@@ -59,7 +59,7 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |33 | 1   | C18   | Vixen plate (L80mm)                 | $10        | https://fr.aliexpress.com/item/1005008496465572.html |
 |34 | 1   | C19   | Wi-Fi Antenna                       | $17        | Radiospares 235-1412 |
 |35 | 2   | C20   | Screw Button M6x40 (D<28mm)         | $1         | https://fr.aliexpress.com/item/1005003126830447.html |
-|36 | 1   | C21   | Viewfinder support (Neewer LS-15)   | $16        | Neewer.com |
+|36 | 1   | C21   | Viewfinder support                  | $16        | https://fr.aliexpress.com/item/1005005998174975.html |
 
 ---
 
