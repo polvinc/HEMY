@@ -61,9 +61,9 @@ This project is under continuous development. Initial performance tests are prom
 - 📖 Detailed build guide and wiring instructions  
 - 🧪 Currently tested and improved through real-world imaging
 
-![Drawing 1](drawings/v2.0/jpg/HEMY2-MainDrawing_01.jpeg)
-![Drawing 2](drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg)
-![Drawing 3](drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg)
+![Drawing 1](hardware/drawings/v2.0/jpg/HEMY2-MainDrawing_01.jpeg)
+![Drawing 2](hardware/drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg)
+![Drawing 3](hardware/drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg)
 
 
 ---
@@ -204,7 +204,7 @@ Before getting started, make sure you have:
 
 #### Documentation
 - [ ] This README and [detailed assembly docs](/docs/v2/Assembly.md)  
-- [ ] Exploded views and diagrams (see `/drawings` folder)
+- [ ] Exploded views and diagrams (see `hardware/drawings` folder)
 
 ---
 
