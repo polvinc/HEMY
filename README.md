@@ -57,6 +57,7 @@ This project is under continuous development. Initial performance tests are prom
 ## 🔧 Build Resources
 
 - 🖥️ Full CAD files and STEP for mechanical parts  
+- 🔗 [Link to oneshape project](https://cad.onshape.com/documents/5bb7abe94ccc1dfccd880b05/w/c4dcfbc560d188dfaca97350/e/5198383ed1b9d7f502f35102?renderMode=0&uiState=6808b73883ed3655f234ab55)
 - 🛠️ CNC-ready aluminum part kits (not available for now)  
 - 📖 Detailed build guide and wiring instructions  
 - 🧪 Currently tested and improved through real-world imaging
