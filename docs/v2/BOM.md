@@ -57,7 +57,7 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |31 | 1   | C16   | SMA to U.FL cable (15 cm)           | $2         | https://fr.aliexpress.com/item/32806195194.html |
 |32 | 1   | C17   | U.FL GPS Antenna 25x25mm            | $17        | Radiospares 235-1412 |
 |33 | 1   | C18   | Vixen plate (L80mm)                 | $10        | https://fr.aliexpress.com/item/1005008496465572.html |
-|34 | 1   | C19   | Wi-Fi Antenna                       | $17        | Radiospares 235-1412 |
+|34 | 1   | C19   | Wi-Fi Antenna                       | $17        | Radiospares 124-8672 |
 |35 | 2   | C20   | Screw Button M6x40 (D<28mm)         | $1         | https://fr.aliexpress.com/item/1005003126830447.html |
 |36 | 1   | C21   | Viewfinder support                  | $16        | https://fr.aliexpress.com/item/1005005998174975.html |
 
