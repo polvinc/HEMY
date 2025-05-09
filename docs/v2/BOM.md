@@ -39,17 +39,17 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 
 | # | Qty | Ref   | Description                         | Est. Price | Link |
 |---|-----|--------|-------------------------------------|------------|------|
-|16 | 1   | C01   | GT2 Pulley 16T (5mm bore)           | <$1        | https://fr.aliexpress.com/item/32781681772.html |
-|17 | 2   | C02   | GT2 Pulley 20T (5mm bore)           | <$1        | https://fr.aliexpress.com/item/32781681772.html |
+|16 | 1   | C01   | GT2 Pulley 16T (5mm bore) - W6mm           | <$1        | https://fr.aliexpress.com/item/32781681772.html |
+|17 | 2   | C02   | GT2 Pulley 20T (5mm bore) - W6mm          | <$1        | https://fr.aliexpress.com/item/32781681772.html |
 |18 | 1   | C03   | GT2 Belt – 166 mm                   | $1         | https://fr.aliexpress.com/item/1005007066821495.html |
 |19 | 1   | C04   | GT2 Belt – 200 mm                   | $1         | https://fr.aliexpress.com/item/1005007066821495.html |
 |20 | 2   | C05   | Bearing 625ZZ                       | <$1        | https://fr.aliexpress.com/item/1005006995866051.html |
 |21 | 2   | C06   | Harmonic Reducer ZXK17-100          | $115       | https://fr.aliexpress.com/item/1005006525104869.html |
 |22 | 2   | C07   | Nema 17 (17HM15-0904S)              | $20        | https://fr.aliexpress.com/item/33017087864.html |
-|23 | 1   | C08   | Shaft D5x40                         | <$1        | https://fr.aliexpress.com/item/1005004046126519.html |
+|23 | 1   | C08   | Shaft 5x45mm-Grind Flat             | <$1        | https://fr.aliexpress.com/item/1005004046126519.html |
 |24 | 2   | C09   | Square Corner Screw 10x10x6 M3      | <$1        | https://fr.aliexpress.com/item/1005005387777809.html |
 |25 | 8   | C10   | Square Corner Screw 12x12x12 M4     | <$1        | https://fr.aliexpress.com/item/1005007257652761.html |
-|26 | 6   | C11   | Spacer M3x21mm FM                   | <$1        | https://fr.aliexpress.com/item/1005005462128073.html |
+|26 | 6   | C11   | Spacer M3x21mm FM  - (Thread 4mm)   | <$1        | https://fr.aliexpress.com/item/1005005462128073.html |
 |27 | 3   | C12   | Spacer M3x19mm FF                   | <$1        | https://fr.aliexpress.com/item/1005006049595637.html |
 |28 | 3   | C13   | Spacer M3x8mm FF                    | <$1        | https://fr.aliexpress.com/item/1005006049595637.html |
 |29 | 1   | C14   | Handle (Mentor 3270.0883)           | $15        | Farnell 4216398 |
