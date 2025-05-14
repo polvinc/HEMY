@@ -84,23 +84,38 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |42  | 3   | S01   | Chamfered plain washer M2            |
 |43  | 20  | S02   | Chamfered plain washer M3            |
 |44  | 2   | S03   | Chamfered plain washer M5            |
-|45  | 3   | S04   | Hex socket head cap M2x0.40 x 10     |
-|46  | 6   | S05   | Hex socket head cap M3x0.50 x 10     |
-|47  | 23  | S06   | Hex socket head cap M3x0.50 x 30     |
-|48  | 6   | S07   | Cone point hex socket set M3x0.5 x 3 |
-|49  | 8   | S08   | Socket button head M5x0.8 x 10       |
+|45  | 3   | S04   | Hex socket head cap M2x10     |
+|46  | 6   | S05   | Hex socket head cap M3x10     |
+|47  | 23  | S06   | Hex socket head cap M3x30     |
+|48  | 6   | S07   | Cone point hex socket set M3x3 |
+|49  | 8   | S08   | Socket button head M5x10       |
 |50  | 3   | S09   | Hex thin nut grade A & B M2          |
 |51  | 23  | S10   | Hex thin nut grade A & B M3          |
-|52  | 2   | S11   | Socket button head M3x0.5 x 10       |
-|53  | 6   | S12   | Socket button head M3x0.5 x 12       |
-|54  | 4   | S13   | Socket button head M3x0.5 x 16       |
-|55  | 16  | S14   | Socket button head M3x0.5 x 30       |
-|56  | 4   | S15   | Socket button head M3x0.5 x 35       |
-|57  | 4   | S16   | Socket button head M3x0.5 x 5        |
-|58  | 5   | S17   | Socket button head M3x0.5 x 6        |
-|59  | 6   | S18   | Socket button head M4x0.7 x 10       |
-|60  | 10  | S19   | Socket button head M4x0.7 x 6        |
-|61  | 8   | S20   | Socket button head M4x0.7 x 8        |
+|52  | 2   | S11   | Socket button head M3x10       |
+|53  | 6   | S12   | Socket button head M3x12       |
+|54  | 4   | S13   | Socket button head M3x16       |
+|55  | 16  | S14   | Socket button head M3x30       |
+|56  | 4   | S15   | Socket button head M3x35       |
+|57  | 4   | S16   | Socket button head M3x5        |
+|58  | 5   | S17   | Socket button head M3x6        |
+|59  | 6   | S18   | Socket button head M4x10       |
+|60  | 10  | S19   | Socket button head M4x6        |
+|61  | 8   | S20   | Socket button head M4x8        |
+
+For metric threads like M2, M3, etc., the pitch is standardized. The International Organization for Standardization (ISO) defines the standards for metric screw threads, which include specifications for thread pitch.
+
+
+Here are the metric thread sizes and their standard coarse pitches you shall comply with :
+
+* M2: Typically has a pitch of 0.4 mm.
+* M2.5: Typically has a pitch of 0.45 mm.
+* M3: Typically has a pitch of 0.5 mm.
+* M4: Typically has a pitch of 0.7 mm.
+* M5: Typically has a pitch of 0.8 mm.
+* M6: Typically has a pitch of 1.0 mm.
+* M8: Typically has a pitch of 1.25 mm.
+* M10: Typically has a pitch of 1.5 mm.
+
 
 ---
 
