@@ -12,7 +12,7 @@ This document walks you through the mechanical assembly of the HEMY v2 equatoria
 ---
 ## Overall parts view 
 
-The different parts the will be used in the current manual are presented here grouped by assembly groups.
+The different parts the will be used in the current manual are presented here grouped by assembly groups. (E.g.: for the screw)
 ![Overall presentation](./pictures/2025-HEMY_disassembled-01_small.jpg)
 [Full size image](./pictures/2025-HEMY_disassembled-01.jpg)
 
