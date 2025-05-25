@@ -10,7 +10,14 @@
 This document walks you through the mechanical assembly of the HEMY v2 equatorial mount. Each section includes required parts, instructions, and suggested tips.
 
 ---
+## Overall parts view 
 
+<div style="flex: 1; max-width: 200px;">
+   <img align="right" src="pictures/2025-HEMY_disassembled-01.jpg" width="20%" style="margin-bottom: 5px;">
+</div>
+
+
+---
 
 ## RA Axis Assembly
 
