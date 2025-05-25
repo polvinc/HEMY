@@ -12,9 +12,12 @@ This document walks you through the mechanical assembly of the HEMY v2 equatoria
 ---
 ## Overall parts view 
 
+![Overall presentation](./pictures/2025-HEMY_disassembled-01.jpg)
+
 <div style="flex: 1; max-width: 200px;">
-   <img align="right" src="pictures/2025-HEMY_disassembled-01.jpg" width="20%" style="margin-bottom: 5px;">
+   <img  alt="Alt text" align="right" src="pictures/2025-HEMY_disassembled-01.jpg" width="20%" style="margin-bottom: 5px;">
 </div>
+
 
 
 ---
