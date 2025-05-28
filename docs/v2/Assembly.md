@@ -17,6 +17,8 @@ The different parts the will be used in the current manual are presented here gr
 [Full size image](./pictures/2025-HEMY_disassembled-01.jpg)
 
 
+Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.com/documents/5bb7abe94ccc1dfccd880b05/w/c4dcfbc560d188dfaca97350/e/5198383ed1b9d7f502f35102?renderMode=0&uiState=6808b73883ed3655f234ab55) in parallel, so that you can observe the subtleties of assembly, the details of assembly, and the sub-assemblies.
+
 
 
 ---
