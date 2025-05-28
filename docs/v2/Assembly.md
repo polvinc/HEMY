@@ -92,18 +92,18 @@ Mount the brake (C15) to its upper support plate (A07) using three M3x19mm space
 
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" width="10%">
 </div>
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" width="10%">
 </div>
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" width="10%">
 </div>
 
 **Parts:**
@@ -317,13 +317,13 @@ Attach the lateral plate (A04) to the RA/DEC frame to complete the squared brack
 ### 🔧 Step 15: Install Top Electronics
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="12%">
 </div>
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="12%">
 </div>
 
 
@@ -341,13 +341,13 @@ Make sure all cables are connected and routed cleanly.
 ### 🔧 Step 16: Final Assembly of Top/Bottom/Lateral Plates
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="12%">
 </div>
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="12%">
 </div>
 
 **Parts:**
