@@ -21,9 +21,9 @@ The different parts the will be used in the current manual are presented here gr
 
 ---
 
-## RA Axis Assembly
+## Axis Assembly (common part)
 
-### 🔧 Step 1: Main Pulley Installation
+### 🔧 Step 1: Harmonic Reducer Pulley Installation
 
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="20%" style="margin-bottom: 5px;">
@@ -31,16 +31,23 @@ The different parts the will be used in the current manual are presented here gr
 </div>
 
 **Parts:**
-- C06 – Harmonic Reducer ZXK17-100 (x1)  
-- A12 – Main Pulley (70T) (x1)
-
+- C06 – Harmonic Reducer ZXK17-100 (x2)  
+- A12 – Main Pulley (70T) (x2)
+- S07 - Cone point hex socket set M3x3 (x12)
+  
 **Instructions:**  
-Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ensure correct orientation of the screws — refer to the 3D model if needed. 
+- Foreach Pulley (70T) and Harmonic Reducer
+   - Ensure correct orientation of the screws — refer to the 3D model if needed.
+      - Replace cone point hex socket (original pressure screws shipped with the reducer) by shorter ones and change their orientation to push to the outside.
+   - Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06).  
 
 _Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
 
 
 ---
+
+## RA Axis Assembly
+
 
 ### 🔧 Step 2: Mount Reducer to Main Frame
 
