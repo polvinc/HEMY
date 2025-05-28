@@ -1,5 +1,4 @@
 
-## ** ⚠️ WORK IN PROGRESS – Docs in Progress! ⚠️ **
 # HEMY v2 – Harmonic Equatorial Mount Yourself
 
 <!-- > _"When astronomy meets DIY and open source, accessible tools are born to explore the universe."_  
