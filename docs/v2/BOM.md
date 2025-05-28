@@ -126,9 +126,9 @@ For metric threads like M2, M3, etc., the pitch is standardized. The Internation
 To be able to do the assembly you will need some tools which are listed here.
 The list may not be complete.
 
-| #  | Ref | Description                                |
-|----|-----|--------------------------------------------|
-|42  | T01 | Allen key ball-end hex keys  Size 1.5 mm   |
+| #  | Ref | Description                                      |
+|----|-----|--------------------------------------------------|
+|42  | T01 | Allen key ball-end hex keys  Size 1.5 mm   ![AllenKeyBall-endHex.jpg](pictures/AllenKeyBall-endHex.jpg) |
 
 ---
 
