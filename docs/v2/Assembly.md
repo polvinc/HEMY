@@ -44,7 +44,7 @@ Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.c
    - Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06).  
 
 _Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
-
+_Note: You need the T01 tool (Allen Key).
 
 ---
 
