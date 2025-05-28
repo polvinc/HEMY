@@ -89,8 +89,8 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |47  | 23  | S06   | Hex socket head cap M3x30     |
 |48  | 6   | S07   | Cone point hex socket set M3x3 |
 |49  | 8   | S08   | Socket button head M5x10       |
-|50  | 3   | S09   | Hex thin nut grade A & B M2          |
-|51  | 23  | S10   | Hex thin nut grade A & B M3          |
+|50  | 3   | S09   | Hex thin nut M2          |
+|51  | 23  | S10   | Hex thin nut M3          |
 |52  | 2   | S11   | Socket button head M3x10       |
 |53  | 6   | S12   | Socket button head M3x12       |
 |54  | 4   | S13   | Socket button head M3x16       |
@@ -105,16 +105,21 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 For metric threads like M2, M3, etc., the pitch is standardized. The International Organization for Standardization (ISO) defines the standards for metric screw threads, which include specifications for thread pitch.
 
 
-Here are the metric thread sizes and their standard coarse pitches you shall comply with :
-
-* M2: Typically has a pitch of 0.4 mm.
-* M2.5: Typically has a pitch of 0.45 mm.
-* M3: Typically has a pitch of 0.5 mm.
-* M4: Typically has a pitch of 0.7 mm.
-* M5: Typically has a pitch of 0.8 mm.
-* M6: Typically has a pitch of 1.0 mm.
-* M8: Typically has a pitch of 1.25 mm.
-* M10: Typically has a pitch of 1.5 mm.
+* Note 1 : Here are the metric thread sizes and their standard coarse pitches you shall comply with :
+   * M2: Typically has a pitch of 0.4 mm.
+   * M2.5: Typically has a pitch of 0.45 mm.
+   * M3: Typically has a pitch of 0.5 mm.
+   * M4: Typically has a pitch of 0.7 mm.
+   * M5: Typically has a pitch of 0.8 mm.
+   * M6: Typically has a pitch of 1.0 mm.
+   * M8: Typically has a pitch of 1.25 mm.
+   * M10: Typically has a pitch of 1.5 mm.
+* Note 2 :
+   The dimensions of a "Chamfered plain washer M2" are generally standardized to ensure compatibility with M2 screws and bolts. Standardization helps ensure that washers from different manufacturers can be used interchangeably. Here are the typical dimensions for an M2 chamfered plain washer:
+  
+   * Inner Diameter (ID): Approximately 2.2 mm to fit an M2 screw.
+   * Outer Diameter (OD): Typically around 5 mm, though this can vary slightly depending on the specific standard or manufacturer.
+   * Thickness: Usually around 0.5 mm, but this can also vary slightly.
 
 
 ---
