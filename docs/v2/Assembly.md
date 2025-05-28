@@ -17,6 +17,8 @@ The different parts the will be used in the current manual are presented here gr
 [Full size image](./pictures/2025-HEMY_disassembled-01.jpg)
 
 
+Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.com/documents/5bb7abe94ccc1dfccd880b05/w/c4dcfbc560d188dfaca97350/e/5198383ed1b9d7f502f35102?renderMode=0&uiState=6808b73883ed3655f234ab55) in parallel, so that you can observe the subtleties of assembly, the details of assembly, and the sub-assemblies.
+
 
 
 ---
@@ -26,8 +28,8 @@ The different parts the will be used in the current manual are presented here gr
 ### 🔧 Step 1: Harmonic Reducer Pulley Installation
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-01.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-02.jpg" width="20%">
 </div>
 
 **Parts:**
@@ -51,10 +53,9 @@ _Note: the original pressure screws shipped with the reducer have been replaced 
 
 ### 🔧 Step 2: Mount Reducer to Main Frame
 
-
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-03.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-04.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP02-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP02-02.jpg" width="20%">
 </div>
 
 **Parts:**  
@@ -75,6 +76,12 @@ Once the reducer is in place, remove the two screws indicated in blue on the pho
 ---
 
 ### 🔧 Step 3: Brake Sub-Assembly
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - C15 – Brake (SWB-003) (x1)  
 - A07 – Brake Support (x1)  
@@ -91,6 +98,23 @@ Mount the brake (C15) to its upper support plate (A07) using three M3x19mm space
 ---
 
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
+
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" width="10%">
+</div>
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" width="10%">
+</div>
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" width="10%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" width="10%">
+</div>
+
 **Parts:**
 - A08 – Motor Support (x1)  
 - A07 – Brake Support (x1)  
@@ -120,6 +144,12 @@ This is the most delicate step — take your time!
 ## DEC Axis Assembly
 
 ### 🔧 Step 5: Main Pulley Installation
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - C06 – Harmonic Reducer ZXK17-100 (x1)  
 - A12 – Main Pulley (70T) (x1)
@@ -130,6 +160,12 @@ As in Step 1, attach the 70T main pulley to the second harmonic reducer. Ensure 
 ---
 
 ### 🔧 Step 6: Attach Cubes to Main Frame B
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - A02 – Main Frame B (x1)  
 - C10 – Square Corner Screw M4 (x6)  
@@ -141,6 +177,12 @@ Attach all six M4 corner cubes (C10) to the Main Frame B (A02) using M4x8 screws
 ---
 
 ### 🔧 Step 7: Mount DEC Reducer
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - S06 – M3x30 Screws (x2)  
 - S02 – M3 Washers (x2)  
@@ -154,6 +196,12 @@ Once aligned and fastened, remove the two blue-marked screws from the reducer (a
 ---
 
 ### 🔧 Step 8: Prepare Motor Assembly
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP08-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP08-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - C07 – NEMA17 Motor (x1)  
 - C02 – Pulley GT2 20T (x1)  
@@ -166,6 +214,12 @@ Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers
 ---
 
 ### 🔧 Step 9: Mount Motor to Reducer
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - S15 – M3x35 Screws (x2)  
 - S13 – M3x16 Screws (x2)
@@ -180,6 +234,13 @@ Position the motor assembly on the reducer. Use the M3x35 screws and M3x16 screw
 ## Axis Frame Assembly
 
 ### 🔧 Step 10: Connect RA and DEC Axes
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-01.jpg" width="14%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-02.jpg" width="14%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-03.jpg" width="14%">
+</div>
+
 **Parts:**
 - A01 – Main Frame A (RA side)  
 - A02 – Main Frame B (DEC side)  
@@ -196,6 +257,12 @@ Position the RA and DEC sub-assemblies to form a right angle (90°) between the 
 > ⚠️ Note: The USB and DC passthrough electronics for the dovetail are still experimental and not fully tested.
 
 ### 🔧 Step 11: Attach Electronics and Cover
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP11-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP11-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - B01 – Dovetail PCB Cover (x1)  
 - PCB07 – Dovetail passthrough board (experimental)  
@@ -207,6 +274,11 @@ Position the passthrough PCB onto the dovetail (A09) and secure the 3D-printed c
 ---
 
 ### 🔧 Step 12: Mount Dovetail on DEC Reducer
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP12-01.jpg" width="20%" style="margin-bottom: 5px;">
+</div>
+
 **Parts:**
 - S06 – M3x30 Screws (x2)
 
@@ -216,6 +288,12 @@ Route the cables through the reducer’s central cutout, then secure the dovetai
 ---
 
 ### 🔧 Step 13: Install Clamps
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP13-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP13-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - A10 – RFix Dovetail Clamps (x2)  
 - C20 – Button Screws M6x40 with Springs (x2)
@@ -230,6 +308,12 @@ Insert the two clamps (A10) into the dovetail (A09), secure them using the M6x40
 ## Lateral Plates and Electronics
 
 ### 🔧 Step 14: Mount Lateral Plate B and Secure Frame
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP14-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP14-02.jpg" width="20%">
+</div>
+
 **Parts:**
 - A04 – Lateral Plate B (x1)  
 - S19 – M4x8 Screws (as needed)
@@ -240,6 +324,18 @@ Attach the lateral plate (A04) to the RA/DEC frame to complete the squared brack
 ---
 
 ### 🔧 Step 15: Install Top Electronics
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="12%">
+</div>
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="12%">
+</div>
+
+
 **Parts:**
 - All PCBs (assembled, see `pcb_assembly.md`)  
 - C13 – Spacer M3x8mm FF (x4)  
@@ -252,6 +348,17 @@ Make sure all cables are connected and routed cleanly.
 ---
 
 ### 🔧 Step 16: Final Assembly of Top/Bottom/Lateral Plates
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="12%">
+</div>
+
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="12%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="12%">
+</div>
+
 **Parts:**
 - A05 – Top Plate  
 - A06 – Bottom Plate  
@@ -265,18 +372,12 @@ Secure the top plate (A05) to the mount structure first, ensuring all cabling is
 ## Final Adjustments and Output Flange
 
 ### 🔧 Step 17: Install Output Flange and Vixen Plate
-**Parts:**
-- A11 – Output Flange  
-- C18 – Vixen Plate
 
-**Instructions:**  
-Install the output flange (A11) onto the RA reducer. Then, mount the Vixen plate (C18) securely.
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-02.jpg" width="20%">
+</div>
 
-🎉 You have now fully assembled your HEMY mount!
-
-## Final Adjustments and Output Flange
-
-### 🔧 Step 17: Install Output Flange and Vixen Plate
 **Parts:**
 - A11 – Output Flange  
 - C18 – Vixen Plate
