@@ -60,7 +60,7 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |34 | 1   | C19   | Wi-Fi Antenna                       | $17        | Radiospares 124-8672 |
 |35 | 2   | C20   | Screw Button M6x40 (D<28mm)         | $1         | https://fr.aliexpress.com/item/1005003126830447.html |
 |36 | 1   | C21   | Viewfinder support                  | $16        | https://fr.aliexpress.com/item/1005005998174975.html |
-|36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        |  |
+|36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        | https://fr.aliexpress.com/item/1005001408406253.html |
 
 
 ---
