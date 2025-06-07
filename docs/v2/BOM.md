@@ -38,9 +38,9 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 ## 🛍️ Parts to Purchase (Mechanical & Electronics)
 
 | # | Qty | Ref   | Description                         | Est. Price | Link |
-|---|-----|--------|-------------------------------------|------------|------|
-|16 | 1   | C01   | GT2 Pulley 16T (5mm bore) - W6mm           | <$1        | https://fr.aliexpress.com/item/32781681772.html |
-|17 | 2   | C02   | GT2 Pulley 20T (5mm bore) - W6mm          | <$1        | https://fr.aliexpress.com/item/32781681772.html |
+|---|-----|--------|------------------------------------|------------|------|
+|16 | 1   | C01   | GT2 Pulley 16T (5mm bore) - W6mm    | <$1        | https://fr.aliexpress.com/item/32781681772.html |
+|17 | 2   | C02   | GT2 Pulley 20T (5mm bore) - W6mm    | <$1        | https://fr.aliexpress.com/item/32781681772.html |
 |18 | 1   | C03   | GT2 Belt – 166 mm                   | $1         | https://fr.aliexpress.com/item/1005007066821495.html |
 |19 | 1   | C04   | GT2 Belt – 200 mm                   | $1         | https://fr.aliexpress.com/item/1005007066821495.html |
 |20 | 2   | C05   | Bearing 625ZZ                       | <$1        | https://fr.aliexpress.com/item/1005006995866051.html |
@@ -60,6 +60,8 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |34 | 1   | C19   | Wi-Fi Antenna                       | $17        | Radiospares 124-8672 |
 |35 | 2   | C20   | Screw Button M6x40 (D<28mm)         | $1         | https://fr.aliexpress.com/item/1005003126830447.html |
 |36 | 1   | C21   | Viewfinder support                  | $16        | https://fr.aliexpress.com/item/1005005998174975.html |
+|36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        | https://fr.aliexpress.com/item/1005001408406253.html |
+
 
 ---
 
