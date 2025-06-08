@@ -163,7 +163,7 @@ As in Step 1, attach the 70T main pulley to the second harmonic reducer. Ensure 
 ### 🔧 Step 6: Attach Cubes to Main Frame B
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-01-blue.jpg" width="20%" style="margin-bottom: 5px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-02.jpg" width="20%">
 </div>
 
