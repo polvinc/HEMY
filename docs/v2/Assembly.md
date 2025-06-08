@@ -216,6 +216,7 @@ Once aligned and fastened, remove the two blue-marked screws from the reducer (a
 - C02 – Pulley GT2 20T (x1)  
 - C03 – GT2 Belt 166mm (x1)  
 - C11 – Spacer M3x21mm FM (x3)
+- S16 - Socket button head M3x5 (x3)
 
 **Instructions:**  
 Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers and fit the 166mm GT2 belt.
@@ -230,7 +231,9 @@ Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers
 </div>
 
 **Parts:**
-- S15 – M3x35 Screws (x2)  
+- S15 – M3x35 Screws (x1)  
+- S02 – M3 Washers (x1)  
+- S10 – M3 Nuts (x1)
 - S13 – M3x16 Screws (x2)
 
 **Instructions:**  
