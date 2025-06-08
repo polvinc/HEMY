@@ -63,9 +63,9 @@ Note: You need the T01 tool (Allen Key).
 - A01 – Main Frame A (x1)  
 - C10 – Square Corner Screw M4 (x2)  
 - S19 – M4x8 Screws (x2)  
-- S06 – M3x30 Screws (x2)  
-- S02 – M3 Washers (x2)  
-- S10 – M3 Nuts (x2)
+- S06 – M3x30 Screws (x7)  
+- S02 – M3 Washers (x7)  
+- S10 – M3 Nuts (x7)
 
 **Instructions:**  
 Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 screw each. Then install the reducer (C06) using M3x30 screws with washers and nuts. Double-check the reducer's orientation and alignment.  
