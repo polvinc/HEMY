@@ -23,9 +23,9 @@ Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.c
 
 ---
 
-## RA Axis Assembly
+## Axis Assembly (common part)
 
-### 🔧 Step 1: Main Pulley Installation
+### 🔧 Step 1: Harmonic Reducer Pulley Installation
 
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-01.jpg" width="20%" style="margin-bottom: 5px;">
@@ -33,16 +33,24 @@ Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.c
 </div>
 
 **Parts:**
-- C06 – Harmonic Reducer ZXK17-100 (x1)  
-- A12 – Main Pulley (70T) (x1)
-
+- C06 – Harmonic Reducer ZXK17-100 (x2)  
+- A12 – Main Pulley (70T) (x2)
+- S07 - Cone point hex socket set M3x3 (x12)
+  
 **Instructions:**  
-Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06). Ensure correct orientation of the screws — refer to the 3D model if needed. 
+- Foreach Pulley (70T) and Harmonic Reducer
+   - Ensure correct orientation of the screws — refer to the 3D model if needed.
+      - Replace cone point hex socket (original pressure screws shipped with the reducer) by shorter ones and change their orientation to push to the outside.
+   - Attach the 70-tooth main pulley (A12) to one of the harmonic reducers (C06).  
 
-_Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
+Note: the original pressure screws shipped with the reducer have been replaced with shorter ones._
 
+Note: You need the T01 tool (Allen Key).
 
 ---
+
+## RA Axis Assembly
+
 
 ### 🔧 Step 2: Mount Reducer to Main Frame
 
@@ -55,9 +63,9 @@ _Note: the original pressure screws shipped with the reducer have been replaced 
 - A01 – Main Frame A (x1)  
 - C10 – Square Corner Screw M4 (x2)  
 - S19 – M4x8 Screws (x2)  
-- S06 – M3x30 Screws (x2)  
-- S02 – M3 Washers (x2)  
-- S10 – M3 Nuts (x2)
+- S06 – M3x30 Screws (x7)  
+- S02 – M3 Washers (x7)  
+- S10 – M3 Nuts (x7)
 
 **Instructions:**  
 Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 screw each. Then install the reducer (C06) using M3x30 screws with washers and nuts. Double-check the reducer's orientation and alignment.  
@@ -173,17 +181,25 @@ Attach all six M4 corner cubes (C10) to the Main Frame B (A02) using M4x8 screws
 
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-01.jpg" width="20%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-02-blue.jpg" width="20%">
 </div>
 
 **Parts:**
-- S06 – M3x30 Screws (x2)  
-- S02 – M3 Washers (x2)  
-- S10 – M3 Nuts (x2)
+- S06 – M3x30 Screws (x9)  
+- S02 – M3 Washers (x9)  
+- S10 – M3 Nuts (x9)
 
 **Instructions:**  
-Center the harmonic reducer with its pulley onto Main Frame B (A02), and secure it using M3x30 screws with washers and nuts.  
-> Tip: A 3D-printed alignment jig is helpful here as well.  
+Center the harmonic reducer with its pulley onto Main Frame B (A02), and secure it using M3x30 screws with washers and nuts.
+
+Make sure to properly orient the harmonic reducer in the main part, using the reducer screws as reference points. 
+
+Note that two of these screws will be removed and replaced in a step described below with screws that will hold the motor. (See photo at the bottom left). 
+
+Before proceeding with the extraction of these screws, ensure that the 9 connecting screws of the harmonic reducer and the main part are tightly secured.
+
+> Tip: A 3D-printed alignment jig is helpful here as well.
+
 Once aligned and fastened, remove the two blue-marked screws from the reducer (as shown in the photo).
 
 ---
@@ -200,6 +216,7 @@ Once aligned and fastened, remove the two blue-marked screws from the reducer (a
 - C02 – Pulley GT2 20T (x1)  
 - C03 – GT2 Belt 166mm (x1)  
 - C11 – Spacer M3x21mm FM (x3)
+- S16 - Socket button head M3x5 (x3)
 
 **Instructions:**  
 Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers and fit the 166mm GT2 belt.
@@ -211,10 +228,13 @@ Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-01.jpg" width="20%" style="margin-bottom: 5px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-03.jpg" width="20%">
 </div>
 
 **Parts:**
-- S15 – M3x35 Screws (x2)  
+- S15 – M3x35 Screws (x1)  
+- S02 – M3 Washers (x1)  
+- S10 – M3 Nuts (x1)
 - S13 – M3x16 Screws (x2)
 
 **Instructions:**  

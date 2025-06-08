@@ -123,6 +123,14 @@ For metric threads like M2, M3, etc., the pitch is standardized. The Internation
    * Outer Diameter (OD): Typically around 5 mm, though this can vary slightly depending on the specific standard or manufacturer.
    * Thickness: Usually around 0.5 mm, but this can also vary slightly.
 
+## Tooling set
+
+To be able to do the assembly you will need some tools which are listed here.
+The list may not be complete.
+
+| #  | Ref | Description                                      |
+|----|-----|--------------------------------------------------|
+|42  | T01 | Allen key ball-end hex keys  Size 1.5 mm   ![AllenKeyBall-endHex.jpg](pictures/AllenKeyBall-endHex.jpg) |
 
 ---
 
