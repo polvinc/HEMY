@@ -185,13 +185,21 @@ Attach all six M4 corner cubes (C10) to the Main Frame B (A02) using M4x8 screws
 </div>
 
 **Parts:**
-- S06 – M3x30 Screws (x2)  
-- S02 – M3 Washers (x2)  
-- S10 – M3 Nuts (x2)
+- S06 – M3x30 Screws (x9)  
+- S02 – M3 Washers (x9)  
+- S10 – M3 Nuts (x9)
 
 **Instructions:**  
-Center the harmonic reducer with its pulley onto Main Frame B (A02), and secure it using M3x30 screws with washers and nuts.  
-> Tip: A 3D-printed alignment jig is helpful here as well.  
+Center the harmonic reducer with its pulley onto Main Frame B (A02), and secure it using M3x30 screws with washers and nuts.
+
+Make sure to properly orient the harmonic reducer in the main part, using the reducer screws as reference points. 
+
+Note that two of these screws will be removed and replaced in a step described below with screws that will hold the motor. (See photo at the bottom left). 
+
+Before proceeding with the extraction of these screws, ensure that the 9 connecting screws of the harmonic reducer and the main part are tightly secured.
+
+> Tip: A 3D-printed alignment jig is helpful here as well.
+
 Once aligned and fastened, remove the two blue-marked screws from the reducer (as shown in the photo).
 
 ---
