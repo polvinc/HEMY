@@ -228,6 +228,7 @@ Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers
 <div style="flex: 1; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-01.jpg" width="20%" style="margin-bottom: 5px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-03.jpg" width="20%">
 </div>
 
 **Parts:**
