@@ -133,7 +133,9 @@ As those screws are tighted strongly, you will need a strong screw driver. You s
 
 Replace the screws with the M2 screws.
 
+Results should look like :
 
+<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 Mount the brake (C15) to its upper support plate (A07) using three M3x19mm spacers and M3x10 screws. Use M2 washers and screws where needed for the electrical interface. Install the GT2 16T pulley (C01) onto the brake shaft.
 
