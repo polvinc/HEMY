@@ -95,12 +95,13 @@ Once the reducer is in place, remove the two screws indicated in blue on the pho
 - S05 – M3x10 Screws (x3)
   
 - S04 – M2x10 Screws (x2)  
-- S01 – Washer M2 (x2)  
+- S01 – Washer M2 (x2)
+- C04 - GT2 Belt – 200 mm
 
 **Instructions:**
 1. The grinding of the shaft is insufficient. It is necessary to complete this grinding to fit into the brake connection piece. Perform grinding over the full length of the shaft.
 2. On One Break support assemble the spacer with M3 screws.
-3. Then from this support, assemble from left to right on the shaft :
+3. Then from this support, assemble from left to right on the shaft (note: The belt shall be inserted to go around the pulley) :
    1. Break Support
    2. Bearing
    3. Washer M5
@@ -112,7 +113,7 @@ Once the reducer is in place, remove the two screws indicated in blue on the pho
 5. Unscrew the pulley screw so that the end of the bar does not protrude beyond the edge of the brake support when the pulley is resting on the brake support.
 6. Insert the brake connection piece on the other side of the shaft so that it is as close as possible to the support without touching it (1mm margin).
 
-The result should be consistent to the following :
+The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
 <img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
