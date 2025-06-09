@@ -133,6 +133,8 @@ As those screws are tighted strongly, you will need a strong screw driver. You s
 
 Replace the screws with the M2 screws.
 
+#### 🔧 Step 3.3: Final Results :
+
 Results should look like :
 
 <img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
