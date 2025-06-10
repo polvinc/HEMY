@@ -32,11 +32,13 @@ The complete file set is here : [ASM_HEMY2.step.zip](../../../hardware/step/v2.0
 ## 🧱 3D Printed Parts (Aesthetic Covers)
 Printed via FDM or resin printer – non-functional (cosmetic only)
 
+They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
+
 | # | Qty | Ref  | Description               | Est. Price | Link |
 |---|-----|------|---------------------------|------------|------|
-|13 | 1   | B01  | Dovetail PCB cover        | $1         | https://jlc3dp.com/ |
-|14 | 1   | B02  | GPS cover                 | $1         | https://jlc3dp.com/ |
-|15 | 1   | B03  | GPS antenna support       | $1         | https://jlc3dp.com/ |
+|13 | 1   | B01  | Dovetail PCB cover        | $1         | [HEMY2 - I3D - Dovetail PCB cover.step](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20Dovetail%20PCB%20cover.step) |
+|14 | 1   | B02  | GPS cover                 | $1         | [HEMY2 - I3D - GPS cover.step ](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20GPS%20cover.step)|
+|15 | 1   | B03  | GPS antenna support       | $1         | [HEMY2 - I3D - Antenna Support.step](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20Antenna%20Support.step) |
 
 ---
 
