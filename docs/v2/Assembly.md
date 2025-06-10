@@ -84,41 +84,88 @@ Once the reducer is in place, remove the two screws indicated in blue on the pho
 </div>
 
 **Parts:**
+- C08 - Shaft 5x45mm-Grind Flat
+- A07 – Brake Support (x2)
 - C15 – Brake (SWB-003) (x1)  
-- A07 – Brake Support (x1)  
-- C12 – Spacer M3x19mm FF (x3)  
-- S05 – M3x10 Screws (x3)  
-- S04 – M2x10 Screws (x2)  
-- S01 – Washer M2 (x2)  
-- S03 – Washer M5 (x1)  
+- C05 - Bearing 625ZZ (x2)
+- S03 – Washer M5 (x2)  
 - C01 – Pulley GT2 16T (x1)
 
-**Instructions:**  
+- C12 – Spacer M3x19mm FF (x3)  
+- S05 – M3x10 Screws (x3)
+  
+- S04 – M2x10 Screws (x2)  
+- S01 – Washer M2 (x2)
+- C04 - GT2 Belt – 200 mm
+
+**Instructions:**
+
+
+#### 🔧 Step 3.1: shaft sub assembly :
+1. The grinding of the shaft is insufficient. It is necessary to complete this grinding to fit into the brake connection piece. Perform grinding over the full length of the shaft.
+2. On One Break support assemble the spacer with M3 screws.
+3. Then from this support, assemble from left to right on the shaft (note: The belt shall be inserted to go around the pulley) :
+   1. Break Support
+   2. Bearing
+   3. Washer M5
+   4. Pulley GT2 (Tighten it with the pulley screw).
+   5. Washer
+   6. Bearing
+   7. Break support
+4. Screw the last Break support to the Spacer.
+5. Unscrew the pulley screw so that the end of the bar does not protrude beyond the edge of the brake support when the pulley is resting on the brake support.
+6. Insert the brake connection piece on the other side of the shaft so that it is as close as possible to the support without touching it (1mm margin).
+
+The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
+
+<img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" style="float:right;width:20%;" />
+
+#### 🔧 Step 3.2: Break preparation :
+The connecting screws of the break shall be replaced with longer M2 screws.
+
+<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="float:right;width:20%;" />
+
+For this you need to unscrew the following screws.
+
+<img src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" alt="Description of the image" style="float:right;width:20%;" />
+
+As those screws are tighted strongly, you will need a strong screw driver. You shall be carefull whhile unscrewing, to avoid the internal springs to get out from coming out of their housing.
+
+Replace the screws with the M2 screws.
+
+#### 🔧 Step 3.3: Final Results :
+
+Results should look like :
+
+<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
+
 Mount the brake (C15) to its upper support plate (A07) using three M3x19mm spacers and M3x10 screws. Use M2 washers and screws where needed for the electrical interface. Install the GT2 16T pulley (C01) onto the brake shaft.
 
 ---
 
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
 
-
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" width="10%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" width="10%">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" style="width: 30%; margin-bottom: 5px;">
+  </div>
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" style="width: 30%; margin-bottom: 5px;">
+  </div>
 </div>
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" width="10%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" width="10%">
-</div>
-
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" width="10%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" width="10%">
+<div style="display: flex; justify-content: center; max-width: 100%;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg" style="width: 18%;">
 </div>
 
 **Parts:**
-- A08 – Motor Support (x1)  
 - A07 – Brake Support (x1)  
+
+- A08 – Motor Support (x1)  
 - C04 – GT2 Belt 200mm (x1)  
 - C02 – Pulley GT2 20T (x1)  
 - C07 – NEMA17 Motor (x1)  
@@ -338,14 +385,14 @@ Attach the lateral plate (A04) to the RA/DEC frame to complete the squared brack
 
 ### 🔧 Step 15: Install Top Electronics
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="12%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="12%">
+<div style="display: flex; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="30%">
 </div>
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="12%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="12%">
+<div style="display: flex;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="30%">
 </div>
 
 
@@ -362,14 +409,14 @@ Make sure all cables are connected and routed cleanly.
 
 ### 🔧 Step 16: Final Assembly of Top/Bottom/Lateral Plates
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="12%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="12%">
+<div style="display: flex; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="30%">
 </div>
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="12%" style="margin-bottom: 5px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="12%">
+<div style="display: flex;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="30%">
 </div>
 
 **Parts:**
