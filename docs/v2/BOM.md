@@ -8,6 +8,7 @@ This is the full Bill of Materials required to build the HEMY v2 harmonic equato
 Manufactured via CNC – recommended supplier: [jlccnc.com](https://jlccnc.com/)
 
 Step to upload are there : [../../hardware/step/v2.0/](../../hardware/step/v2.0/)
+
 The complete file set is here : [ASM_HEMY2.step.zip](../../../hardware/step/v2.0/ASM_HEMY2.step.zip)
 
 | # | Qty | Ref        | Description                     | Est. Price | step file |
