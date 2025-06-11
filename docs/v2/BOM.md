@@ -7,31 +7,38 @@ This is the full Bill of Materials required to build the HEMY v2 harmonic equato
 ## 🛠️ CNC Machined Parts (Aluminum)
 Manufactured via CNC – recommended supplier: [jlccnc.com](https://jlccnc.com/)
 
-| # | Qty | Ref        | Description                     | Est. Price | Link |
-|---|-----|------------|----------------------------------|------------|------|
-| 1 | 1   | A01        | Main frame A                    | $19        | https://jlccnc.com/ |
-| 2 | 1   | A02        | Main frame B                    | $21        | https://jlccnc.com/ |
-| 3 | 1   | A03        | Lateral plate A                 | $10        | https://jlccnc.com/ |
-| 4 | 1   | A04        | Lateral plate B                 | $10        | https://jlccnc.com/ |
-| 5 | 1   | A05        | Top plate                       | $10        | https://jlccnc.com/ |
-| 6 | 1   | A06        | Bottom plate                    | $10        | https://jlccnc.com/ |
-| 7 | 2   | A07        | Brake support                   | $10        | https://jlccnc.com/ |
-| 8 | 2   | A08        | Motor support                   | $17        | https://jlccnc.com/ |
-| 9 | 1   | A09        | Dovetail Vixen/Losmandy         | $54        | https://jlccnc.com/ |
-|10 | 2   | A10        | RFix Dovetail                   | $17        | https://jlccnc.com/ |
-|11 | 1   | A11        | Output flange                   | $31        | https://jlccnc.com/ |
-|12 | 2   | A12        | Main pulley                     | $30        | https://jlccnc.com/ |
+Step to upload are there : [../../hardware/step/v2.0/](../../hardware/step/v2.0/)
+
+The complete file set is here : [ASM_HEMY2.step.zip](../../../hardware/step/v2.0/ASM_HEMY2.step.zip)
+
+| # | Qty | Ref        | Description                     | Est. Price | step file |
+|---|-----|------------|----------------------------------|-----------|--------------------|
+| 1 | 1   | A01        | Main frame A                    | $19        | [HEMY2 - Main frame A.step](../../../hardware/step/v2.0/HEMY2%20-%20Main%20frame%20A.step) |
+| 2 | 1   | A02        | Main frame B                    | $21        | [HEMY2 - Main frame B.step](../../../hardware/step/v2.0/HEMY2%20-%20Main%20frame%20B.step) |
+| 3 | 1   | A03        | Lateral plate A                 | $10        | [HEMY2 - Lateral A.step](../../../hardware/step/v2.0/HEMY2%20-%20Lateral%20A.step) |
+| 4 | 1   | A04        | Lateral plate B                 | $10        | [HEMY2 - Lateral B.step](../../../hardware/step/v2.0/HEMY2%20-%20Lateral%20B.step) |
+| 5 | 1   | A05        | Top plate                       | $10        | [HEMY2 - Top plate.step](../../../hardware/step/v2.0/HEMY2%20-%20Top%20plate.step) |
+| 6 | 1   | A06        | Bottom plate                    | $10        | [HEMY2 - Bottom plate.step](../../../hardware/step/v2.0/HEMY2%20-%20Bottom%20plate.step) |
+| 7 | 2   | A07        | Brake support                   | $10        | [HEMY2 - Brake support.step](../../../hardware/step/v2.0/HEMY2%20-%20Brake%20support.step) |
+| 8 | 2   | A08        | Motor support                   | $17        | [HEMY2 - Motor Support.step](../../../hardware/step/v2.0/HEMY2%20-%20Motor%20Support.step) |
+| 9 | 1   | A09        | Dovetail Vixen/Losmandy         | $54        | [HEMY2 - Dovetail.step](../../../hardware/step/v2.0/HEMY2%20-%20Dovetail.step) |
+|10 | 2   | A10        | RFix Dovetail                   | $17        | [HEMY2 - Dovetail Fix.step](../../../hardware/step/v2.0/HEMY2%20-%20Dovetail%20Fix.step) |
+|11 | 1   | A11        | Output flange                   | $31        | [HEMY2 - Output DC base.step](../../../hardware/step/v2.0/HEMY2%20-%20Output%20DC%20base.step) |
+|12 | 2   | A12        | Main pulley                     | $30        | [HEMY2 - Pulley 70Ts CNC.step](../../../hardware/step/v2.0/HEMY2%20-%20Pulley%2070Ts%20CNC.step) |
+|13 | 1   | A13        | SWB-003-shaft coupling          | $          | [HEMY2 - SWB-003-shaft coupling.step](../../../hardware/step/v2.0/HEMY2%20-%20SWB-003-shaft%20coupling.step) |
 
 ---
 
 ## 🧱 3D Printed Parts (Aesthetic Covers)
 Printed via FDM or resin printer – non-functional (cosmetic only)
 
+They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
+
 | # | Qty | Ref  | Description               | Est. Price | Link |
 |---|-----|------|---------------------------|------------|------|
-|13 | 1   | B01  | Dovetail PCB cover        | $1         | https://jlc3dp.com/ |
-|14 | 1   | B02  | GPS cover                 | $1         | https://jlc3dp.com/ |
-|15 | 1   | B03  | GPS antenna support       | $1         | https://jlc3dp.com/ |
+|13 | 1   | B01  | Dovetail PCB cover        | $1         | [HEMY2 - I3D - Dovetail PCB cover.step](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20Dovetail%20PCB%20cover.step) |
+|14 | 1   | B02  | GPS cover                 | $1         | [HEMY2 - I3D - GPS cover.step ](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20GPS%20cover.step)|
+|15 | 1   | B03  | GPS antenna support       | $1         | [HEMY2 - I3D - Antenna Support.step](../../../hardware/step/v2.0/HEMY2%20-%20I3D%20-%20Antenna%20Support.step) |
 
 ---
 
@@ -46,7 +53,7 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |20 | 2   | C05   | Bearing 625ZZ                       | <$1        | https://fr.aliexpress.com/item/1005006995866051.html |
 |21 | 2   | C06   | Harmonic Reducer ZXK17-100          | $115       | https://fr.aliexpress.com/item/1005006525104869.html |
 |22 | 2   | C07   | Nema 17 (17HM15-0904S)              | $20        | https://fr.aliexpress.com/item/33017087864.html |
-|23 | 1   | C08   | Shaft 5x45mm-Grind Flat             | <$1        | https://fr.aliexpress.com/item/1005004046126519.html |
+|23 | 1   | C08   | Shaft 5x45mm-Grind Flat (see note below)   | <$1        | https://fr.aliexpress.com/item/1005004046126519.html |
 |24 | 2   | C09   | Square Corner Screw 10x10x6 M3      | <$1        | https://fr.aliexpress.com/item/1005005387777809.html |
 |25 | 8   | C10   | Square Corner Screw 12x12x12 M4     | <$1        | https://fr.aliexpress.com/item/1005007257652761.html |
 |26 | 6   | C11   | Spacer M3x21mm FM  - (Thread 4mm)   | <$1        | https://fr.aliexpress.com/item/1005005462128073.html |
@@ -62,6 +69,8 @@ Printed via FDM or resin printer – non-functional (cosmetic only)
 |36 | 1   | C21   | Viewfinder support                  | $16        | https://fr.aliexpress.com/item/1005005998174975.html |
 |36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        | https://fr.aliexpress.com/item/1005001408406253.html |
 
+
+> ⚠️ **Important Note:** The original SWB-003 shaft coupling is not compatible with any shaft we found, particularly this one. Therefore, we designed the printed part A13 to replace the original shaft coupling. Another solution is to grind the shaft to increase the flat surface.
 
 ---
 
