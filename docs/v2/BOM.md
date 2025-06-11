@@ -70,7 +70,7 @@ They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
 |36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        | https://fr.aliexpress.com/item/1005001408406253.html |
 
 
-> ⚠️ **Important Note:** The original SWB-003 shaft coupling is not compatible with any shaft we found, particularly this one. Therefore, we designed the printed part A13 to replace the original shaft coupling. Another solution is to grind the shaft to increase the flat surface.
+> ⚠️ **Important Note:** The original SWB-003 shaft coupling is not compatible with any shaft we found, particularly this one. Therefore, we designed the CNC part A13 (could be printed, not tested) to replace the original shaft coupling. Another solution is to grind the shaft to increase the flat surface.
 
 ---
 
