@@ -53,7 +53,7 @@ They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
 |20 | 2   | C05   | Bearing 625ZZ                       | <$1        | https://fr.aliexpress.com/item/1005006995866051.html |
 |21 | 2   | C06   | Harmonic Reducer ZXK17-100          | $115       | https://fr.aliexpress.com/item/1005006525104869.html |
 |22 | 2   | C07   | Nema 17 (17HM15-0904S)              | $20        | https://fr.aliexpress.com/item/33017087864.html |
-|23 | 1   | C08   | Shaft 5x45mm-Grind Flat (see note below)   | <$1        | https://fr.aliexpress.com/item/1005004046126519.html |
+|23 | 1   | C08   | Shaft 5x40mm-Grind Flat (see note below)   | <$1        | https://fr.aliexpress.com/item/1005004016804299.html <!-- https://fr.aliexpress.com/item/1005004046126519.html | -->
 |24 | 2   | C09   | Square Corner Screw 10x10x6 M3      | <$1        | https://fr.aliexpress.com/item/1005005387777809.html |
 |25 | 8   | C10   | Square Corner Screw 12x12x12 M4     | <$1        | https://fr.aliexpress.com/item/1005007257652761.html |
 |26 | 6   | C11   | Spacer M3x21mm FM  - (Thread 4mm)   | <$1        | https://fr.aliexpress.com/item/1005005462128073.html |
@@ -70,7 +70,7 @@ They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
 |36 | 1   | C21   | Spring 8mm OD, 0.8mm Wire, 25mm Free Length  | $1        | https://fr.aliexpress.com/item/1005001408406253.html |
 
 
-> ⚠️ **Important Note:** The original SWB-003 shaft coupling is not compatible with any shaft we found, particularly this one. Therefore, we designed the CNC part A13 (could be printed, not tested) to replace the original shaft coupling. Another solution is to grind the shaft to increase the flat surface.
+> ⚠️ **Important Note:** The original SWB-003 shaft coupling is not compatible with any shaft we found, particularly this one. Therefore, I designed the CNC part A13 (could be printed, not tested) to replace the original shaft coupling. Another solution is to grind the shaft to increase the flat surface. In fact, the original coupler has a flat spot 4mm away from the opposite edge, whereas the flattened shaft from AliExpress has its flat spot 4.5mm away. In this case it is necessary to grind to 0.5mm.
 
 ---
 
