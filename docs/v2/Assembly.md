@@ -68,11 +68,18 @@ Note: You need the T01 tool (Allen Key).
 - S10 – M3 Nuts (x7)
 
 **Instructions:**  
-Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 screw each. Then install the reducer (C06) using M3x30 screws with washers and nuts. Double-check the reducer's orientation and alignment.  
-> Tip: a 3D-printed centering tool can be helpful for perfect alignment.  
-> 
-Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
+Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 screw each. Then install the reducer (C06) using M3x30 screws with washers and nuts. 
 
+- Double-check the reducer's orientation by identifying its screws and orienting them as in the picture.
+
+- Double-check the reducer's alignment.
+
+Due to the necessity to ensure that the reducer fits into the space, a little margin has been taken. Therefore, it is important to verify that there is as much space between the reducer and the main plate on each side.
+  
+> Tip: a 3D-printed centering tool can be helpful for perfect alignment. (To be build.) 
+> Tip: put the same folded paper sheet on four sides of the reducer.
+
+- Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
 
 ---
 
