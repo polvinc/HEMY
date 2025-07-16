@@ -1,7 +1,12 @@
 
 # ⚠️ WORK IN PROGRESS – Assembly Guide in Progress!
 
-> **This assembly guide is still being written and improved.** Some steps may be missing, incomplete, or updated soon. If you're building HEMY, please read carefully, share feedback, and check the [Discussions](https://github.com/polvinc/HEMY/discussions) tab for help and updates.
+> **This assembly guide is still being written and improved.**
+>
+> Some steps may be missing, incomplete, or updated soon.
+>
+> If you're building HEMY, please read carefully, share feedback, and
+> check the [Discussions](https://github.com/polvinc/HEMY/discussions) tab for help and updates.
 
 ---
 
