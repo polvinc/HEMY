@@ -81,7 +81,8 @@ Fix two M4 square corner cubes (C10) onto Main Frame A (A01) using one M4x8 scre
 
 Due to the necessity to ensure that the reducer fits into the space, a little margin has been taken. Therefore, it is important to verify that there is as much space between the reducer and the main plate on each side.
   
-> Tip: a 3D-printed centering tool can be helpful for perfect alignment. (To be build.) 
+> Tip: a 3D-printed centering tool can be helpful for perfect alignment. (To be build.)
+> 
 > Tip: put the same folded paper sheet on four sides of the reducer.
 
 - Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
