@@ -10,7 +10,7 @@
 
 ---
 
-# 🛠️ Guide d'assemblage Hemy V2
+# Guide d'assemblage Hemy V2 Hemy V2
 
 Ce document vous guide à travers l'assemblage mécanique du support équatorial Hemy V2. Chaque section comprend des pièces, des instructions et des conseils suggérés requis.
 
@@ -18,17 +18,17 @@ Ce document vous guide à travers l'assemblage mécanique du support équatorial
 ## Vue des pièces globales
 
 Les différentes parties qui seront utilisées dans le manuel actuel sont présentées ici regroupées par des groupes d'assemblage. (Par exemple: pour la vis)
-! [Présentation globale] (./ images / 2025-hemy_disassembled-01_small.jpg)
-[Image pleine grandeur] (./ images / 2025-hemy_disassembled-01.jpg)
+![Overall presentation](./pictures/2025-HEMY_disassembled-01_small.jpg)
+[Image pleine grandeur](./pictures/2025-HEMY_disassembled-01.jpg)
 
 
-Surtout, n'hésitez pas à ouvrir le [onshape 3D Projet] (https://cad.onshape.com/documents/5bb7abe94ccc1dfccd880b05/w/c4dcfbc560d188 DFACA97350 / E / 5198383ED1B9D7F502F35102? Rendermode = 0 & uistate = 6808b73883ed3655f234ab55) En parallèle, afin que vous puissiez observer les subtilités de l'assemblage, les détails de l'assemblage et les sous-ensembles.
+Surtout, n'hésitez pas à ouvrir le [Projet surhape 3d] (https://cad.onshape.com/documents/5bb7abe94ccc1dfccd880b05/w/c4dcfbc560d188df ACA97350 / E / 5198383ED1B9D7F502F35102? Rendermode = 0 & uistate = 6808b73883ed3655f234ab55) En parallèle, afin que vous puissiez observer les subtilités de l'assemblage, les détails de l'assemblage et les sous-ensembles.
 
 
 
 ---
 
-Assemblage de l'axe ## (partie commune)
+## Assemblage de l'axe (partie commune)
 
 ### 🔧 Étape 1: Installation de la poulie réductrice harmonique
 
@@ -41,7 +41,7 @@ Assemblage de l'axe ## (partie commune)
 - C06 - Réducteur harmonique ZXK17-100 (x2)
 - A12 - Poulie principale (70T) (x2)
 - S07 - CONE Point Hex Socket Set M3X3 (x12)
-
+  
 **Instructions:**
 - Poulie Forach (70T) et réducteur harmonique
 - Assurez-vous une orientation correcte des vis - reportez-vous au modèle 3D si nécessaire.
@@ -54,10 +54,10 @@ Remarque: vous avez besoin de l'outil T01 (clé Allen).
 
 ---
 
-Assemblage de l'axe RA
+## Assemblage de l'axe RA
 
 
-### 🔧 Étape 2: Mount réducteur au cadre principal
+### 🔧 Étape 2: Réducteur de montage au cadre principal
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step02-01.jpg" width = "20%" style = "margin-bottom: 5px;">
@@ -80,7 +80,7 @@ Corrigez deux cubes d'angle carré M4 (C10) sur le cadre principal A (A01) à l'
 - Vérifiez l'alignement du réducteur.
 
 En raison de la nécessité de s'assurer que le réducteur s'intègre dans l'espace, une petite marge a été prise. Par conséquent, il est important de vérifier qu'il y a autant d'espace entre le réducteur et la plaque principale de chaque côté.
-
+  
 > Astuce: un outil de centrage imprimé en 3D peut être utile pour un alignement parfait. (À construire.)
 >
 > Astuce: Mettez la même feuille de papier pliée sur quatre côtés du réducteur.
@@ -106,7 +106,7 @@ En raison de la nécessité de s'assurer que le réducteur s'intègre dans l'esp
 
 - C12 - Spacer M3X19mm FF (x3)
 - S05 - Vis M3X10 (X3)
-
+  
 - S04 - Vis M2X10 (x2)
 - S01 - Washer M2 (x2)
 - C04 - ceinture GT2 - 200 mm
@@ -237,7 +237,7 @@ Fixez les six cubes d'angle M4 (C10) au cadre principal B (A02) à l'aide de vis
 
 ---
 
-### 🔧 Étape 7: Mount Dec Reducer
+### 🔧 Étape 7: réducteur du mont Dec
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step07-01.jpg" width = "20%" style = "margin-boot: 5px;">
@@ -246,8 +246,8 @@ Fixez les six cubes d'angle M4 (C10) au cadre principal B (A02) à l'aide de vis
 
 **Parties:**
 - S06 - Vis M3X30 (X9)
-
-
+- S02 - Laveuses M3 (X9)
+- S10 - M3 NUTS (X9)
 
 **Instructions:**
 Centre le réducteur harmonique avec sa poulie sur le cadre principal B (A02) et fixez-le à l'aide de vis M3X30 avec des rondelles et des écrous.
@@ -283,7 +283,7 @@ Montez la poulie GT2 20T sur l'arbre du moteur NEMA17. Ajouter les trois entreto
 
 ---
 
-### 🔧 Étape 9: le moteur monte en réducteur
+### 🔧 Étape 9: Moteur monte en réducteur
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step09-01.jpg" width = "20%" style = "margin-bottom: 5px;">
@@ -304,7 +304,7 @@ Positionnez l'assemblage du moteur sur le réducteur. Utilisez les vis M3X35 et 
 
 ---
 
-Assemblage du cadre de l'axe ##
+## Ensemble de trame d'axe
 
 ### 🔧 Étape 10: Connectez les axes RA et DEC
 
@@ -325,11 +325,11 @@ Positionnez les sous-assemblages RA et DEC pour former un angle droit (90 °) en
 
 ---
 
-## Assemblage de Dovetail
+## Assemblage d'aronde
 
 > ⚠️ Remarque: L'électronique USB et DC Passthrough pour la queue d'aronde est toujours expérimentale et n'est pas entièrement testée.
 
-### 🔧 Étape 11: attacher l'électronique et la couverture
+### 🔧 Étape 11: Attachez l'électronique et la couverture
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step11-01.jpg" width = "20%" style = "margin-bottom: 5px;">
@@ -346,7 +346,7 @@ Positionnez le PCB Passthrough sur l'adaptation (A09) et fixez la couverture imp
 
 ---
 
-### 🔧 Étape 12: Mont Dovetail sur Dec Reducer
+### 🔧 Étape 12: Mount Dovetail sur DEC REDUCER
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step12-01.jpg" width = "20%" style = "margin-bottom: 5px;">
@@ -380,7 +380,7 @@ Insérez les deux pinces (A10) dans la queue d'aronde (A09), fixez-les à l'aide
 
 ## Plaques latérales et électronique
 
-### 🔧 Étape 14: Montez la plaque latérale B et le cadre sécurisé
+### 🔧 Étape 14: Monter la plaque latérale B et cadre sécurisé
 
 <div style = "flex: 1; max-largeth: 200px;">
 <img align = "droit" src = "images / 2025-hemy2-asm-step14-01.jpg" width = "20%" style = "margin-bottom: 5px;">
@@ -398,7 +398,7 @@ Fixez la plaque latérale (A04) au cadre RA / DEC pour compléter le support car
 
 ### 🔧 Étape 15: Installez l'électronique supérieure
 
-<div style = "Affichage: flex; marge-fond: 5px;">
+
 <img src = "Pictures / 2025-HEMY2-ASM-Step15-01.jpg" width = "30%" style = "margin-droite: 5px;">
 <img src = "Pictures / 2025-HEMY2-ASM-Step15-02.jpg" width = "30%">
 </div>
@@ -410,7 +410,7 @@ Fixez la plaque latérale (A04) au cadre RA / DEC pour compléter le support car
 
 
 **Parties:**
-- Tous les PCB (assemblés, voir `pcb_assembly.md`)
+- Tous les PCB (assemblés, voir __code0__)
 - C13 - Spacer M3X8MM FF (X4)
 - poignée, antenne GPS, couverture GPS
 
@@ -442,7 +442,7 @@ Fixez d'abord la plaque supérieure (A05) à la structure de montage, en vous as
 
 ---
 
-## Ajustements finaux et bride de sortie
+## Réglages finaux et bride de sortie
 
 ### 🔧 Étape 17: Installez la bride de sortie et la plaque de renard
 
@@ -482,14 +482,14 @@ Installez la bride de sortie (A11) sur le réducteur RA. Ensuite, montez en tout
 Hemy est conçu pour fonctionner avec ** onstepx **, un firmware de contrôleur open source pour les supports astronomiques. Le clignotement du firmware est simple, mais dépend de votre configuration matérielle (Teensy, STM32, ESP32, etc.).
 
 ### Étapes de base:
-1. ** Télécharger Onstepx ** à partir du [référentiel officiel de Github] (https://github.com/hjd1964/onspx)
-2. ** Ouvrez le firmware ** dans [PlatformoIo] (https://platformrio.org/) (plugin vscode)
-3. ** Modifiez `config.h` et` Board.h` ** pour correspondre à votre configuration Hemy (pilotes pas à pas, ratios de vitesse, freinage, etc.)
+1. **Download OnStepX** from the [Référentiel officiel de GitHub](https://github.com/hjd1964/OnStepX)
+2. **Open the firmware** in [Plateforme](https://platformio.org/) (VSCode plugin)
+3. ** Modifier __code0__ et __code1 __ ** pour correspondre à votre configuration hémy (conducteurs de stepper, ratios de vitesse, frein, etc.)
 4. Connectez votre planche via USB
 5. Cliquez sur ** Télécharger ** dans Platformoo pour flasher le firmware
 6. Ouvrez le moniteur de série ** ** et confirmez l'initialisation (vérifiez les mouvements RA / DEC, Homing, etc.)
 
-> 💡 CONSEIL: reportez-vous au fichier `pcb_assembly.md` pour la mappage et les paramètres des broches matériels.
+> 💡 Astuce: reportez-vous au fichier __code0__ pour le mappage et les paramètres du brochement matériel.
 
 Une fois le micrologiciel flashé et le support, vous êtes prêt à configurer le surpapé via des outils d'astronomie Wi-Fi, en série ou compatibles (INDI, ASCOM, etc.).
 
