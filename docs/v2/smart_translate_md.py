@@ -1,10 +1,18 @@
 #!/usr/bin/python3
-
 import re
 import subprocess
 
 INPUT_FILE = "Assembly.md"
-OUTPUT_FILE = "Auto-Translate-Assemblage.md"
+OUTPUT_FILE = "Assemblage.md"
+
+# Expressions régulières pour détecter du HTML simple à ignorer
+html_inline_tags = [
+    r'<img[^>]*>',
+    r'<br\s*/?>',
+    r'<hr\s*/?>',
+    r'<.*?style=.*?>'  # ligne contenant des balises HTML stylées
+]
+html_inline_pattern = re.compile('|'.join(html_inline_tags), re.IGNORECASE)
 
 def translate_text(text):
     """Appelle translate-shell pour traduire une chaîne en français"""
@@ -23,16 +31,25 @@ def translate_text(text):
         print(f"[⚠️] Erreur de traduction : {e}")
         return text
 
+def is_html_line(line):
+    """Détermine si la ligne contient uniquement des balises HTML à ne pas traduire"""
+    stripped = line.strip()
+    return bool(html_inline_pattern.match(stripped))
+
 def process_line(line):
-    # Ne pas traduire les lignes vides ou les séparateurs de tableau
+    # Ne pas traduire les lignes vides ou séparateurs de tableau
     if not line.strip() or re.match(r'^\s*\|[-| ]+\|\s*$', line):
         return line
 
-    # Ne pas traduire les images ![alt](url)
+    # Ne pas traduire les balises HTML inline (ex: <img ...>)
+    if is_html_line(line):
+        return line
+
+    # Ne pas traduire les images markdown ![...](...)
     if re.search(r'!\[.*?\]\(.*?\)', line):
         return line
 
-    # Ne pas traduire les lignes de tableaux (| col1 | col2 |) → fragile
+    # Ne pas traduire les lignes de tableaux
     if re.match(r'^\s*\|.+\|\s*$', line):
         return line
 
@@ -57,7 +74,7 @@ def process_line(line):
         protected[token] = match.group()
         new_line = new_line.replace(match.group(), token, 1)
 
-    # Protéger les liens [texte](url) → on traduit le texte, on garde le lien
+    # Protéger les liens Markdown
     link_matches = list(re.finditer(r'\[([^\]]+)\]\(([^)]+)\)', new_line))
     for i, match in enumerate(link_matches):
         text, url = match.groups()

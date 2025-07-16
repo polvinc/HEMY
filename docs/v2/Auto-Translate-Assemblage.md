@@ -32,9 +32,9 @@ Surtout, n'hésitez pas à ouvrir le [Projet surhape 3d] (https://cad.onshape.co
 
 ### 🔧 Étape 1: Installation de la poulie réductrice harmonique
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step01-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step01-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -59,9 +59,9 @@ Remarque: vous avez besoin de l'outil T01 (clé Allen).
 
 ### 🔧 Étape 2: Réducteur de montage au cadre principal
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step02-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droite" src = "images / 2025-HEMY2-ASM-Step02-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP02-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP02-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -91,9 +91,9 @@ En raison de la nécessité de s'assurer que le réducteur s'intègre dans l'esp
 
 ### 🔧 Étape 3: sous-assemblage de freinage
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step03-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droite" src = "images / 2025-HEMY2-ASM-SEP03-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -131,16 +131,16 @@ En raison de la nécessité de s'assurer que le réducteur s'intègre dans l'esp
 
 Le résultat doit être cohérent à ce qui suit (sauf pour la ceinture qui doit avoir été insérée et ne peut pas être vue ici):
 
-<img src = "images / 2025-hemy2-asm-step03-03.jpg" alt = "Description de l'image" style = "float: droite; largeur: 20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 #### 🔧 Étape 3.2: Préparation de rupture:
 Les vis de connexion de la rupture doivent être remplacées par des vis M2 plus longues.
 
-<img src = "images / 2025-hemy2-asm-step03-04.jpg" alt = "Description de l'image" style = "float: droit; largeur: 20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 Pour cela, vous devez dévisser les vis suivantes.
 
-<img src = "images / 2025-hemy2-asm-step03-05.jpg" alt = "Description de l'image" style = "float: droite; largeur: 20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 Comme ces vis sont fortement serrées, vous aurez besoin d'un conducteur à vis solide. Vous serez prudent en dévissant, pour éviter que les ressorts internes sortent de sortir de leur logement.
 
@@ -150,7 +150,7 @@ Remplacez les vis par les vis M2.
 
 Les résultats doivent ressembler:
 
-<img src = "images / 2025-hemy2-asm-step03-06.jpg" alt = "Description de l'image" style = "float: droite; largeur: 20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 Montez le frein (C15) sur sa plaque de support supérieure (A07) à l'aide de trois entretoises M3x19 mm et des vis M3x10. Utilisez des rondelles et des vis M2 si nécessaire pour l'interface électrique. Installez la poulie GT2 16T (C01) sur l'arbre de frein.
 
@@ -158,21 +158,21 @@ Montez le frein (C15) sur sa plaque de support supérieure (A07) à l'aide de tr
 
 ### 🔧 Étape 4: assemblage RA et tension de la courroie
 
-<div style = "Display: flex; flex-wrap: wrap; justify-content: espace-between; max-largeth: 100%;">
-<div style = "flex: 0 0 48%; max-largeur: 48%; marge-fond: 10px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-01.jpg" style = "Width: 30%; marge-fond: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-03.jpg" Style = "Width: 30%; marge-fond: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-05.jpg" style = "Width: 30%; marge-fond: 5px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" style="width: 30%; margin-bottom: 5px;">
 </div>
-<div style = "flex: 0 0 48%; max-largeur: 48%; marge-fond: 10px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-02.jpg" Style = "Width: 30%; marge-fond: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-04.jpg" Style = "Width: 30%; marge-fond: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-06.jpg" Style = "Width: 30%; marge-fond: 5px;">
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" style="width: 30%; margin-bottom: 5px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" style="width: 30%; margin-bottom: 5px;">
 </div>
 </div>
 
-<div style = "Display: flex; justify-content: Centre; max-largeur: 100%;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step04-07.jpg" style = "Width: 18%;">
+<div style="display: flex; justify-content: center; max-width: 100%;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg" style="width: 18%;">
 </div>
 
 **Parties:**
@@ -206,9 +206,9 @@ C'est l'étape la plus délicate - prenez votre temps!
 
 ### 🔧 Étape 5: Installation principale de la poulie
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step01-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step01-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP01-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -222,9 +222,9 @@ Comme à l'étape 1, fixez la poulie principale 70T au deuxième réducteur harm
 
 ### 🔧 Étape 6: Attachez les cubes au cadre principal B
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step06-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step06-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP06-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -239,9 +239,9 @@ Fixez les six cubes d'angle M4 (C10) au cadre principal B (A02) à l'aide de vis
 
 ### 🔧 Étape 7: réducteur du mont Dec
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step07-01.jpg" width = "20%" style = "margin-boot: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step07-02-blue.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP07-02-blue.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -266,9 +266,9 @@ Une fois aligné et fixé, retirez les deux vis à marquage bleu du réducteur (
 
 ### 🔧 Étape 8: Préparer l'assemblage du moteur
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step08-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step08-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP08-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP08-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -285,10 +285,10 @@ Montez la poulie GT2 20T sur l'arbre du moteur NEMA17. Ajouter les trois entreto
 
 ### 🔧 Étape 9: Moteur monte en réducteur
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step09-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "Pictures / 2025-HEMY2-ASM-Step09-02.jpg" width = "20%">
-<img align = "droit" src = "images / 2025-hemy2-asm-step09-03.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-02.jpg" width="20%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP09-03.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -308,10 +308,10 @@ Positionnez l'assemblage du moteur sur le réducteur. Utilisez les vis M3X35 et 
 
 ### 🔧 Étape 10: Connectez les axes RA et DEC
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step10-01.jpg" width = "14%" style = "margin-boot: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step10-02.jpg" width = "14%">
-<img align = "droit" src = "images / 2025-hemy2-asm-step10-03.jpg" width = "14%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-01.jpg" width="14%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-02.jpg" width="14%">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP10-03.jpg" width="14%">
 </div>
 
 **Parties:**
@@ -331,9 +331,9 @@ Positionnez les sous-assemblages RA et DEC pour former un angle droit (90 °) en
 
 ### 🔧 Étape 11: Attachez l'électronique et la couverture
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step11-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step11-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP11-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP11-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -348,8 +348,8 @@ Positionnez le PCB Passthrough sur l'adaptation (A09) et fixez la couverture imp
 
 ### 🔧 Étape 12: Mount Dovetail sur DEC REDUCER
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step12-01.jpg" width = "20%" style = "margin-bottom: 5px;">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP12-01.jpg" width="20%" style="margin-bottom: 5px;">
 </div>
 
 **Parties:**
@@ -362,9 +362,9 @@ Rachetez les câbles à travers la découpe centrale du réducteur, puis fixez l
 
 ### 🔧 Étape 13: Installer des pinces
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step13-01.jpg" width = "20%" style = "margin-boot: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step13-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP13-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP13-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -382,9 +382,9 @@ Insérez les deux pinces (A10) dans la queue d'aronde (A09), fixez-les à l'aide
 
 ### 🔧 Étape 14: Monter la plaque latérale B et cadre sécurisé
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step14-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step14-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP14-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP14-02.jpg" width="20%">
 </div>
 
 **Parties:**
@@ -398,14 +398,14 @@ Fixez la plaque latérale (A04) au cadre RA / DEC pour compléter le support car
 
 ### 🔧 Étape 15: Installez l'électronique supérieure
 
-
-<img src = "Pictures / 2025-HEMY2-ASM-Step15-01.jpg" width = "30%" style = "margin-droite: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step15-02.jpg" width = "30%">
+<div style="display: flex; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-02.jpg" width="30%">
 </div>
 
-<div style = "Display: flex;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step15-03.jpg" width = "30%" style = "margin-droite: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step15-04.jpg" width = "30%">
+<div style="display: flex;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-03.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP15-04.jpg" width="30%">
 </div>
 
 
@@ -422,14 +422,14 @@ Assurez-vous que tous les câbles sont connectés et acheminés proprement.
 
 ### 🔧 Étape 16: Assemblage final des plaques supérieures / inférieures / latérales
 
-<div style = "Affichage: flex; marge-fond: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step16-01.jpg" width = "30%" style = "margin-droite: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step16-02.jpg" width = "30%">
+<div style="display: flex; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-02.jpg" width="30%">
 </div>
 
-<div style = "Display: flex;">
-<img src = "Pictures / 2025-HEMY2-ASM-Step16-03.jpg" width = "30%" style = "margin-droite: 5px;">
-<img src = "Pictures / 2025-HEMY2-ASM-SEP16-04.jpg" width = "30%">
+<div style="display: flex;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-03.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP16-04.jpg" width="30%">
 </div>
 
 **Parties:**
@@ -446,9 +446,9 @@ Fixez d'abord la plaque supérieure (A05) à la structure de montage, en vous as
 
 ### 🔧 Étape 17: Installez la bride de sortie et la plaque de renard
 
-<div style = "flex: 1; max-largeth: 200px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step17-01.jpg" width = "20%" style = "margin-bottom: 5px;">
-<img align = "droit" src = "images / 2025-hemy2-asm-step17-02.jpg" width = "20%">
+<div style="flex: 1; max-width: 200px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-01.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="right" src="pictures/2025-HEMY2-ASM-STEP17-02.jpg" width="20%">
 </div>
 
 **Parties:**
