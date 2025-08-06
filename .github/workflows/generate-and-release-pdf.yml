@@ -34,8 +34,8 @@ jobs:
 
       - name: Translate then produce html
         run: |
-          ./scripts/smart_translate_md.py --in docs/v2/Assembly.md --out htmhOutput/Assemblage.md --dict scripts/termes.txt
-          grip docs/v2/Assemblage.md --export htmhOutput/Assemblage.html
+          ./scripts/smart_translate_md.py --in docs/v2/Assembly.md --out output/Assembly_fr.md --dict scripts/termes.txt
+          grip output/Assembly_fr.md --export htmhOutput/Assembly_fr.html
 
       - name: Copy Images files
         run: cp -rv docs/v2/pictures htmhOutput
@@ -55,7 +55,7 @@ jobs:
       - name: Convert HTML to PDF with Puppeteer
         run: |
           node scripts/convert-to-pdf.js htmhOutput/Assembly.html output/Assembly.pdf
-          node scripts/convert-to-pdf.js htmhOutput/Assemblage.html output/Assemblage.pdf
+          node scripts/convert-to-pdf.js htmhOutput/Assembly_fr.html output/Assembly_fr.pdf
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
