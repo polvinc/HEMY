@@ -37,6 +37,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Assembly-PDF
-          path: output/Assembly.pdf
-          path: output/Assembly.html
-
+          path: output/*
