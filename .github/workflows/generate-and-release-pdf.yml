@@ -55,6 +55,9 @@ jobs:
       - name: Convert HTML to PDF with Puppeteer
         run: |
           node scripts/convert-to-pdf.js htmhOutput/Assembly.html output/Assembly.pdf
+
+      - name: Convert HTML to PDF with Puppeteer (fr)
+        run: |
           node scripts/convert-to-pdf.js htmhOutput/Assembly_fr.html output/Assembly_fr.pdf
         
       - name: Upload PDF as artifact
