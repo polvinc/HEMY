@@ -1,0 +1,2 @@
+# Format : terme traduit = correction manuelle
+grinding = meulage
