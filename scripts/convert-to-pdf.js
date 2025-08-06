@@ -1,6 +1,6 @@
-const puppeteer = require('puppeteer'); // Make sure to install full 'puppeteer' (not 'puppeteer-core')
+const puppeteer = require('puppeteer');
 const path = require('path');
-const { exec } = require('child_process');
+const { spawn } = require('child_process');
 const http = require('http');
 
 const [,, inputHtml, outputPdf] = process.argv;
@@ -35,18 +35,22 @@ function waitForServerReady(url, timeout = 5000) {
   });
 }
 
+// Kill process and any subprocesses
+function killServer(server) {
+  if (server && !server.killed) {
+    console.log('🛑 Stopping http-server...');
+    server.kill('SIGTERM');
+  }
+}
+
 (async () => {
   console.log(`📦 Serving '${serveDir}' via http-server on port ${port}`);
-  const server = exec(`npx http-server ${serveDir} -p ${port} -a 127.0.0.1`);
-
-  // Log http-server output
-  server.stdout.on('data', (data) => {
-    process.stdout.write(`[http-server] ${data}`);
+  const server = spawn('npx', ['http-server', serveDir, '-p', port, '-a', '127.0.0.1'], {
+    stdio: ['ignore', 'pipe', 'pipe']
   });
 
-  server.stderr.on('data', (data) => {
-    process.stderr.write(`[http-server:ERR] ${data}`);
-  });
+  server.stdout.on('data', (data) => process.stdout.write(`[http-server] ${data}`));
+  server.stderr.on('data', (data) => process.stderr.write(`[http-server:ERR] ${data}`));
 
   try {
     console.log(`⏳ Waiting for server to be ready at ${serverUrl}...`);
@@ -70,13 +74,12 @@ function waitForServerReady(url, timeout = 5000) {
     });
 
     await browser.close();
-    server.kill();
-
+    killServer(server);
     console.log(`✅ PDF generated successfully at: ${outputPdf}`);
+    process.exit(0);
   } catch (err) {
     console.error(`❌ Error: ${err.message}`);
-    server.kill();
+    killServer(server);
     process.exit(1);
   }
 })();
-
