@@ -3,16 +3,17 @@ const path = require('path');
 const { spawn } = require('child_process');
 const http = require('http');
 
-const [,, inputHtml, outputPdf] = process.argv;
+// Get arguments: node convert-to-pdf.js <input.html> <output.pdf> [port]
+const [,, inputHtml, outputPdf, portArg] = process.argv;
 
 if (!inputHtml || !outputPdf) {
-  console.error('❌ Usage: node convert-to-pdf.js <input.html> <output.pdf>');
+  console.error('❌ Usage: node convert-to-pdf.js <input.html> <output.pdf> [port]');
   process.exit(1);
 }
 
 const serveDir = path.dirname(inputHtml);
 const htmlFile = path.basename(inputHtml);
-const port = 8082;
+const port = parseInt(portArg, 10) || 8082;
 const serverUrl = `http://localhost:${port}/${htmlFile}`;
 
 function waitForServerReady(url, timeout = 5000) {
