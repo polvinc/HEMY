@@ -1,0 +1,29 @@
+name: Generate Assembly PDF on every push
+
+on:
+  push:
+    branches:
+      - '**'      # Runs on every branch push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Generate PDF from Markdown
+        run: |
+          mkdir -p output
+          pandoc docs/v2/Assembly.md -o output/Assembly.pdf
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Assembly-PDF
+          path: output/Assembly.pdf
+
