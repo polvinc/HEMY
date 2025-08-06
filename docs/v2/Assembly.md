@@ -136,7 +136,7 @@ The result should be consistent to the following (save for the belt that shall h
 #### 🔧 Step 3.2: Break preparation :
 The connecting screws of the break shall be replaced with longer M2 screws.
 
-<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="float:right;width:20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="width: 20%; margin-left: auto" />
 
 For this you need to unscrew the following screws.
 
