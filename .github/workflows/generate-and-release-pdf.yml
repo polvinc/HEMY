@@ -18,13 +18,25 @@ jobs:
 
       - name: Create Outputdir
         run: mkdir -p output 
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Grip
+        run: pip install grip
         
       - name: Generate PDF from Markdown
         run: pandoc docs/v2/Assembly.md -o output/Assembly.pdf
+      
+      - name: Grip Generate PDF from Markdown
+        run: grip docs/v2/Assembly.md --export output/Assembly.html
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
         with:
           name: Assembly-PDF
           path: output/Assembly.pdf
+          path: output/Assembly.html
 
