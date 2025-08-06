@@ -13,9 +13,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc
-
       - name: Create Outputdir
         run: mkdir -p output 
       
@@ -33,11 +30,18 @@ jobs:
       - name: Grip Generate PDF from Markdown
         run: grip docs/v2/Assembly.md --export output/Assembly.html
 
-      - name: Install wkhtmltopdf
-        run: sudo apt-get install -y wkhtmltopdf
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      - name: Convert HTML to PDF
-        run: wkhtmltopdf output/Assembly.html output/Assembly.pdf
+      - name: Install Puppeteer
+        run: |
+          npm install puppeteer
+
+      - name: Convert HTML to PDF with Puppeteer
+        run: |
+          node scripts/convert-to-pdf.js output/Assembly.html output/Assembly.pdf
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
