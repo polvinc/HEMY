@@ -15,9 +15,6 @@ jobs:
 
       - name: Create output dir
         run: mkdir output 
-
-      - name: Create htmoutput dir
-        run: mkdir htmoutput
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,7 +25,9 @@ jobs:
         run: pip install grip
 
       - name: Grip Generate PDF from Markdown
-        run: grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
+        run: |
+          mkdir htmoutput
+          grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
 
       - name: Copy Images files
         run: cp -rv docs/v2/pictures htmhOutput
