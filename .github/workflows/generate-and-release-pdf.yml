@@ -16,10 +16,12 @@ jobs:
       - name: Install pandoc
         run: sudo apt-get install -y pandoc
 
+      - name: Create Outputdir
+        run: mkdir -p output 
+        
       - name: Generate PDF from Markdown
-        run: |
-          mkdir -p output ; pandoc docs/v2/Assembly.md -o output/Assembly.pdf
-
+        run: pandoc docs/v2/Assembly.md -o output/Assembly.pdf
+        
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
         with:
