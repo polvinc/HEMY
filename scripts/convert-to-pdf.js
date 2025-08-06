@@ -10,16 +10,18 @@ if (!inputHtml || !outputPdf) {
   process.exit(1);
 }
 
-(async () => {
-  const htmlPath = path.resolve(__dirname, inputHtml);
-  const pdfPath = path.resolve(__dirname, outputPdf);
+// Resolve paths relative to the working directory (not script directory)
+const htmlPath = path.resolve(process.cwd(), inputHtml);
+const pdfPath = path.resolve(process.cwd(), outputPdf);
 
+(async () => {
   const browser = await puppeteer.launch({
     headless: 'new',
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
   const page = await browser.newPage();
+
   const content = fs.readFileSync(htmlPath, 'utf8');
   await page.setContent(content, { waitUntil: 'networkidle0' });
 
