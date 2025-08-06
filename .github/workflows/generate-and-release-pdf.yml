@@ -13,8 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create Outputdir
-        run: mkdir -p output htmoutput
+      - name: Create output dir
+        run: mkdir -p output 
+
+      - name: Create htmoutput dir
+        run: mkdir -p htmoutput
       
       - name: Set up Python
         uses: actions/setup-python@v5
