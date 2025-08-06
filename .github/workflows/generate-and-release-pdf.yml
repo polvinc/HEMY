@@ -22,7 +22,7 @@ jobs:
           pandoc docs/v2/Assembly.md -o output/Assembly.pdf
 
       - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Assembly-PDF
           path: output/Assembly.pdf
