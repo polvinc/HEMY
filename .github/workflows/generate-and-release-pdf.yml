@@ -28,7 +28,7 @@ jobs:
         run: pip install grip
         
       - name: Copy Images files
-        run: cp -r docs/v2/pictures --export output/
+        run: cp -r docs/v2/pictures output/
         
       - name: Grip Generate PDF from Markdown
         run: grip docs/v2/Assembly.md --export output/Assembly.html
