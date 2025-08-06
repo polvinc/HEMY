@@ -26,9 +26,6 @@ jobs:
 
       - name: Install Grip
         run: pip install grip
-        
-      - name: Generate PDF from Markdown
-        run: pandoc docs/v2/Assembly.md -o output/Assembly.pdf
       
       - name: Grip Generate PDF from Markdown
         run: grip docs/v2/Assembly.md --export output/Assembly.html
