@@ -13,6 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Install translate-shell
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y translate-shell
+
       - name: Create Outputdir
         run: mkdir -p output htmhOutput
       
