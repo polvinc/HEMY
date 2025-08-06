@@ -15,7 +15,7 @@ const htmlFile = path.basename(inputHtml);
 
 (async () => {
   // Start local HTTP server to serve HTML + images
-  const port = 8080;
+  const port = 8082;
   const server = exec(`npx http-server ${serveDir} -p ${port}`);
 
   // Wait a bit to ensure server starts
