@@ -112,10 +112,34 @@ def process_line(line, dictionary):
     return translated + "\n"
 
 def main():
-    parser = argparse.ArgumentParser(description="Traduction intelligente Markdown avec dictionnaire de prétraitement.")
-    parser.add_argument("input_file", nargs="?", default="Assembly.md", help="Fichier Markdown source")
-    parser.add_argument("output_file", nargs="?", default="Auto-Translate-Assemblage.md", help="Fichier Markdown traduit")
-    parser.add_argument("--dict", default="termes.txt", help="Fichier de dictionnaire des termes techniques")
+    parser = argparse.ArgumentParser(
+        description="""
+        Traduction intelligente d'un fichier Markdown en utilisant un dictionnaire de prétraitement.
+
+        Ce script lit un fichier Markdown source, applique une traduction automatique en tenant compte 
+        d'un dictionnaire personnalisé de termes techniques, puis génère un nouveau fichier traduit.
+        """
+    )
+
+    parser.add_argument(
+        "--in", dest="input_file",
+        default="Assembly.md",
+        help="Fichier Markdown source à traduire (par défaut : 'Assembly.md')"
+    )
+
+    parser.add_argument(
+        "--out", dest="output_file",
+        default="Auto-Translate-Assemblage.md",
+        help="Fichier Markdown de sortie avec contenu traduit (par défaut : 'Auto-Translate-Assemblage.md')"
+    )
+
+    parser.add_argument(
+        "--dict",
+        default="termes.txt",
+        help="Fichier de dictionnaire des termes techniques (par défaut : 'termes.txt')"
+    )
+
+
     args = parser.parse_args()
 
     dictionary = load_dictionary(args.dict)
