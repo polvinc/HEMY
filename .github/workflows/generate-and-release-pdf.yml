@@ -24,11 +24,14 @@ jobs:
       - name: Install Grip
         run: pip install grip
         
-      - name: Prepare html image english
-        run: |
-          cp -r docs/v2/pictures htmhOutput/
-          grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
-          ls -l htmhOutput/*Grip Generate PDF from Markdown
+      - name: Copy Images files
+        run: cp -r docs/v2/pictures htmhOutput/
+        
+      - name: Grip Generate PDF from Markdown
+        run: grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
+
+      - name: Check content htmhOutput
+        run: ls -l htmhOutput/
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
