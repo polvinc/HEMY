@@ -26,9 +26,18 @@ jobs:
 
       - name: Install Grip
         run: pip install grip
-      
+        
+      - name: Copy Images files
+        run: cp -r docs/v2/pictures --export output/
+        
       - name: Grip Generate PDF from Markdown
         run: grip docs/v2/Assembly.md --export output/Assembly.html
+
+      - name: Install wkhtmltopdf
+        run: sudo apt-get install -y wkhtmltopdf
+
+      - name: Convert HTML to PDF
+        run: wkhtmltopdf output/Assembly.html output/Assembly.pdf
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
