@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create Outputdir
-        run: mkdir -p output 
+        run: mkdir -p output htmoutput
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,10 +25,10 @@ jobs:
         run: pip install grip
         
       - name: Copy Images files
-        run: cp -r docs/v2/pictures output/
+        run: cp -r docs/v2/pictures htmhOutput/
         
       - name: Grip Generate PDF from Markdown
-        run: grip docs/v2/Assembly.md --export output/Assembly.html
+        run: grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -41,7 +41,7 @@ jobs:
 
       - name: Convert HTML to PDF with Puppeteer
         run: |
-          node scripts/convert-to-pdf.js output/Assembly.html output/Assembly.pdf
+          node scripts/convert-to-pdf.js htmhOutput/Assembly.html output/Assembly.pdf
         
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
