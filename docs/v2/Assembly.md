@@ -8,13 +8,13 @@
 > If you're building HEMY, please read carefully, share feedback, and
 > check the [Discussions](https://github.com/polvinc/HEMY/discussions) tab for help and updates.
 
----
+___
 
 # 🛠️ HEMY v2 Assembly Guide
 
 This document walks you through the mechanical assembly of the HEMY v2 equatorial mount. Each section includes required parts, instructions, and suggested tips.
 
----
+___
 ## Overall parts view 
 
 The different parts the will be used in the current manual are presented here grouped by assembly groups. (E.g.: for the screw)
@@ -26,7 +26,7 @@ Above all, don't hesitate to open the [onshape 3D project](https://cad.onshape.c
 
 
 
----
+___
 
 ## Axis Assembly (common part)
 
@@ -52,7 +52,7 @@ Note: the original pressure screws shipped with the reducer have been replaced w
 
 Note: You need the T01 tool (Allen Key).
 
----
+___
 
 ## RA Axis Assembly
 
@@ -87,7 +87,7 @@ Due to the necessity to ensure that the reducer fits into the space, a little ma
 
 - Once the reducer is in place, remove the two screws indicated in blue on the photo (for later brake mount).
 
----
+___
 
 ### 🔧 Step 3: Brake Sub-Assembly
 
@@ -154,7 +154,7 @@ Results should look like :
 
 Mount the brake (C15) to its upper support plate (A07) using three M3x19mm spacers and M3x10 screws. Use M2 washers and screws where needed for the electrical interface. Install the GT2 16T pulley (C01) onto the brake shaft.
 
----
+___
 
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
 
@@ -200,7 +200,7 @@ This is the most delicate step — take your time!
 
 🎉 Congratulations! The RA axis sub-assembly is now complete — the most challenging part is done!
 
----
+___
 
 ## DEC Axis Assembly
 
@@ -218,7 +218,7 @@ This is the most delicate step — take your time!
 **Instructions:**  
 As in Step 1, attach the 70T main pulley to the second harmonic reducer. Ensure the correct screw orientation — consult the 3D model. Use the shorter replacement pressure screws provided.
 
----
+___
 
 ### 🔧 Step 6: Attach Cubes to Main Frame B
 
@@ -235,7 +235,7 @@ As in Step 1, attach the 70T main pulley to the second harmonic reducer. Ensure 
 **Instructions:**  
 Attach all six M4 corner cubes (C10) to the Main Frame B (A02) using M4x8 screws.
 
----
+___
 
 ### 🔧 Step 7: Mount DEC Reducer
 
@@ -262,7 +262,7 @@ Before proceeding with the extraction of these screws, ensure that the 9 connect
 
 Once aligned and fastened, remove the two blue-marked screws from the reducer (as shown in the photo).
 
----
+___
 
 ### 🔧 Step 8: Prepare Motor Assembly
 
@@ -281,7 +281,7 @@ Once aligned and fastened, remove the two blue-marked screws from the reducer (a
 **Instructions:**  
 Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers and fit the 166mm GT2 belt.
 
----
+___
 
 ### 🔧 Step 9: Mount Motor to Reducer
 
@@ -302,7 +302,7 @@ Position the motor assembly on the reducer. Use the M3x35 screws and M3x16 screw
 
 🎉 The DEC axis is now fully assembled!
 
----
+___
 
 ## Axis Frame Assembly
 
@@ -323,7 +323,7 @@ Position the motor assembly on the reducer. Use the M3x35 screws and M3x16 screw
 Position the RA and DEC sub-assemblies to form a right angle (90°) between the two main frame plates (A01 and A02). Align the corresponding mounting holes and loosely fasten them using M4x10 screws.  
 > ⚠️ Do not fully tighten the screws yet — the final squaring and reinforcement will be done with the lateral plates in later steps.
 
----
+___
 
 ## Dovetail Assembly
 
@@ -344,7 +344,7 @@ Position the RA and DEC sub-assemblies to form a right angle (90°) between the 
 **Instructions:**  
 Position the passthrough PCB onto the dovetail (A09) and secure the 3D-printed cover (B01) as shown.
 
----
+___
 
 ### 🔧 Step 12: Mount Dovetail on DEC Reducer
 
@@ -358,7 +358,7 @@ Position the passthrough PCB onto the dovetail (A09) and secure the 3D-printed c
 **Instructions:**  
 Route the cables through the reducer’s central cutout, then secure the dovetail (A09) to the DEC reducer using M3x30 screws.
 
----
+___
 
 ### 🔧 Step 13: Install Clamps
 
@@ -376,7 +376,7 @@ Insert the two clamps (A10) into the dovetail (A09), secure them using the M6x40
 
 🎉 The dovetail interface is now installed and ready to hold your telescope!
 
----
+___
 
 ## Lateral Plates and Electronics
 
@@ -394,7 +394,7 @@ Insert the two clamps (A10) into the dovetail (A09), secure them using the M6x40
 **Instructions:**  
 Attach the lateral plate (A04) to the RA/DEC frame to complete the squared bracket. Once aligned, tighten all previously loose screws to secure the overall structure.
 
----
+___
 
 ### 🔧 Step 15: Install Top Electronics
 
@@ -418,7 +418,7 @@ Attach the lateral plate (A04) to the RA/DEC frame to complete the squared brack
 Install two M3 corner cubes on the top plate. Mount the main assembled PCB (including brake driver, TMC5160s, and Teensy) on the top plate using the M3x8 spacers. Install the handle and antennas (Wi-Fi and GPS), and place the GPS antenna cover (B02).
 Make sure all cables are connected and routed cleanly.
 
----
+___
 
 ### 🔧 Step 16: Final Assembly of Top/Bottom/Lateral Plates
 
@@ -440,7 +440,7 @@ Make sure all cables are connected and routed cleanly.
 **Instructions:**  
 Secure the top plate (A05) to the mount structure first, ensuring all cabling is in place. Then attach the bottom plate (A06) and the remaining lateral plate (A03) to complete the enclosure.
 
----
+___
 
 ## Final Adjustments and Output Flange
 
@@ -460,7 +460,7 @@ Install the output flange (A11) onto the RA reducer. Then, mount the Vixen plate
 
 🎉 You have now fully assembled your HEMY mount!
 
----
+___
 
 ## ✅ Final Checklist Before First Use
 
@@ -475,7 +475,7 @@ Install the output flange (A11) onto the RA reducer. Then, mount the Vixen plate
 - [ ] No stray cables or obstructing elements
 - [ ] RA and DEC axes can rotate freely with appropriate torque on motors
 
----
+___
 
 ## 🧠 Flashing OnStepX Firmware
 
@@ -493,4 +493,4 @@ HEMY is designed to run with **OnStepX**, an open-source controller firmware for
 
 Once the firmware is flashed and the mount is powered, you’re ready to configure OnStep via Wi-Fi, serial, or compatible astronomy tools (INDI, ASCOM, etc).
 
----
+___
