@@ -1,4 +1,4 @@
-name: Generate Assembly PDF on every push
+name: Generate Assembly PDF on every push for test
 
 on:
   push:
