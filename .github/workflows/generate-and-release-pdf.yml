@@ -23,13 +23,13 @@ jobs:
 
       - name: Install Grip
         run: pip install grip
-        
-      - name: Copy Images files
-        run: cp -rv docs/v2/pictures htmhOutput/
-        
+
       - name: Grip Generate PDF from Markdown
         run: grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
 
+      - name: Copy Images files
+        run: cp -rv docs/v2/pictures htmhOutput
+        
       - name: Check content htmhOutput
         run: ls -l htmhOutput/
 
