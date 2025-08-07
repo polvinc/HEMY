@@ -1,3 +1,15 @@
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+.right-img {
+  width: 20%;
+  display: block;
+  margin: 0.5em 0;
+  text-align: right;
+}
+</style>
 
 # ⚠️ WORK IN PROGRESS – Assembly Guide in Progress!
 
@@ -131,24 +143,16 @@ ___
 
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
-<div style="flex: 1; flex-direction: column; text-align: right; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" width="20%" style="margin-bottom: 5px;">
-</div>
-
-
+<img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 #### 🔧 Step 3.2: Break preparation :
 The connecting screws of the break shall be replaced with longer M2 screws.
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" width="20%" style="margin-bottom: 5px;">
-</div>
+<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 For this you need to unscrew the following screws.
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" width="20%" style="margin-bottom: 5px;">
-</div>
+<img src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 As those screws are tighted strongly, you will need a strong screw driver. You shall be carefull whhile unscrewing, to avoid the internal springs to get out from coming out of their housing.
 
@@ -158,9 +162,7 @@ Replace the screws with the M2 screws.
 
 Results should look like :
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" width="20%" style="margin-bottom: 5px;">
-</div>
+<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
 
 Mount the brake (C15) to its upper support plate (A07) using three M3x19mm spacers and M3x10 screws. Use M2 washers and screws where needed for the electrical interface. Install the GT2 16T pulley (C01) onto the brake shaft.
 
@@ -169,19 +171,19 @@ ___
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
-  <div style="flex: 0 0 48%; max-width: 200px; margin-bottom: 10px;">
-    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="-margin-bottom: 5px;">
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" style="width: 30%; margin-bottom: 5px;">
   </div>
-  <div style="flex: 0 0 48%; max-width: 200px; margin-bottom: 10px;">
+  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" style="width: 30%; margin-bottom: 5px;">
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; max-width: 200px;">
+<div style="display: flex; justify-content: center; max-width: 100%;">
   <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg" style="width: 18%;">
 </div>
 
