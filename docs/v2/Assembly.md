@@ -131,8 +131,8 @@ ___
 
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
-<div style="text-align: right;">
-  <img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" style="width: 200px; display: block; margin: 0.5em 0;" />
+<div style="text-align: right; max-width: 200px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" style="display: block; margin: 0.5em 0;" />
 </div>
 
 
