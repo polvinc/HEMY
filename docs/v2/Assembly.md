@@ -131,7 +131,7 @@ ___
 
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
-<div style="flex: 1; flex-direction: column; text-align: inherit; max-width: 200px;">
+<div style="flex: 1; flex-direction: column; text-align: right; max-width: 200px;">
   <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" width="20%" style="margin-bottom: 5px;">
 </div>
 
