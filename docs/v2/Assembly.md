@@ -170,20 +170,19 @@ ___
 
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
 
-
 <div style="display: flex; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="width: 30%; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" style="width: 30%; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" style="width: 30%; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" width="30%">
 </div>
 <div style="display: flex; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" style="width: 30%; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" style="width: 30%; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" style="width: 30%; margin-bottom: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" width="30%" style="margin-right: 5px;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" width="30%">
 </div>
 
 <div style="display: flex; margin-bottom: 5px;">
-  <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg" style="width: 18%;">
+  <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg"  width="30%">
 </div>
 
 **Parts:**
