@@ -132,8 +132,9 @@ ___
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
 <div style="flex: 1; max-width: 200px;">
-  <img align="right" src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" width="20%" style="margin-bottom: 5px;">
+  <img align="left" src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" width="20%" style="margin-bottom: 5px;">
 </div>
+</p>
 
 #### 🔧 Step 3.2: Break preparation :
 The connecting screws of the break shall be replaced with longer M2 screws.
@@ -167,19 +168,19 @@ ___
 ### 🔧 Step 4: RA Assembly & Belt Tensioning
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
-  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
-    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="width: 30%; margin-bottom: 5px;">
+  <div style="flex: 0 0 48%; max-width: 200px; margin-bottom: 10px;">
+    <img src="pictures/2025-HEMY2-ASM-STEP04-01.jpg" style="-margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-03.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-05.jpg" style="width: 30%; margin-bottom: 5px;">
   </div>
-  <div style="flex: 0 0 48%; max-width: 48%; margin-bottom: 10px;">
+  <div style="flex: 0 0 48%; max-width: 200px; margin-bottom: 10px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-02.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-04.jpg" style="width: 30%; margin-bottom: 5px;">
     <img src="pictures/2025-HEMY2-ASM-STEP04-06.jpg" style="width: 30%; margin-bottom: 5px;">
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; max-width: 100%;">
+<div style="display: flex; justify-content: center; max-width: 200px;">
   <img src="pictures/2025-HEMY2-ASM-STEP04-07.jpg" style="width: 18%;">
 </div>
 
