@@ -1,16 +1,3 @@
-<style>
-img {
-  max-width: 100%;
-  height: auto;
-}
-.right-img {
-  width: 20%;
-  display: block;
-  margin: 0.5em 0;
-  text-align: right;
-}
-</style>
-
 # ⚠️ WORK IN PROGRESS – Assembly Guide in Progress!
 
 > **This assembly guide is still being written and improved.**
@@ -143,16 +130,16 @@ ___
 
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
-<img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" style="float:right;width:20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" alt="Description of the image" width="30%" style="float:right;" />
 
 #### 🔧 Step 3.2: Break preparation :
 The connecting screws of the break shall be replaced with longer M2 screws.
 
-<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" style="float:right;width:20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-04.jpg" alt="Description of the image" width="30%" style="float:right;" />
 
 For this you need to unscrew the following screws.
 
-<img src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" alt="Description of the image" style="float:right;width:20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-05.jpg" alt="Description of the image" width="30%" style="float:right;" />
 
 As those screws are tighted strongly, you will need a strong screw driver. You shall be carefull whhile unscrewing, to avoid the internal springs to get out from coming out of their housing.
 
@@ -162,7 +149,7 @@ Replace the screws with the M2 screws.
 
 Results should look like :
 
-<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" style="float:right;width:20%;" />
+<img src="pictures/2025-HEMY2-ASM-STEP03-06.jpg" alt="Description of the image" width="30%" style="float:right;" />
 
 Mount the brake (C15) to its upper support plate (A07) using three M3x19mm spacers and M3x10 screws. Use M2 washers and screws where needed for the electrical interface. Install the GT2 16T pulley (C01) onto the brake shaft.
 
