@@ -115,7 +115,7 @@ En raison de la nécessité de s'assurer que le réducteur s'intègre dans l'esp
 
 
 #### 🔧 Étape 3.1: Sous-assemblage de l'arbre:
-1. Le broyage de l'arbre est insuffisant. Il est nécessaire de terminer ce broyage pour s'intégrer dans la pièce de connexion de frein. Effectuez du broyage sur toute la longueur de l'arbre.
+1. Le meulage de l'arbre est insuffisant. Il est nécessaire de compléter ce meulage pour s'intégrer dans la pièce de connexion de frein. Effectuez meulage sur toute la longueur de l'arbre.
 2. Sur une pause, Assistance Assemblez l'espaceur avec des vis M3.
 3. Ensuite, à partir de ce support, assemblez de gauche à droite sur l'arbre (Remarque: La courroie doit être insérée pour contourner la poulie):
 1. Break Support
