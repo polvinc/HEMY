@@ -131,10 +131,10 @@ ___
 
 The result should be consistent to the following (save for the belt that shall have been inserted and cannot be seen here) :
 
-<div style="flex: 1; max-width: 200px;">
-  <img align="left" src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" width="20%" style="margin-bottom: 5px;">
+<div style="text-align: right;">
+  <img src="pictures/2025-HEMY2-ASM-STEP03-03.jpg" style="width: 20%; display: block; margin: 0.5em 0;" />
 </div>
-</p>
+
 
 #### 🔧 Step 3.2: Break preparation :
 The connecting screws of the break shall be replaced with longer M2 screws.
