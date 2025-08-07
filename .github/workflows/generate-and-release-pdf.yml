@@ -1,9 +1,15 @@
 name: Generate Assembly PDF on every push for test
 
+# on:
+#   push:
+#     branches:
+#       - '**'      # Runs on every branch push
+
 on:
-  push:
+  pull_request:
+    types: [opened, synchronize, reopened]
     branches:
-      - '**'      # Runs on every branch push
+      - '**'
 
 jobs:
   build:
@@ -66,4 +72,3 @@ jobs:
           name: Assembly-PDF
           path: |
             output/*
-            htmhOutput/*
