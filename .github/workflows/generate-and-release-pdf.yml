@@ -6,6 +6,9 @@ name: Generate Assembly PDF on every push for test
 #       - '**'      # Runs on every branch push
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
     branches:
