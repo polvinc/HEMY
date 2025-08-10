@@ -84,6 +84,14 @@ They can be ordered here : [https://jlc3dp.com/](https://jlc3dp.com/)
 |40 | 1   | PCB05   | Brake Driver 1.1                      | $16        | https://jlcpcb.com/ |
 |41 | 2   | PCB06   | TMC5160 Stepper Drivers               | $14        | Farnell 3019059 |
 
+### New elements 
+
+
+| # | Qty | Ref     | Description                          | Est. Price | Link |
+|---|-----|---------|--------------------------------------|------------|------|
+|63 | 1   | CABLE1   | 12V Internal power transmission   | -       | 60 cm Flexible cable AWG 22 (E.g.: https://catalog.belden.com/techdata/EN/8442_techdata.pdf )  |
+
+> **Note** : Formula for cable sections could be found for example here : https://www.runsom.com/fr/technology/american-wire-gauge-chart/#calculation-formulafor-wire-gauge
 ---
 
 ## 🔩 Fasteners & Hardware
@@ -139,7 +147,7 @@ The list may not be complete.
 
 | #  | Ref | Description                                      |
 |----|-----|--------------------------------------------------|
-|42  | T01 | Allen key ball-end hex keys  Size 1.5 mm   ![AllenKeyBall-endHex.jpg](pictures/AllenKeyBall-endHex.jpg) |
+|62  | T01 | Allen key ball-end hex keys  Size 1.5 mm   ![AllenKeyBall-endHex.jpg](pictures/AllenKeyBall-endHex.jpg) |
 
 ---
 

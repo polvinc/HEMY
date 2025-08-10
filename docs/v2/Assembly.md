@@ -407,7 +407,7 @@ ___
 
 
 **Parts:**
-- All PCBs (assembled, see `pcb_assembly.md`)  
+- All PCBs (assembled, see `pcb_assembly.md``)  
 - C13 – Spacer M3x8mm FF (x4)  
 - Handle, GPS antenna, GPS cover
 
@@ -451,9 +451,12 @@ ___
 **Parts:**
 - A11 – Output Flange  
 - C18 – Vixen Plate
+- S06 - Hex socket head cap M3x30 (x12)
+- S16 - Socket button head M3x5  (x2)
 
 **Instructions:**  
-Install the output flange (A11) onto the RA reducer. Then, mount the Vixen plate (C18) securely.
+Install the output flange (A11) onto the RA reducer. 
+Then, mount the Vixen plate (C18) securely.
 
 🎉 You have now fully assembled your HEMY mount!
 
