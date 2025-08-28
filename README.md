@@ -65,6 +65,15 @@ This project is under continuous development. Initial performance tests are prom
 ![Drawing 2](hardware/drawings/v2.0/jpg/HEMY2-MainDrawing_02.jpeg)
 ![Drawing 3](hardware/drawings/v2.0/jpg/HEMY2-MainDrawing_03.jpeg)
 
+---
+
+### Join the HEMY community on Discord ✨
+
+We’ve opened a **Discord server** to bring together users, builders, and contributors around the open-source harmonic mount.
+
+👉 [https://discord.gg/fV6XHkTk](https://discord.gg/fV6XHkTk)
+
+Share ideas, get help, and follow the project’s progress with fellow astronomy enthusiasts.
 
 ---
 
