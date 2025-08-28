@@ -1,0 +1,77 @@
+name: Generate Assembly PDF on every push for test
+
+# on:
+#   push:
+#     branches:
+#       - '**'      # Runs on every branch push
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install translate-shell
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y translate-shell
+
+      - name: Create Outputdir
+        run: mkdir -p output htmhOutput
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Grip
+        run: pip install grip
+
+      - name: Grip Generate PDF from Markdown
+        run: grip docs/v2/Assembly.md --export htmhOutput/Assembly.html
+
+      - name: Translate then produce html
+        run: |
+          ./scripts/smart_translate_md.py --in docs/v2/Assembly.md --out output/Assembly_fr.md --dict scripts/termes.txt
+          grip output/Assembly_fr.md --export htmhOutput/Assembly_fr.html
+
+      - name: Copy Images files
+        run: cp -rv docs/v2/pictures htmhOutput
+        
+      - name: Check content htmhOutput
+        run: ls -l htmhOutput/
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Puppeteer
+        run: |
+          npm install puppeteer
+
+      - name: Convert HTML to PDF with Puppeteer
+        run: |
+          node scripts/convert-to-pdf.js htmhOutput/Assembly.html output/Assembly.pdf 8082
+
+      - name: Convert HTML to PDF with Puppeteer (fr)
+        run: |
+          node scripts/convert-to-pdf.js htmhOutput/Assembly_fr.html output/Assembly_fr.pdf 8083
+        
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Assembly-PDF
+          path: |
+            output/*
