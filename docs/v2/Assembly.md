@@ -408,7 +408,7 @@ ___
 
 **Parts:**
 - All PCBs (assembled, see `pcb_assembly.md`)  
-- C13 – Spacer M3x8mm FF (x4)  
+- C13 – Spacer M3x8mm FF (x3)  
 - Handle, GPS antenna, GPS cover
 
 **Instructions:**  
