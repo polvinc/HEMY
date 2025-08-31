@@ -42,7 +42,7 @@
 #define SERIAL_C                Serial1          // Remote
 
 #define SERIAL_GPS              Serial2          // Hardware GPS
-#define SERIAL_GPS_BAUD         9600
+#define SERIAL_GPS_BAUD         115200
 
 #define AUX0_PIN                37               // Status LED
 #define STATUS_LED_PIN          AUX0_PIN         // Default LED Cathode (-)
