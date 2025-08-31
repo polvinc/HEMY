@@ -39,7 +39,7 @@ ___
 **Parts:**
 - C06 – Harmonic Reducer ZXK17-100 (x2)  
 - A12 – Main Pulley (70T) (x2)
-- S07 - Cone point hex socket set M3x3 (x12)
+- S07 - Cone point hex socket set M3x3 (x3)
   
 **Instructions:**  
 - Foreach Pulley (70T) and Harmonic Reducer
@@ -104,10 +104,10 @@ ___
 - C01 – Pulley GT2 16T (x1)
 
 - C12 – Spacer M3x19mm FF (x3)  
-- S05 – M3x10 Screws (x3)
+- S05 – M3x10 Screws (x6)
   
-- S04 – M2x10 Screws (x2)  
-- S01 – Washer M2 (x2)
+- S04 – M2x10 Screws (x3)  
+- S01 – Washer and nuts M2 (x3)
 - C04 - GT2 Belt – 200 mm
 
 **Instructions:**
@@ -180,8 +180,8 @@ ___
 - C02 – Pulley GT2 20T (x1)  
 - C07 – NEMA17 Motor (x1)  
 - C11 – Spacer M3x21mm FM (x3)  
-- S15 – M3x35 Screws (x2)  
-- S06 – M3x30 Screws (x2)  
+- S15 – M3x35 Screws (x3)  
+- S06 – M3x16 Screws (x2)  
 - S10 – M3 Nuts (x4)
 
 **Instructions:**  
@@ -211,6 +211,7 @@ ___
 **Parts:**
 - C06 – Harmonic Reducer ZXK17-100 (x1)  
 - A12 – Main Pulley (70T) (x1)
+- S07 - Cone point hex socket set M3x3 (x3)
 
 **Instructions:**  
 As in Step 1, attach the 70T main pulley to the second harmonic reducer. Ensure the correct screw orientation — consult the 3D model. Use the shorter replacement pressure screws provided.
@@ -227,7 +228,7 @@ ___
 **Parts:**
 - A02 – Main Frame B (x1)  
 - C10 – Square Corner Screw M4 (x6)  
-- S19 – M4x8 Screws (x6)
+- S19 – M4x10 Screws (x6)
 
 **Instructions:**  
 Attach all six M4 corner cubes (C10) to the Main Frame B (A02) using M4x8 screws.
@@ -273,7 +274,7 @@ ___
 - C02 – Pulley GT2 20T (x1)  
 - C03 – GT2 Belt 166mm (x1)  
 - C11 – Spacer M3x21mm FM (x3)
-- S16 - Socket button head M3x5 (x3)
+- S16 - Socket button head M3x12 (x3)
 
 **Instructions:**  
 Mount the GT2 20T pulley onto the NEMA17 motor shaft. Add the three 21mm spacers and fit the 166mm GT2 belt.
@@ -337,6 +338,7 @@ ___
 - B01 – Dovetail PCB Cover (x1)  
 - PCB07 – Dovetail passthrough board (experimental)  
 - A09 – Vixen/Losmandy Dovetail (x1)
+- S18 – M4x10 Screws (x2)
 
 **Instructions:**  
 Position the passthrough PCB onto the dovetail (A09) and secure the 3D-printed cover (B01) as shown.
