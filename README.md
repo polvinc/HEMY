@@ -71,7 +71,7 @@ This project is under continuous development. Initial performance tests are prom
 
 We’ve opened a **Discord server** to bring together users, builders, and contributors around the open-source harmonic mount.
 
-👉 [https://discord.gg/fV6XHkTk](https://discord.gg/fV6XHkTk)
+👉 [https://discord.gg/SYYkTSaXZt](https://discord.gg/SYYkTSaXZt)
 
 Share ideas, get help, and follow the project’s progress with fellow astronomy enthusiasts.
 
