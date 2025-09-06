@@ -451,8 +451,10 @@ ___
 </div>
 
 **Parts:**
-- A11 – Output Flange  
+- A11 – Output Flange
+- S06 – M3x30 Screws (x12) 
 - C18 – Vixen Plate
+- S08 – M5x10 Screws (x4) 
 
 **Instructions:**  
 Install the output flange (A11) onto the RA reducer. Then, mount the Vixen plate (C18) securely.
